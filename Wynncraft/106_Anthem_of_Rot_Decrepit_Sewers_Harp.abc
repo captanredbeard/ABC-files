@@ -1,0 +1,156 @@
+X: 1
+T: 106_Anthem_of_Rot_Decrepit_Sewers_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:D % 2 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+x2 [DB,]x3 [DB,]x| \
+x2 [DB,]x3 [DB,]x| \
+x2 [DB,]x3 [DB,]x| \
+x2 [C^A,]x3 [C^A,]x|
+x2 [DB,]x3 [DB,]x| \
+x2 [EC]x3 [DB,]x| \
+x2 [EC]x3 [DB,]x| \
+x2 [C^A,]x3 [DB,]x|
+Bx [DB,]B Fx [DB,]x/2^A/2-| \
+[B/2-^A/2]B/2x [BDB,]c dx [BDB,]x| \
+ex [eDB,]x dx [dDB,]B| \
+cx [C^A,]x ^AB [cC^A,]d|
+Bx [BDB,]^A Bx [FDB,]E| \
+G=A [GEC]x Fx [DB,]x| \
+FG [FEC]^A Bc [BDB,]x| \
+^Ax [^GC^A,]^A Bx [DB,]x|
+x2 [DB,]x3 [DB,]x| \
+x2 [DB,]x3 [DB,]x| \
+x2 [DB,]x3 [DB,]x| \
+x2 [C^A,]x3 [C^A,]x|
+x2 [DB,]x3 [DB,]x| \
+x2 [EC]x3 [DB,]x| \
+x2 [EC]x3 [DB,]x| \
+x2 [C^A,]x3 [DB,]x|
+Bx [BDB,][=ADB,] [FD]x [DB,][EDCB,]| \
+[FD]A [FDB,][EDB,] [FD]x [DB,][DB,]| \
+[FD]x [BDB,][DB,] [d^A,][cB,] [BDB,][dDB,]| \
+[cF]x [C^A,][C^A,] [cC][BB,] [^AC^A,][FC^A,^A,]|
+[BF]x [BDB,][FDB,] [dF]E [BFDB,][DB,]| \
+[eE]x [eEDC][d/2-E/2-C/2-][d/2c/2-E/2C/2] [d/2-c/2F/2-][d/2F/2]x [DB,][DB,]| \
+[eE][eF] [eEC][d/2-E/2-C/2-C/2-][d/2c/2-E/2C/2C/2] [d/2-c/2D/2-][d/2D/2][cE] [BDB,][DB,B,]| \
+[^AC][BD] [cC^A,][dC^A,F,] [BB,]x [BFDB,][BFDB,]|
+[BF][=AE] [FDB,][DB,] [FD]x [DB,][DB,]| \
+[FD][EC] [DB,][EDCB,] [FD]x [DB,][DB,]| \
+[FD]x [DB,][FDB,] [AC]x [FDB,F,][ADB,B,]| \
+[BC]x [C^A,][C^A,] [^AF,]x [C^A,][^AC^A,^A,]|
+[BB,][B/2C/2-][B/2C/2] [BDB,][=AEDB,] [BD][AC] [=GDB,][DB,]| \
+[FE][ED] [FEC][GEC] [FD]x [DB,][DB,]| \
+[F/2-E/2-][G/2-F/2E/2][G/2F/2-D/2-][G/2-F/2D/2] [G/2F/2-E/2-C/2-][A/2-F/2E/2C/2][B/2-A/2E/2-D/2-C/2-][B/2E/2D/2C/2] [dD][cC] [BDB,][DB,]| \
+[^AC][^AD] [^AC^A,][^G/2-C/2-^A,/2-^A,/2-][^A/2-^G/2C/2B,/2-^A,/2^A,/2] [B/2-^A/2B,/2]B/2x [DB,][DB,]|
+x2 [DB,][DB,] x2 [DB,][DB,]| \
+x2 [EC][EC] x2 [DB,][DB,]| \
+x2 [EC][EC] x2 [DB,][DB,]| \
+x2 [C^A,][C^A,] x2 [DB,][DB,]|
+[BF][B/2-E/2-][c/2-B/2E/2] [d/2-c/2F/2-D/2-B,/2-][d/2F/2D/2B,/2][cEDB,] [BF][=AE] [BDB,][B/2-D/2-B,/2-][B/2A/2-D/2B,/2]| \
+[c/2-A/2E/2-][c/2E/2]d [eDB,][dFDB,] [cF]B [FDB,][DB,]| \
+[=GE][AE] [G/2-E/2-D/2-B,/2-][G/2F/2-E/2D/2B,/2][F/2E/2D/2-B,/2-][E/2-D/2B,/2] [F/2-E/2D/2-][F/2D/2]E [DB,][EDB,]| \
+[FC]x [C^A,][C^A,] [^AC][BC] [c/2-F/2C/2-^A,/2-][c/2F/2C/2^A,/2][d/2-F/2C/2-^A,/2-][d/2F/2-C/2^A,/2]|
+[B/2-F/2B,/2-][B/2B,/2]x [BDB,][BDB,] [FD]x [DB,][DB,]| \
+[GC][=AE] [GEC][EC] [FD]x [DB,][DB,]| \
+[G/2-E/2-][A/2-G/2E/2][A/2G/2-E/2][G/2E/2] [F/2-E/2-C/2-][G/2-F/2E/2C/2][G/2F/2-E/2-C/2-][F/2E/2C/2] [F/2-D/2-][A/2-F/2D/2][B/2-A/2F/2-][B/2F/2] [FDB,][DB,]| \
+[FC]G [FC^A,][^A/2-C/2-^A,/2-][B/2^A/2C/2^A,/2] Bx [BDB,][BDB,]|
+[dF]c [BDB,][DB,] [BF]x [BDB,][=ADB,]| \
+FE [FEDB,][DB,] Fx [DB,][EDCB,]| \
+[GD][FC] [EDB,][DB,B,] [FB,][E^A,] [DB,][DCB,]| \
+[EC]x [C^A,][C^A,] [FC]x [C^A,][^AFC^A,]|
+[BF]F/2F/2 [FDB,F,][EDB,] [FF,]E [DB,][DB,]| \
+[EG,]F [EC][ECF,] [DF,]x [DB,][DB,]| \
+[CG,]x [EDC=A,][EC] [DG,]C/2-[C/2F,/2] [DB,F,][DB,]| \
+[^A,F,]G, [^AC^A,F,][C/2-^A,/2-][B/2C/2^A,/2-^A,/2] [B/2-B,/2-^A,/2][B/2B,/2]x [DB,][DB,]|
+[BFB,][FB,] x6| \
+x8| \
+x8| \
+x8|
+B/2-[B/2^A/2-][B/2-^A/2][B/2^A/2-] [B/2-^A/2]B/2[B^A] [BF]=A GF| \
+[GE]B [GE]x/2F/2 Fx3| \
+[ED][DB,] [ED]E DC B,x| \
+[FC^A,][GDF,] [F/2-C/2-^A,/2-][F/2C/2B,/2-^A,/2][^A/2-B,/2^A,/2-][^A/2^A,/2] [BFB,]x3|
+x2 [DB,]x3 [DB,]x| \
+x2 [DB,]x3 [DB,]x| \
+x2 [DB,]x3 [DB,]x| \
+x2 [C^A,]x3 [C^A,]x|
+x2 [DB,]x3 [DB,]x| \
+x2 [EC]x3 [DB,]x| \
+x2 [EC]x3 [DB,]x| \
+x2 [C^A,]x3 [DB,]x|
+Bx [DB,]B Fx [DB,]x/2^A/2-| \
+[B/2-^A/2]B/2x [BDB,]c dx [BDB,]x| \
+ex [eDB,]x dx [dDB,]B| \
+cx [C^A,]x ^AB [cC^A,]d|
+Bx [BDB,]^A Bx [FDB,]E| \
+G=A [GEC]x Fx [DB,]x| \
+FG [FEC]^A Bc [BDB,]x| \
+^Ax [^GC^A,]^A Bx [DB,]x|
+x2 [DB,]x3 [DB,]x| \
+x2 [DB,]x3 [DB,]x| \
+x2 [DB,]x3 [DB,]x| \
+x2 [C^A,]x3 [C^A,]x|
+x2 [DB,]x3 [DB,]x| \
+x2 [EC]x3 [DB,]x| \
+x2 [EC]x3 [DB,]x| \
+x2 [C^A,]x3 [DB,]x|
+Bx [BDB,][=ADB,] [FD]x [DB,][EDCB,]| \
+[FD]A [FDB,][EDB,] [FD]x [DB,][DB,]| \
+[FD]x [BDB,][DB,] [d^A,][cB,] [BDB,][dDB,]| \
+[cF]x [C^A,][C^A,] [cC][BB,] [^AC^A,][FC^A,^A,]|
+[BF]x [BDB,][FDB,] [dF]E [BFDB,][DB,]| \
+[eE]x [eEDC][d/2-E/2-C/2-][d/2c/2-E/2C/2] [d/2-c/2F/2-][d/2F/2]x [DB,][DB,]| \
+[eE][eF] [eEC][d/2-E/2-C/2-C/2-][d/2c/2-E/2C/2C/2] [d/2-c/2D/2-][d/2D/2][cE] [BDB,][DB,B,]| \
+[^AC][BD] [cC^A,][dC^A,F,] [BB,]x [BFDB,][BFDB,]|
+[BF][=AE] [FDB,][DB,] [FD]x [DB,][DB,]| \
+[FD][EC] [DB,][EDCB,] [FD]x [DB,][DB,]| \
+[FD]x [DB,][FDB,] [AC]x [FDB,F,][ADB,B,]| \
+[BC]x [C^A,][C^A,] [^AF,]x [C^A,][^AC^A,^A,]|
+[BB,][B/2C/2-][B/2C/2] [BDB,][=AEDB,] [BD][AC] [=GDB,][DB,]| \
+[FE][ED] [FEC][GEC] [FD]x [DB,][DB,]| \
+[F/2-E/2-][G/2-F/2E/2][G/2F/2-D/2-][G/2-F/2D/2] [G/2F/2-E/2-C/2-][A/2-F/2E/2C/2][B/2-A/2E/2-D/2-C/2-][B/2E/2D/2C/2] [dD][cC] [BDB,][DB,]| \
+[^AC][^AD] [^AC^A,][^G/2-C/2-^A,/2-^A,/2-][^A/2-^G/2C/2B,/2-^A,/2^A,/2] [B/2-^A/2B,/2]B/2x [DB,][DB,]|
+x2 [DB,][DB,] x2 [DB,][DB,]| \
+x2 [EC][EC] x2 [DB,][DB,]| \
+x2 [EC][EC] x2 [DB,][DB,]| \
+x2 [C^A,][C^A,] x2 [DB,][DB,]|
+[BF][B/2-E/2-][c/2-B/2E/2] [d/2-c/2F/2-D/2-B,/2-][d/2F/2D/2B,/2][cEDB,] [BF][=AE] [BDB,][B/2-D/2-B,/2-][B/2A/2-D/2B,/2]| \
+[c/2-A/2E/2-][c/2E/2]d [eDB,][dFDB,] [cF]B [FDB,][DB,]| \
+[=GE][AE] [G/2-E/2-D/2-B,/2-][G/2F/2-E/2D/2B,/2][F/2E/2D/2-B,/2-][E/2-D/2B,/2] [F/2-E/2D/2-][F/2D/2]E [DB,][EDB,]| \
+[FC]x [C^A,][C^A,] [^AC][BC] [c/2-F/2C/2-^A,/2-][c/2F/2C/2^A,/2][d/2-F/2C/2-^A,/2-][d/2F/2-C/2^A,/2]|
+[B/2-F/2B,/2-][B/2B,/2]x [BDB,][BDB,] [FD]x [DB,][DB,]| \
+[GC][=AE] [GEC][EC] [FD]x [DB,][DB,]| \
+[G/2-E/2-][A/2-G/2E/2][A/2G/2-E/2][G/2E/2] [F/2-E/2-C/2-][G/2-F/2E/2C/2][G/2F/2-E/2-C/2-][F/2E/2C/2] [F/2-D/2-][A/2-F/2D/2][B/2-A/2F/2-][B/2F/2] [FDB,][DB,]| \
+[FC]G [FC^A,][^A/2-C/2-^A,/2-][B/2^A/2C/2^A,/2] Bx [BDB,][BDB,]|
+[dF]c [BDB,][DB,] [BF]x [BDB,][=ADB,]| \
+FE [FEDB,][DB,] Fx [DB,][EDCB,]| \
+[GD][FC] [EDB,][DB,B,] [FB,][E^A,] [DB,][DCB,]| \
+[EC]x [C^A,][C^A,] [FC]x [C^A,][^AFC^A,]|
+[BF]F/2F/2 [FDB,F,][EDB,] [FF,]E [DB,][DB,]| \
+[EG,]F [EC][ECF,] [DF,]x [DB,][DB,]| \
+[CG,]x [EDC=A,][EC] [DG,]C/2-[C/2F,/2] [DB,F,][DB,]| \
+[^A,F,]G, [^AC^A,F,][C/2-^A,/2-][B/2C/2^A,/2-^A,/2] [B/2-B,/2-^A,/2][B/2B,/2]x [DB,][DB,]|
+[BFB,][FB,] x6| \
+x8| \
+x8| \
+x8|
+B/2-[B/2^A/2-][B/2-^A/2][B/2^A/2-] [B/2-^A/2]B/2[B^A] [BF]=A GF| \
+[GE]B [GE]x/2F/2 Fx3| \
+[ED][DB,] [ED]E DC B,x| \
+[FC^A,][GDF,] [F/2-C/2-^A,/2-][F/2C/2B,/2-^A,/2][^A/2-B,/2^A,/2-][^A/2^A,/2] [BFB,]

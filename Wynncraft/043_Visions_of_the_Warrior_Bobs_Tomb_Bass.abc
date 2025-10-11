@@ -1,0 +1,80 @@
+X: 1
+T: 043_Visions_of_the_Warrior_Bobs_Tomb_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Dorian mode tune
+K:F# % 6 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+A,,,x3 G,,,x3| \
+A,,,x3 E,,,x3| \
+A,,,x3 G,,,x3| \
+A,,,x6x|
+A,,,x2G,,, G,,,x G,,,x| \
+A,,,A,,, x2 E,,,x3| \
+A,,,x3 G,,,E,,, G,,,x| \
+A,,,x3 D,,x3|
+A,,,x2G,,, G,,,x G,,,x| \
+A,,,A,,, x2 E,,,x3| \
+A,,,x3 G,,,E,,, G,,,x| \
+A,,,x3 C,,x3|
+A,,,x2G,,, G,,,x G,,,x| \
+A,,,A,,, x2 E,,,x3| \
+A,,,x3 G,,,E,,, G,,,x| \
+A,,,x3 E,,,x3|
+A,,,x2G,,, G,,,x G,,,x| \
+A,,,A,,, x2 E,,,x3| \
+A,,,x3 G,,,E,,, G,,,x| \
+A,,,x3 C,,x3|
+A,,,x D,,[F,,G,,,] [E,,G,,,]x [F,,G,,,]x| \
+[E,,A,,,][F,,A,,,] D,,x [A,,,E,,,]x2G,,,| \
+[A,,,E,,,]A,,, G,,,E,,, G,,,E,,, G,,,G,,,| \
+[A,,,A,,,]x3 E,,,x3|
+[D,,D,,]x A,,,x [C,,C,,]x A,,,x| \
+[D,,D,,]x A,,,x [C,,C,,]x A,,,x| \
+[E,,E,,]x A,,,x [F,,C,,]x A,,,C,,| \
+[D,,D,,]x3 [A,,,A,,,]x3|
+[E,,E,,]x A,,,E,, [F,,F,,]D,, [C,,A,,,]C,,| \
+[D,,D,,]x6x| \
+A,,,x3 G,,,x3| \
+A,,,x3 E,,,x3|
+A,,,x3 G,,,x3| \
+A,,,x6x| \
+A,,,x2G,,, G,,,x G,,,x| \
+A,,,A,,, x2 E,,,x3|
+A,,,x3 G,,,E,,, G,,,x| \
+A,,,x3 D,,x3| \
+A,,,x2G,,, G,,,x G,,,x| \
+A,,,A,,, x2 E,,,x3|
+A,,,x3 G,,,E,,, G,,,x| \
+A,,,x3 C,,x3| \
+A,,,x2G,,, G,,,x G,,,x| \
+A,,,A,,, x2 E,,,x3|
+A,,,x3 G,,,E,,, G,,,x| \
+A,,,x3 E,,,x3| \
+A,,,x2G,,, G,,,x G,,,x| \
+A,,,A,,, x2 E,,,x3|
+A,,,x3 G,,,E,,, G,,,x| \
+A,,,x3 C,,x3| \
+A,,,x D,,[F,,G,,,] [E,,G,,,]x [F,,G,,,]x| \
+[E,,A,,,][F,,A,,,] D,,x [A,,,E,,,]x2G,,,|
+[A,,,E,,,]A,,, G,,,E,,, G,,,E,,, G,,,G,,,| \
+[A,,,A,,,]x3 E,,,x3| \
+[D,,D,,]x A,,,x [C,,C,,]x A,,,x| \
+[D,,D,,]x A,,,x [C,,C,,]x A,,,x|
+[E,,E,,]x A,,,x [F,,C,,]x A,,,C,,| \
+[D,,D,,]x3 [A,,,A,,,]x3| \
+[E,,E,,]x A,,,E,, [F,,F,,]D,, [C,,A,,,]C,,| \
+[D,,D,,]

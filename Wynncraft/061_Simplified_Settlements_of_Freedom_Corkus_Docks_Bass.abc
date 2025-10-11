@@ -1,0 +1,94 @@
+X: 1
+T: 061_Simplified_Settlements_of_Freedom_Corkus_Docks_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Mixolydian mode tune
+K:G % 1 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x6 E,,x| \
+B,,,x E,,x/2B,,,x/2D,, E,,x|
+B,,,x E,,x/2B,,,x/2D,, [E,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,]x/2[B,,B,,,]x/2[D,D,,] [E,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,][C,G,,]| \
+[C,E,,C,,]x [E,E,,]x/2[C,C,,]x/2[D,D,,] [F,D,][D,A,,]|
+[D,F,,D,,]x [F,F,,]x/2[D,D,,]x/2[A,,A,,,] [E,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,]x/2[B,,B,,,]x/2[D,D,,] [E,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,]| \
+[C,E,,C,,]x [E,E,,]x/2[C,C,,]x/2[D,D,,] [F,D,F,,][D,A,,]|
+[D,F,,D,,]x [F,F,,]x/2[D,D,,]x/2[A,,A,,,] [E,B,,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,]| \
+[C,E,,C,,G,,,]x [E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [E,B,,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,]|
+[C,E,,C,,G,,,]x [E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [E,B,,E,,]x| \
+[B,,E,,B,,,]x [E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,]x| \
+[C,E,,C,,G,,,]x [E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [E,B,,E,,]x| \
+[B,,E,,B,,,]x [E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [F,D,F,,]x|
+[D,F,,D,,A,,,]x [F,D,][D,A,,] [A,,F,,][F,,D,,] [E,B,,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,B,,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,]| \
+[C,E,,C,,G,,,]x [E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [F,D,F,,][D,A,,]|
+[D,F,,D,,A,,,]x [F,F,,D,,]x/2[D,D,,]x/2[A,,A,,,] [E,B,,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,B,,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,]| \
+[C,E,,C,,G,,,]x [E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [F,D,F,,][D,A,,]|
+[D,F,,D,,A,,,]x [F,F,,D,,]x/2[D,D,,]x/2[A,,A,,,] [E,B,,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,]| \
+[C,E,,C,,G,,,]x [E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [E,B,,E,,][B,,G,,]| \
+[B,,E,,B,,,]x [E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,]|
+[C,E,,C,,]x [E,,C,,]x/2C,,x/2D,, x2| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x4 E,,x B,,,x|
+E,,x/2B,,,x/2D,, E,,x B,,,x| \
+E,,x/2B,,,x/2D,, [E,E,,][B,,G,,] [B,,E,,B,,,]x| \
+[E,E,,]x/2[B,,B,,,]x/2[D,D,,] [E,E,,][B,,G,,] [B,,E,,B,,,]x| \
+[E,E,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,][C,G,,] [C,E,,C,,]x|
+[E,E,,]x/2[C,C,,]x/2[D,D,,] [F,D,][D,A,,] [D,F,,D,,]x| \
+[F,F,,]x/2[D,D,,]x/2[A,,A,,,] [E,E,,][B,,G,,] [B,,E,,B,,,]x| \
+[E,E,,]x/2[B,,B,,,]x/2[D,D,,] [E,E,,][B,,G,,] [B,,E,,B,,,]x| \
+[E,E,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,] [C,E,,C,,]x|
+[E,E,,]x/2[C,C,,]x/2[D,D,,] [F,D,F,,][D,A,,] [D,F,,D,,]x| \
+[F,F,,]x/2[D,D,,]x/2[A,,A,,,] [E,B,,E,,][B,,G,,] [B,,E,,B,,,]x| \
+[E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,] [C,E,,C,,G,,,]x| \
+[E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [E,B,,E,,][B,,G,,] [B,,E,,B,,,]x|
+[E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,] [C,E,,C,,G,,,]x| \
+[E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [E,B,,E,,]x [B,,E,,B,,,]x| \
+[E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,]x [C,E,,C,,G,,,]x| \
+[E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [E,B,,E,,]x [B,,E,,B,,,]x|
+[E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [F,D,F,,]x [D,F,,D,,A,,,]x| \
+[F,D,][D,A,,] [A,,F,,][F,,D,,] [E,B,,E,,][B,,G,,] [B,,E,,B,,,]x| \
+[E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,B,,E,,][B,,G,,] [B,,E,,B,,,]x| \
+[E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,] [C,E,,C,,G,,,]x|
+[E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [F,D,F,,][D,A,,] [D,F,,D,,A,,,]x| \
+[F,F,,D,,]x/2[D,D,,]x/2[A,,A,,,] [E,B,,E,,][B,,G,,] [B,,E,,B,,,]x| \
+[E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,B,,E,,][B,,G,,] [B,,E,,B,,,]x| \
+[E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,] [C,E,,C,,G,,,]x|
+[E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [F,D,F,,][D,A,,] [D,F,,D,,A,,,]x| \
+[F,F,,D,,]x/2[D,D,,]x/2[A,,A,,,] [E,B,,E,,][B,,G,,] [B,,E,,B,,,]x| \
+[E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,] [C,E,,C,,G,,,]x| \
+[E,E,,C,,]x/2[C,C,,]x/2[D,D,,] [E,B,,E,,][B,,G,,] [B,,E,,B,,,]x|
+[E,E,,B,,,]x/2[B,,B,,,]x/2[D,D,,] [E,C,C,,][C,G,,] [C,E,,C,,]x| \
+[E,,C,,]x/2C,,x/2D,, 

@@ -1,0 +1,69 @@
+X: 1
+T: 008_Sacred_Hospitality_Bremminglar_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:E % 4 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+Cx [GEC]C B,x [FDB,]B,| \
+Ex [BGE]E A,x [ECA,]B,| \
+Cx [GEC]C B,x [FDB,]B,| \
+Ex [BGE]E A,x [ECA,]B,|
+[EC]G [cGEC][eC] [dB,]x [FDB,][BB,]| \
+[cE]x [BGE][GE] [AA,]x [GECA,][FB,]| \
+[EC]G [cGEC]C B,x [eFDB,]B,| \
+[eE]c [dBGE][eE] [cA,]x [ECA,]B,|
+Cx [GEC][BC] [cB,]x [BFDB,]B,| \
+[eE]x [dBGE]E [cA,]x [ECA,]B,| \
+Cx [GEC]C B,x [FDB,]B,| \
+[fE]e [dBGE][eE] [ecA,]x [ECA,]B,|
+[fA,]e [dECA,][eA,] [dG,]x [cFDG,][BG,]| \
+[cC]x [GEC]C [GB,]x [FDB,][GB,]| \
+[AA,]x [BECA,]A, [GG,]x [=GD^G,][GG,]| \
+[B/2-C/2-][=c/2-B/2^C/2][c/2-=c/2]^c/2 [cGEC][dC] [cC]x [GEC]x|
+[B/2-A,/2-][=c/2-B/2A,/2][^c/2-=c/2]^c/2 [cECA,][dA,] [A/2-G,/2-][^A/2-=A/2G,/2][B/2-^A/2]B/2 [FDG,][GG,]| \
+[B/2-C/2-][=c/2-B/2^C/2][c/2-=c/2]^c/2 [eGEC][cC] [GB,]c [eFDB,][cB,]| \
+[F/2-=A,/2-][=G/2-F/2A,/2][^G/2-=G/2]^G/2 [ECA,][AA,] [GG,]x [BFDG,][=cG,]| \
+[^cC]x [GEC]C Cx [BGEC]x|
+[B/2-C/2-][=c/2-B/2^C/2][c/2-=c/2]^c/2 [GEC]C [BB,]x [dFDB,]B,| \
+[eE]x [BGE]E [AA,]x [GECA,][=G/2-B,/2-][^G/2-=G/2B,/2]| \
+[^G/2E/2-C/2-][E/2C/2]x [GEC]C B,x [FDB,]B,| \
+Ex [BGE]E A,x [ECA,]B,|
+Cx [GEC]C B,x [FDB,]B,| \
+Ex [BGE]E A,x [ECA,]B,| \
+Cx [GEC]C B,x [FDB,]B,| \
+Ex [BGE]E A,x [ECA,]B,|
+[EC]G [cGEC][eC] [dB,]x [FDB,][BB,]| \
+[cE]x [BGE][GE] [AA,]x [GECA,][FB,]| \
+[EC]G [cGEC]C B,x [eFDB,]B,| \
+[eE]c [dBGE][eE] [cA,]x [ECA,]B,|
+Cx [GEC][BC] [cB,]x [BFDB,]B,| \
+[eE]x [dBGE]E [cA,]x [ECA,]B,| \
+Cx [GEC]C B,x [FDB,]B,| \
+[fE]e [dBGE][eE] [ecA,]x [ECA,]B,|
+[fA,]e [dECA,][eA,] [dG,]x [cFDG,][BG,]| \
+[cC]x [GEC]C [GB,]x [FDB,][GB,]| \
+[AA,]x [BECA,]A, [GG,]x [=GD^G,][GG,]| \
+[B/2-C/2-][=c/2-B/2^C/2][c/2-=c/2]^c/2 [cGEC][dC] [cC]x [GEC]x|
+[B/2-A,/2-][=c/2-B/2A,/2][^c/2-=c/2]^c/2 [cECA,][dA,] [A/2-G,/2-][^A/2-=A/2G,/2][B/2-^A/2]B/2 [FDG,][GG,]| \
+[B/2-C/2-][=c/2-B/2^C/2][c/2-=c/2]^c/2 [eGEC][cC] [GB,]c [eFDB,][cB,]| \
+[F/2-=A,/2-][=G/2-F/2A,/2][^G/2-=G/2]^G/2 [ECA,][AA,] [GG,]x [BFDG,][=cG,]| \
+[^cC]x [GEC]C Cx [BGEC]x|
+[B/2-C/2-][=c/2-B/2^C/2][c/2-=c/2]^c/2 [GEC]C [BB,]x [dFDB,]B,| \
+[eE]x [BGE]E [AA,]x [GECA,][=G/2-B,/2-][^G/2-=G/2B,/2]| \
+[^G/2E/2-C/2-][E/2C/2]x [GEC]C B,x [FDB,]B,| \
+Ex [BGE]E A,x [ECA,]B,|
+C

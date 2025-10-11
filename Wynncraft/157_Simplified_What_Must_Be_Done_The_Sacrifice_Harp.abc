@@ -1,0 +1,41 @@
+X: 1
+T: 157_Simplified_What_Must_Be_Done_The_Sacrifice_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:E % 4 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+[CG,]G, GG, [CA,]A, GA,| \
+[CF,]F, FF, A,G, F,G,| \
+[CG,]G, GG, [CA,]A, GA,| \
+[CF,]F, FF, [=CG,]G, [GF]G,|
+[d^C]E G[eC] EG [dE]C| \
+[cG,]=C D[FG,] [G=C]D G,x| \
+[A^C]E G[BC] EG [cE]C| \
+[dG,]=C D[fFG,] =CD [eF,]G,|
+[^cA,]C EA, [AC]E [BA,]E| \
+[dB,]E FB, [eE]F B,E| \
+[dC]F BC [eF]B CF| \
+[GG,]=C [FD]G, =C[FD] G,D|
+[^CG,]E DB, [CG,]E FE| \
+[DB,G,]x CD [EB,G,]D G,B,| \
+[CA,]E D[CA,] ED G,B,| \
+[GDB,G,F,]E AG [D=CG,F,]G ED|
+[^CG,]D [EC]F [GE]x [EC][DB,]| \
+[CA,]x C[DB,] E[DA,] [G,F,][B,G,]| \
+[CB,]E D[CB,] ED [CB,][DB,]| \
+G,E FE [D=CG,F,]x [E=C][DB,]|
+x4 [^cCG,]

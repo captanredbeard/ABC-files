@@ -1,0 +1,76 @@
+X: 1
+T: 013_Harmonic_Tradition_Iboju_Village_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Dorian mode tune
+K:G % 1 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+x8| \
+x8| \
+x8| \
+x8|
+B,,,x3 B,,,x2B,,,| \
+G,,,x3 G,,,x2G,,,| \
+B,,,x2B,,, B,,,x2B,,,| \
+A,,,x2A,,, A,,,x A,,,x|
+B,,,x3 B,,,x2B,,,| \
+G,,,x3 G,,,x2G,,,| \
+B,,,x2B,,, B,,,x2B,,,| \
+A,,,x2A,,, A,,,x A,,,x|
+B,,,x3 B,,,x2B,,,| \
+G,,,x3 G,,,x2G,,,| \
+B,,,x2B,,, B,,,x2B,,,| \
+A,,,x2A,,, A,,,x A,,,x|
+B,,,x3 B,,,x2B,,,| \
+G,,,x3 G,,,x2G,,,| \
+B,,,x2B,,, B,,,x2B,,,| \
+A,,,x2A,,, A,,,x A,,,x|
+[B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,] [B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,]| \
+[B,,B,,G,,G,,G,,,][G,,G,,] [B,,B,,][G,,G,,] [B,,B,,G,,G,,G,,,][G,,G,,] [B,,B,,][G,,G,,G,,,]| \
+[B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,] [B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,]| \
+[A,,A,,E,,E,,A,,,][E,,E,,] [A,,A,,][E,,E,,A,,,] [A,,A,,E,,E,,A,,,][E,,E,,] [A,,A,,A,,,][E,,E,,]|
+[B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,] [B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,]| \
+[B,,B,,G,,G,,G,,,][G,,G,,] [B,,B,,][G,,G,,] [B,,B,,G,,G,,G,,,][G,,G,,] [B,,B,,][G,,G,,G,,,]| \
+[B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,] [B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,]| \
+[A,,A,,E,,E,,A,,,][E,,E,,] [A,,A,,][E,,E,,A,,,] [A,,A,,E,,E,,A,,,][E,,E,,] [A,,A,,A,,,][E,,E,,]|
+x8| \
+x8| \
+x8| \
+x8|
+B,,,x3 B,,,x2B,,,| \
+G,,,x3 G,,,x2G,,,| \
+B,,,x2B,,, B,,,x2B,,,| \
+A,,,x2A,,, A,,,x A,,,x|
+B,,,x3 B,,,x2B,,,| \
+G,,,x3 G,,,x2G,,,| \
+B,,,x2B,,, B,,,x2B,,,| \
+A,,,x2A,,, A,,,x A,,,x|
+B,,,x3 B,,,x2B,,,| \
+G,,,x3 G,,,x2G,,,| \
+B,,,x2B,,, B,,,x2B,,,| \
+A,,,x2A,,, A,,,x A,,,x|
+B,,,x3 B,,,x2B,,,| \
+G,,,x3 G,,,x2G,,,| \
+B,,,x2B,,, B,,,x2B,,,| \
+A,,,x2A,,, A,,,x A,,,x|
+[B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,] [B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,]| \
+[B,,B,,G,,G,,G,,,][G,,G,,] [B,,B,,][G,,G,,] [B,,B,,G,,G,,G,,,][G,,G,,] [B,,B,,][G,,G,,G,,,]| \
+[B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,] [B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,]| \
+[A,,A,,E,,E,,A,,,][E,,E,,] [A,,A,,][E,,E,,A,,,] [A,,A,,E,,E,,A,,,][E,,E,,] [A,,A,,A,,,][E,,E,,]|
+[B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,] [B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,]| \
+[B,,B,,G,,G,,G,,,][G,,G,,] [B,,B,,][G,,G,,] [B,,B,,G,,G,,G,,,][G,,G,,] [B,,B,,][G,,G,,G,,,]| \
+[B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,] [B,,B,,F,,F,,B,,,][F,,F,,] [B,,B,,][F,,F,,B,,,]| \
+[A,,A,,E,,E,,A,,,][E,,E,,] [A,,A,,][E,,E,,A,,,] [A,,A,,E,,E,,A,,,][E,,E,,] [A,,A,,A,,,][E,,E,,]|

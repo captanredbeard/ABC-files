@@ -1,0 +1,92 @@
+X: 1
+T: 001_Luxury_of_the_Cease-Fire_Ragni_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=150
+% Last note suggests minor mode tune
+K:A % 3 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+A,,,-[C,,/2-A,,,/2]C,,/2- [E,,/2-C,,/2]E,,x4x/2| \
+E,,-[G,,/2-E,,/2]G,,/2- [B,,/2-G,,/2]B,,x4x/2| \
+F,,-[^A,,/2-F,,/2]^A,,/2- [C,/2-^A,,/2]C,x4x/2| \
+B,,-[D,/2-B,,/2]D,/2- [F,/2-D,/2]F,x4x/2|
+x4 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+E,,3/2x2x/2 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+E,,3/2x2x/2 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+E,,3/2x2x/2 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+E,,3/2x2x/2 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+E,,3/2x2x/2 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+=A,,,-[C,,/2-A,,,/2]C,,/2- [E,,/2-C,,/2]E,,x4x/2| \
+E,,-[G,,/2-E,,/2]G,,/2- [B,,/2-G,,/2]B,,x4x/2| \
+F,,-[^A,,/2-F,,/2]^A,,/2- [C,/2-^A,,/2]C,x4x/2| \
+B,,-[D,/2-B,,/2]D,/2- [F,/2-D,/2]F,x4x/2|
+x4 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+E,,3/2x2x/2 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+E,,3/2x2x/2 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+E,,3/2x2x/2 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+E,,3/2x2x/2 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2|
+E,,3/2x2x/2 =A,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2x2x/2| \
+^A,,,3/2x2x/2 C,,3/2x2x/2| \
+B,,,3/2x2x/2 F,,3/2

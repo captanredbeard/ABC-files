@@ -1,0 +1,84 @@
+X: 1
+T: 064_Craftmas_Carol_Craftmas_Island_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+K:E % 4 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+E,,x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x G,,x| \
+E,,x G,,x D,,x G,,x| \
+C,,x G,,x B,,,B,,,/2-[C,,/2-B,,,/2] [D,,/2-C,,/2][E,,/2-D,,/2][F,,/2-E,,/2][G,,/2-F,,/2]|
+[G,,/2E,,/2-]E,,/2x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x G,,x| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,B,,,/2-[C,,/2-B,,,/2] [D,,/2-C,,/2][E,,/2-D,,/2][F,,/2-E,,/2][G,,/2-F,,/2]|
+[G,,/2E,,/2-]E,,/2x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x G,,x| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,B,,,/2-[C,,/2-B,,,/2] [D,,/2-C,,/2][E,,/2-D,,/2][F,,/2-E,,/2][G,,/2-F,,/2]|
+[G,,/2E,,/2-]E,,/2x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x G,,x| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,x F,,x|
+E,,x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x3| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,B,,,/2-[C,,/2-B,,,/2] [D,,/2-C,,/2][E,,/2-D,,/2][F,,/2-E,,/2][G,,/2-F,,/2]|
+[G,,/2A,,,/2-]A,,,/2x E,,x G,,,x E,,x| \
+A,,,x E,,x F,,,x B,,,x| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,x F,,x|
+E,,x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x G,,x| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,B,,,/2-[C,,/2-B,,,/2] [D,,/2-C,,/2][E,,/2-D,,/2][F,,/2-E,,/2][G,,/2-F,,/2]|
+[G,,/2E,,/2-]E,,/2x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x3| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,B,,,/2-[C,,/2-B,,,/2] [C,,/2B,,,/2-][B,,,/2A,,,/2-][A,,,/2G,,,/2-][G,,,/2F,,,/2-]|
+[E,,/2-F,,,/2]E,,/2x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x G,,x| \
+E,,x G,,x D,,x G,,x| \
+C,,x G,,x B,,,B,,,/2-[C,,/2-B,,,/2] [D,,/2-C,,/2][E,,/2-D,,/2][F,,/2-E,,/2][G,,/2-F,,/2]|
+[G,,/2E,,/2-]E,,/2x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x G,,x| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,B,,,/2-[C,,/2-B,,,/2] [D,,/2-C,,/2][E,,/2-D,,/2][F,,/2-E,,/2][G,,/2-F,,/2]|
+[G,,/2E,,/2-]E,,/2x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x G,,x| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,B,,,/2-[C,,/2-B,,,/2] [D,,/2-C,,/2][E,,/2-D,,/2][F,,/2-E,,/2][G,,/2-F,,/2]|
+[G,,/2E,,/2-]E,,/2x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x G,,x| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,x F,,x|
+E,,x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x3| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,B,,,/2-[C,,/2-B,,,/2] [D,,/2-C,,/2][E,,/2-D,,/2][F,,/2-E,,/2][G,,/2-F,,/2]|
+[G,,/2A,,,/2-]A,,,/2x E,,x G,,,x E,,x| \
+A,,,x E,,x F,,,x B,,,x| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,x F,,x|
+E,,x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x G,,x| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,B,,,/2-[C,,/2-B,,,/2] [D,,/2-C,,/2][E,,/2-D,,/2][F,,/2-E,,/2][G,,/2-F,,/2]|
+[G,,/2E,,/2-]E,,/2x G,,x D,,x G,,x| \
+C,,x G,,x B,,,x3| \
+A,,,x E,,x G,,,x E,,x| \
+A,,,x E,,x B,,,B,,,/2-[C,,/2-B,,,/2] [C,,/2B,,,/2-][B,,,/2A,,,/2-][A,,,/2G,,,/2-][G,,,/2F,,,/2-]|
+[E,,/2-F,,,/2]E,,/2

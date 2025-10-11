@@ -1,0 +1,69 @@
+X: 1
+T: 008_Sacred_Hospitality_Bremminglar_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:E % 4 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3| \
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3|
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3| \
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3|
+[E,,C,,]G,, C,x B,,,x3| \
+E,,x G,,,x [A,,A,,,]G,, F,,G,,| \
+[C,C,,]x E,x [F,B,,,]E, D,E,| \
+E,,x G,,,x A,,,x3|
+C,,x3 B,,,x3| \
+C,,x3 B,,,x3| \
+C,,x3 B,,,x3| \
+C,,x3 C,,x3|
+C,,x3 B,,,x3| \
+C,,x3 B,,,x3| \
+C,,x3 B,,,x3| \
+C,,x3 C,,x3|
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3| \
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3|
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3| \
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3|
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3| \
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3|
+[E,,C,,]G,, C,x B,,,x3| \
+E,,x G,,,x [A,,A,,,]G,, F,,G,,| \
+[C,C,,]x E,x [F,B,,,]E, D,E,| \
+E,,x G,,,x A,,,x3|
+C,,x3 B,,,x3| \
+C,,x3 B,,,x3| \
+C,,x3 B,,,x3| \
+C,,x3 C,,x3|
+C,,x3 B,,,x3| \
+C,,x3 B,,,x3| \
+C,,x3 B,,,x3| \
+C,,x3 C,,x3|
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3| \
+C,,x3 B,,,x3| \
+E,,x G,,,x A,,,x3|
+C,,

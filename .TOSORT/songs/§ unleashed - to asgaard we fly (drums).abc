@@ -1,0 +1,59 @@
+%abc-2.1
+%%song-title       ToAssgaardWeFly
+%%song-duration    1:04
+%%abc-creator Maestro v2.3.0
+%%abc-version 2.1
+
+X: 1
+T: ToAssgaardWeFly (1:04) - Lute of Ages
+%%part-name Lute of Ages
+M: 4/4
+Q: 150
+K: C maj
+
++f+ [C,^A,A] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,^A,A] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,^A,A] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,^A,] E,/ [C,/=A,/] [C,/A,/] [C,/G,/] [C,/F,/] [C,/F,/] [C,4^A,4A4] |
+[C,^A,^C] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+% Bar 10 (0:14)
+[C,/^A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,/^A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ |
+[C,^A,^C] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,/^A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,/^A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,/^A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+% Bar 20 (0:30)
+E,/ E,/ A,/ A,/ G,/ F,/ E,/ F,/ G,/ G,/ F,/ F,/ A,/ A,/ G,/ F,/ |
+[C,^C] [E,/F/] C,/ F/ C,/ [E,F] [C,F] [E,/F/] C,/ F/ C,/ [E,F] |
+[C,/F/] C,/ [C,/E,/F/] C,/ [C,/F/] C,/ [C,/E,/F/] C,/ [C,/F/] C,/ [C,/E,/F/] C,/ [C,/F/] C,/ [C,/E,/F/] C,/ |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,/^A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,/^A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+[C,/^A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ [C,/A,/] C,/ [C,/E,/A,/] C,/ |
+[C,^A,] [E,/A,/] C,/ A,/ C,/ [E,A,] [C,A,] [E,/A,/] C,/ A,/ C,/ [E,A,] |
+% Bar 30 (0:46)
+E,/ E,/ A,/ A,/ G,/ F,/ E,/ E,/ G,/ G,/ F,/ F,/ A,/ A,/ E,/ C,/ |
+[C,^C] [E,/F/] C,/ F/ C,/ [E,F] [C,F] [E,/F/] C,/ F/ C,/ [E,F] |
+[C,/F/] C,/ [C,/E,/F/] C,/ [C,/F/] C,/ [C,/E,/F/] C,/ [C,/F/] C,/ [C,/E,/F/] C,/ [C,/F/] C,/ [C,/E,/F/] C,/ |
+[C,^C] [E,/F/] C,/ F/ C,/ [E,F] [C,F] [E,/F/] C,/ F/ C,/ [E,F] |
+[C,F] [E,/F/] C,/ F/ C,/ [E,F] [C,F] [E,/F/] C,/ F/ C,/ [E,F] |
+[C,^C] [E,/F/] C,/ F/ C,/ [E,F] [C,F] [E,/F/] C,/ F/ C,/ [E,F] |
+[C,F] [E,/F/] C,/ F/ C,/ [E,F] [C,F] [E,/F/] E,/ E,/ C,/ [E,F] |
+[C,^C] [E,/F/] C,/ F/ C,/ [E,F] [C,F] [E,/F/] C,/ F/ C,/ [E,F] |
+[C,F] [E,/F/] C,/ F/ C,/ [E,F] [C,F] [E,/F/] C,/ F/ C,/ [E,F] |
+[C,^C] [E,/F/] C,/ F/ C,/ [E,F] [C,F] [E,/F/] C,/ F/ C,/ [E,F] |
+% Bar 40 (1:02)
+[C,F] [E,/F/] C,/ F/ C,/ [E,F] [C,/E,/] [C,/E,/] [C,/E,/] [C,/E,/] [C,/E,/] [C,/E,/] [C,E,] |
+z8 |]
+

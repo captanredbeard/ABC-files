@@ -1,0 +1,112 @@
+X: 1
+T: 016_Adventure_Emerald_Trail_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Dorian mode tune
+K:E % 4 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x3 A,,,x3| \
+E,,x3 B,,,x3|
+B,,,x3 A,,,x3| \
+E,,x3 B,,,x3| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+[F,B,,,]F,/2-[F,/2A,,/2-] [B,,/2-A,,/2F,,/2-][B,,/2A,,/2-F,,/2][B,,/2-A,,/2]B,,/2 [A,,A,,,]x [F,,E,,]E,,| \
+[F,,B,,,]x E,,x B,,,x E,,x| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+B,,,x B,,,x B,,,x B,,,x|
+B,,,x3 A,,,x3| \
+E,,x3 B,,,x3| \
+B,,,x3 A,,,x3| \
+E,,x3 B,,,x3|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x|
+B,,,x F,,x A,,,x E,,x| \
+B,,,x E,,x B,,,x E,,x| \
+[F,B,,,]F,/2-[F,/2A,,/2-] [B,,/2-A,,/2F,,/2-][B,,/2A,,/2-F,,/2][B,,/2-A,,/2]B,,/2 [A,,A,,,]x [F,,E,,]E,,| \
+[F,,B,,,]x E,,x B,,,x E,,

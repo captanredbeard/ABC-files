@@ -1,0 +1,163 @@
+X: 1
+T: 068_Gray_Skies_Dark_Days_Olux_Drums
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:B % 5 sharps
+V:1
+%%MIDI channel 10
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+B,,,x3 B,,,x3| \
+B,,,x3 B,,,x3| \
+B,,,x3 B,,,x3| \
+B,,,x3 B,,,x3|
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x|
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x|
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x|
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,B,,,/2B,,,/2|
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x|
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x F,,x|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]B,,,|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]B,,,|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]B,,,/2B,,,/2|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x3|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+B,,,x3 B,,,x3| \
+B,,,x3 B,,,x3| \
+B,,,x3 B,,,x3| \
+B,,,x3 B,,,x3|
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x|
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x| \
+B,,,x3 B,,,x B,,,x|
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x|
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,B,,,/2B,,,/2|
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x|
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x B,,,x| \
+B,,,x B,,,x B,,,x F,,x|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]B,,,|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]B,,,|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]B,,,/2B,,,/2|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x|
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,x [F,,B,,,]x| \
+B,,,x [F,,B,,,]x B,,,

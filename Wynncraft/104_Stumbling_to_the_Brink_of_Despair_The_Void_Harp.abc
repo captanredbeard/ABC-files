@@ -1,0 +1,85 @@
+X: 1
+T: 104_Stumbling_to_the_Brink_of_Despair_The_Void_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:Bb % 2 flats
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+[BGG,]B, DE DB, [AA,]B,| \
+[BGG,]B, DE [A_GD]B, [B=GA,]B,| \
+[cAC]E G_A GE [BGD]E| \
+[GEC]E G_A GE DC|
+[BDG,]B, [BD]E DB, [BC=A,]B,| \
+[BDG,]B, [ADC]E DB, [BDA,]B,| \
+[A_GD]_G AB [dA]_G [eE]C| \
+[dD]_G [cA]B [BA]_G [AE]_G|
+[dB=GG,]B, DE DB, [cAA,]B,| \
+[dBGG,]B, DE [cA_GD]B, [dB=GA,]B,| \
+[ecAC]E G_A GE [dBGD]E| \
+[cGEC]E G_A GE DC|
+[dBDG,]B, [dBD]E DB, [cBC=A,]B,| \
+[dBDG,]B, [cADC]E DB, [dBDA,]B,| \
+[_gA_GD]_G A/2-[B/2A/2][=B/2-_B/2-][c/2-=B/2_B/2] [d/2-c/2A/2-][d/2A/2]_G [eE]C| \
+[_gdD]_G [ecA]B [dBA]_G [cAE]_G|
+[eB=GE]G AB de [edG][dBF]| \
+[eGE]G [AGE]B de [dBF]B| \
+[dDG,]D GA Bc [dBG][cAG]| \
+[dBG,][AD] G[AF] [BGD][cF] [BD][GC]|
+[cGEC]D EG AB [cAE][BGD]| \
+[cEC]D [GEB,]G AB [BA_D]B| \
+[A=DA,]D [_G/2-D/2-][_G/2=E/2-D/2][=G/2_G/2-=E/2][=G/2-_G/2] [A/2-=G/2]A/2B [BA]_G| \
+[AA,]D _G=G [A_E]B [dD]A|
+[eBGEB,]G [eBAGG,]B de [edGG,][dBFA,]| \
+[eGEB,]G [AGEC]B de [dBGF]B| \
+[dGDG,]D GA Bc [dBG][cAG]| \
+[dBG,][cAD] [BG][AF] [BGD][cAF] [BGD][GFC]|
+[cGEC]D [cGE]G AB [ecAE][eBGD]| \
+[ecEC]D [eGEB,]G AB [_dBA_D]B| \
+[=dADA,]D [d/2-_G/2-D/2-][e/2-d/2_G/2=E/2-D/2][_e/2d/2-=G/2_G/2-=E/2][d/2c/2-=G/2-_G/2] [d/2-c/2A/2-=G/2][d/2A/2]B [_eBA]_G| \
+[dAA,]D [c_G]=G [BAE]B [d/2-A/2-D/2-][d/2A/2=E/2-D/2][A/2-F/2-=E/2][A/2_G/2-F/2]|
+[B/2-=G/2-_G/2=G,/2-][B/2G/2G,/2]B, D_E DB, [AA,]B,| \
+[BGG,]B, DE [A_GD]B, [B=GA,]B,| \
+[cAC]E G_A GE [BGD]E| \
+[GEC]E G_A GE DC|
+[BDG,]B, [BD]E DB, [BC=A,]B,| \
+[BDG,]B, [ADC]E DB, [BDA,]B,| \
+[A_GD]_G AB [dA]_G [eE]C| \
+[dD]_G [cA]B [BA]_G [AE]_G|
+[dB=GG,]B, DE DB, [cAA,]B,| \
+[dBGG,]B, DE [cA_GD]B, [dB=GA,]B,| \
+[ecAC]E G_A GE [dBGD]E| \
+[cGEC]E G_A GE DC|
+[dBDG,]B, [dBD]E DB, [cBC=A,]B,| \
+[dBDG,]B, [cADC]E DB, [dBDA,]B,| \
+[_gA_GD]_G A/2-[B/2A/2][=B/2-_B/2-][c/2-=B/2_B/2] [d/2-c/2A/2-][d/2A/2]_G [eE]C| \
+[_gdD]_G [ecA]B [dBA]_G [cAE]_G|
+[eB=GE]G AB de [edG][dBF]| \
+[eGE]G [AGE]B de [dBF]B| \
+[dDG,]D GA Bc [dBG][cAG]| \
+[dBG,][AD] G[AF] [BGD][cF] [BD][GC]|
+[cGEC]D EG AB [cAE][BGD]| \
+[cEC]D [GEB,]G AB [BA_D]B| \
+[A=DA,]D [_G/2-D/2-][_G/2=E/2-D/2][=G/2_G/2-=E/2][=G/2-_G/2] [A/2-=G/2]A/2B [BA]_G| \
+[AA,]D _G=G [A_E]B [dD]A|
+[eBGEB,]G [eBAGG,]B de [edGG,][dBFA,]| \
+[eGEB,]G [AGEC]B de [dBGF]B| \
+[dGDG,]D GA Bc [dBG][cAG]| \
+[dBG,][cAD] [BG][AF] [BGD][cAF] [BGD][GFC]|
+[cGEC]D [cGE]G AB [ecAE][eBGD]| \
+[ecEC]D [eGEB,]G AB [_dBA_D]B| \
+[=dADA,]D [d/2-_G/2-D/2-][e/2-d/2_G/2=E/2-D/2][_e/2d/2-=G/2_G/2-=E/2][d/2c/2-=G/2-_G/2] [d/2-c/2A/2-=G/2][d/2A/2]B [_eBA]_G| \
+[dAA,]D [c_G]=G [BAE]B [d/2-A/2-D/2-][d/2A/2=E/2-D/2][A/2-F/2-=E/2][A/2_G/2-F/2]|
+[B/2-=G/2-_G/2=G,/2-][B/2G/2G,/2]

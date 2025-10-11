@@ -1,0 +1,41 @@
+X: 1
+T: ringohiyori
+M: 4/4
+L: 1/8
+Q: 1/4=90
+K: C
+ 
++mf+ [G,,,G,,G,B,D] [G,B,D] [G,B,D] [G,B,D] [G,B,D] [G,B,D] [G,B,D] [G,B,D] |
+[G,B,D] [G,B,D] [G,B,D] [G,B,D] [G,B,D] [G,B,D] [G,B,D] [^F,,G,B,D] |
+[G,,G,B,DB] [G,B,DB] [G,B,DB] [G,/B,/D/B/] B/ [G,B,D] [G,/B,/D/B/] G/ [G,B,D] [D,,G,B,DA] |
+[G,,G,B,Dd] [G,B,DB] [G,B,D] [D,,G,B,D] [G,,G,B,D] [G,,G,B,D] [^F,,G,B,D] [F,,G,B,D^F] |
+[E,,E,G,B,B] [E,G,B,c] [E,G,B,B] [E,/G,/B,/c/] d/ [E,G,B,] [E,G,B,c] [E,G,B,B] [B,,,E,G,B,G] |
+[E,,E,G,B,c] [E,G,B,B] [E,G,B,] [B,,,E,G,B,] [E,,E,G,B,] [E,,E,G,B,] [D,,E,G,B,] [D,,E,G,B,G] |
+[C,,E,G,Cc] [E,G,Cc] [E,G,Cc] [E,G,Cc] [E,G,C] [E,G,CB] [E,G,CA] [G,,,E,G,CB] |
+[C,,E,G,Cd] [E,G,Cc] [E,G,C] [G,,,E,G,C] [C,,E,G,C] [E,G,C] [D,,E,G,C] [E,G,CB] |
+[^D,,D,G,^A,c] [D,G,A,c] [^D,G,A,c] [D,G,A,c] [D,G,A,] [D,G,A,B] [D,G,A,] [=D,,D,G,A,B] |
+[D,,D,^F,A,e] [D,/F,/A,/d/] d/ [D,,D,F,A,] [D,/F,/A,/c/] c/ [E,,E,G,B,] [E,,/E,/G,/B,/B/] A/ [^F,,/F,/A,/C/] c/ [F,,F,A,C] |
+[G,,G,B,DB] [G,B,DB] [D,,G,B,DB] [G,B,DB] [G,,G,B,D] [G,B,DB] [D,,G,B,DG] [G,B,DA] |
+[G,,G,B,Dd] [G,B,DB] [D,,G,B,D] [G,B,D] [G,,G,B,D] [G,B,D] [^F,,G,B,D] [G,B,D^F] |
+[E,,E,G,B,B] [E,G,B,c] [B,,,E,G,B,B] [E,/G,/B,/c/] d/ [E,,E,G,B,] [E,G,B,c] [B,,,E,G,B,B] [E,G,B,G] |
+[E,,E,G,B,c] [E,G,B,B] [B,,,E,G,B,] [E,G,B,] [E,,E,G,B,] [E,G,B,] [D,,E,G,B,] [E,G,B,G] |
+[C,,E,G,Cc] [E,G,Cc] [G,,,E,G,Cc] [E,G,Cc] [C,,E,G,C] [E,G,CB] [G,,,E,G,CA] [E,G,CB] |
+[C,,E,G,Cd] [E,G,Cc] [G,,,E,G,C] [E,G,C] [C,,E,G,C] [E,G,C] [D,,E,G,C] [E,G,CB] |
+[D,,^D,G,^A,c] [D,G,A,c] [A,,,D,G,A,c] [D,G,A,c] [D,,D,G,A,] [D,G,A,B] [A,,,D,G,A,] [D,G,A,B] |
+[D,,D,^F,A,e] [D,/F,/A,/d/] d/ [A,,,D,F,A,] [D,/F,/A,/c/] c/ [E,,E,G,B,] [E,/G,/B,/B/] A/ [^F,,/F,/A,/C/] c/ [F,A,C] |
+[G,,G,B,DB] [G,B,D] [D,,G,B,Dc] [G,B,D] [G,,G,B,Dd] [G,B,D] [D,,G,B,De] [G,B,DB] |
+[G,,G,B,D] [G,B,D] [D,,G,B,D] [G,B,D] [G,,G,B,D] [G,B,D] [^F,,G,B,D] [G,B,DB] |
+[E,,E,G,B,B] [E,G,B,] [B,,,E,G,B,c] [E,G,B,] [E,,E,G,B,d] [E,G,B,] [B,,,E,G,B,e] [C,,-C-c-f-] |
+[C,,Ccf] [G,,,Dd] [C,,Ee] [E,,^Fef] [Gg] [B,,,Aa] [E,,Bdb] [D,,Gcg] |
+[C,,E,G,CB] [E,G,Cc] [G,,,E,G,Cd] [E,/G,/C/G/] G/ [C,,E,G,C] [E,G,C] [G,,,E,G,Cd] [E,G,Cc] |
+[C,,^D,G,CB] [D,G,Cc] [G,,,D,G,Cd] [D,/G,/C/G/] G/ [C,,D,G,C] [D,G,C] [G,,D,G,C] [A,,D,G,C] |
+[G,,G,B,DB] [G,B,Dc] [D,,/G,/B,/D/d/] e/ [G,/B,/D/] f/ [^F,,^F,A,C] [F,A,Ce] [C,,=F,A,Cd] [F,A,Cc] |
+[E,,,/E,/^G,/B,/B/] c/ [^F,,,E,G,B,B] [G,,,E,G,B,] [E,,,E,G,B,] [B,,,E,G,B,A] [C,,E,G,B,G] [D,,E,G,B,] [B,,,E,G,B,E] |
+[A,,E,A,CA] [E,A,CB] [E,,E,A,C] [E,A,Cc] [A,,E,A,C] [E,A,Cd] [C,,E,A,C] [D,,E,A,C^d] |
+[D,,^D,G,C] [D,G,C] [G,,,D,G,Cd] [D,G,CG] [G,,D,G,C] [D,G,Cc] [C,D,G,C] [D,G,C] |
+[G,,G,B,Dc] [G,,/G,/B,/D/B/] A/ [G,/B,/D/] B/ [G,,G,B,DG] [F,,G,B,D] [F,,G,B,D] [G,B,D] [F,,G,B,D] |
+[E,,G,B,D] [E,,G,B,D] [G,B,D] [E,,G,B,D] [^D,,G,B,D] [D,,G,B,D] [G,B,D] [D,,G,B,Dc] |
+[G,,G,B,Dc] [G,,/G,/B,/D/B/] A/ [G,/B,/D/] B/ [G,,G,B,DG] [F,,G,B,D] [F,,G,B,D] [G,B,D] [F,,G,B,D] |
+[E,,G,B,D] [E,,G,B,D] [G,B,D] [E,,G,B,D] [^D,,G,B,D] [D,,G,B,D] [G,B,D] [D,,G,B,D] |
+[G,,8-G,8-B,8-D8-] |
+[G,,8G,8B,8D8] |]

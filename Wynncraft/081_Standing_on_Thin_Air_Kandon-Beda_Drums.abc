@@ -1,0 +1,91 @@
+X: 1
+T: 081_Standing_on_Thin_Air_Kandon-Beda_Drums
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:B % 5 sharps
+V:1
+%%MIDI channel 10
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x6 F,,x|
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,x B,,,F,,/2F,,/2-| \
+[F,,/2B,,,/2-]B,,,/2x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,F,,/2F,,/2- [F,,/2B,,,/2-]B,,,/2F,,|
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,x B,,,F,,/2F,,/2-| \
+[F,,/2B,,,/2-]B,,,/2x B,,,x B,,,x B,,,F,,| \
+[F,,B,,,]x [F,,B,,,]x [F,,B,,,]x B,,,x|
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,x B,,,F,,/2F,,/2-| \
+[F,,/2B,,,/2-]B,,,/2x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,F,,/2F,,/2- [F,,/2B,,,/2-]B,,,/2F,,|
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,x B,,,F,,/2F,,/2-| \
+[F,,/2B,,,/2-]B,,,/2x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,F,, [F,,B,,,]x B,,,x|
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,F,, B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,F,, [F,,B,,,]x B,,,x|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x6 F,,x|
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,x B,,,F,,/2F,,/2-| \
+[F,,/2B,,,/2-]B,,,/2x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,F,,/2F,,/2- [F,,/2B,,,/2-]B,,,/2F,,|
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,x B,,,F,,/2F,,/2-| \
+[F,,/2B,,,/2-]B,,,/2x B,,,x B,,,x B,,,F,,| \
+[F,,B,,,]x [F,,B,,,]x [F,,B,,,]x B,,,x|
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,x B,,,F,,/2F,,/2-| \
+[F,,/2B,,,/2-]B,,,/2x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,F,,/2F,,/2- [F,,/2B,,,/2-]B,,,/2F,,|
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,x B,,,F,,/2F,,/2-| \
+[F,,/2B,,,/2-]B,,,/2x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,F,, [F,,B,,,]x B,,,x|
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,F,, B,,,x B,,,F,,| \
+B,,,x B,,,x B,,,x B,,,F,,| \
+B,,,x B,,,F,, [F,,B,,,]x B,,,

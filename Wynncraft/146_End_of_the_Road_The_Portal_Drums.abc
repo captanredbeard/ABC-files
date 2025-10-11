@@ -1,0 +1,71 @@
+X: 1
+T: 146_End_of_the_Road_The_Portal_Drums
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Locrian mode tune
+K:D % 2 sharps
+V:1
+%%MIDI channel 10
+x8| \
+x8| \
+x8| \
+x4 xD,,/2D,,/2 D,,/2D,,/2D,,/2D,,/2|
+D,,x/2D,,x/2D,, x/2D,,x2x/2| \
+D,,x/2D,,x/2D,, x/2D,,x2x/2| \
+D,,x/2D,,x/2D,, x/2D,,x2x/2| \
+D,,x/2D,,x4B,,,/2B,,,/2B,,,/2|
+B,,,x/2B,,,x/2B,,, x4| \
+B,,,x/2B,,,x/2B,,, x4| \
+[D,,B,,,]x/2B,,,x/2B,,, x3B,,,| \
+B,,,x/2B,,,x/2B,,, x4|
+B,,,x/2B,,,x/2B,,, x4| \
+[D,,B,,,]x/2B,,,x/2B,,, x3B,,,/2B,,,/2-| \
+B,,,/2x6x3/2| \
+x8|
+x8| \
+x6 xD,,/2D,,/2| \
+D,,x6x| \
+x8|
+x8| \
+x8| \
+B,,,x2B,,, x2 B,,,x| \
+xB,,, x2 B,,,x B,,,B,,,/2B,,,/2|
+B,,,x2B,,, x2 B,,,x| \
+B,,,x/2B,,,x/2B,,, xB,,, B,,,B,,,/2B,,,/2| \
+B,,,B,,, xB,,, xB,,,/2B,,,/2 B,,,B,,,| \
+B,,,B,,, xB,,, xB,,,/2B,,,/2 B,,,B,,,|
+B,,,B,,, xB,,, xB,,,/2B,,,/2 B,,,B,,,| \
+B,,,B,,, xB,,, B,,,x3| \
+x8| \
+x8|
+x8| \
+x4 xD,,/2D,,/2 D,,/2D,,/2D,,/2D,,/2| \
+D,,x/2D,,x/2D,, x/2D,,x2x/2| \
+D,,x/2D,,x/2D,, x/2D,,x2x/2|
+D,,x/2D,,x/2D,, x/2D,,x2x/2| \
+D,,x/2D,,x4B,,,/2B,,,/2B,,,/2| \
+B,,,x/2B,,,x/2B,,, x4| \
+B,,,x/2B,,,x/2B,,, x4|
+[D,,B,,,]x/2B,,,x/2B,,, x3B,,,| \
+B,,,x/2B,,,x/2B,,, x4| \
+B,,,x/2B,,,x/2B,,, x4| \
+[D,,B,,,]x/2B,,,x/2B,,, x3B,,,/2B,,,/2-|
+B,,,/2x6x3/2| \
+x8| \
+x8| \
+x6 xD,,/2D,,/2|
+D,,x6x| \
+x8| \
+x8| \
+x8|
+B,,,x2B,,, x2 B,,,x| \
+xB,,, x2 B,,,x B,,,B,,,/2B,,,/2| \
+B,,,x2B,,, x2 B,,,x| \
+B,,,x/2B,,,x/2B,,, xB,,, B,,,B,,,/2B,,,/2|
+B,,,B,,, xB,,, xB,,,/2B,,,/2 B,,,B,,,| \
+B,,,B,,, xB,,, xB,,,/2B,,,/2 B,,,B,,,| \
+B,,,B,,, xB,,, xB,,,/2B,,,/2 B,,,B,,,| \
+B,,,B,,, xB,,, B,,,

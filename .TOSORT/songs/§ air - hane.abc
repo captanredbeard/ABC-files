@@ -1,0 +1,75 @@
+X: 1
+T: Air - Hane
+C: I've (ABC by AGuymzx)
+L: 1/4
+Q: 160
+K: C
+z2 ^c2 ^d e b
+[A,,^g] ^C, [E,^g] [z/^C,^f] ^g/ E, ^G, ^C ^G,
+B,, ^D, [^F,^f] [^D,^g] [^F,b] [B,^f] [^Dd] [B,e]
+[^C,^d] E, [^G,^d] [^c/^C] [z/^G] E ^d, B, ^G,
+^C, E, ^G, [^C^c]  B,, [^D,^d] [^F,e] [B,b]
+[A,,^g] ^C, [E,^g] [z/^C,^f] ^g/ E, ^G, ^C ^G,
+B,, ^D, [^F,^f] [^D,^g] [^F,b] [B,^g] [^Db] [B,e']
+[^C,^d'] [z/E,] [z/^c'] ^G, [^C^g] e, ^d, B, [^G,^f]
+[^C,^g] E, [^G,b] ^C [B,,^c'] ^D, [^F,^d'] B,
+[A,,^g] ^C, [E,^g] [z/^C,^f] ^g/ E, ^G, ^C ^G,
+B,, ^D, [^F,^f] [^D,^g] [^F,b] [B,^f] [^Dd] [B,e]
+[^C,^d] E, [^G,^d] [^c/^C] [z/^G] E ^d, B, ^G,
+^C, E, ^G, [^C^c] B,, [^D,^d] [^F,e] [B,b]
+[A,,^g] ^C, [E,^g] [z/^C,^f] ^g/ E, ^G, ^C ^G,
+B,, ^D, [^F,^f] [^D,^g] [^F,b] [B,^g] [^Db] [B,e']
+[^C,^d'] E, ^G, E, ^C ^G, E, ^G,
+[^C,^c'] E, ^G, E, ^C ^G, [E,^c'] ^G,
+[^C,^d'] ^F, ^G, ^F, ^C ^G, ^F, ^G,
+[^C,^c'] ^F, ^G, B, ^C4
+^F, ^G, ^C [^aF4] ^a z/ ^a z/ ^a 
+[^G,^a] [z/^B,] [z/^g] ^D [^g^B,4] z ^a z ^b
+[z/^A,^c'] z/ [z/^C] [z/^b] F [^a^C4] z =f f2
+^A, ^C F ^A  [^G,^d] ^B, [^D^c] ^G
+^F, ^G, ^C [^aF4] ^a z/ ^a z/ ^a 
+[^G,^a] [z/^B,] [z/^g] ^D [^g^B,4] z ^e z ^g
+[z/^A,^a] z/ [z/^C] [z/^b] F [^c'4^C4] z
+^A, ^C F ^A ^G, ^B, ^D ^G
+^F, ^G, ^C [^aF4] ^a z/ ^a z/ ^a 
+[^G,^a] [z/^B,] [z/^g] ^D [^g^B,4] z ^a z ^b
+[z/^A,^c'] z/ [z/^C] [z/^b] F [^a^C4] z =f f2
+^A, ^C F ^A  [^G,^d] ^B, [^D^c] ^G
+^F, ^G, ^C [=fF4] f z/ f z/ f 
+[^G,^d] [z/^B,] [z/f] ^D [^g^B,4] z f z ^g
+[^A,^a] ^C F [z^C4] ^c' z ^b z
+[^A,^a] ^D F [z2^A4] z ^g2
+[=g^G,] ^D [g^G] [z/=f^G,] [z/g] ^B ^D ^G ^D
+^G, ^D [g^G] ^G, [^g^B] ^D [^a^G] ^D
+[=f=G,] =D =G [=d=G,] [d_B] =D =G =D
+=G, =D =G [d=G,] [^d_B] [f=D] =G =D
+[=g=F,] =C [=g=F] [z/=c=F,] [z/=g] ^G =C =F =C
+=F, =C =F =F, ^G =C [f^A] [d=C]
+[f=G,] =D [f=G] [d=G,] [f_B] [^a=D] =G [^a=D]
+=G, =D =G =G, ^B =D ^A =D
+[g^G,] ^D [g^G] [z/f^G,] [z/g] ^B ^D ^G ^D
+^G, ^D [g^G] ^G, [^g^B] ^D [^a^G] ^D
+[f=G,] =D =G [=d=G,] [d_B] =D =G =D
+=G, =D =G [d=G,] [^d_B] [f=D] =G =D
+[^a_G,] _D [^a_G] [z/^g_G,] [z/^a] _B _D _G _D
+_G, _D _G _G, _B _D [^g_G] [^f_D]
+[^g=F,] =D [^g^G] [^f=F,] [^g_B] [^a=F] =D [^a=F]
+_B,, =D =F _B, [^c_B4] ^d =e =b
+[A,,^g] ^C, [=E,^g] [z/^C,^f] ^g/ E, ^G, ^C ^G,
+=B,, ^D, [^F,^f] [^D,^g] [^F,=b] [=B,^f] [^Dd] [=B,e]
+[^C,^d] E, [^G,^d] [^c/^C] [z/^G] E ^d, B, ^G,
+^C, E, ^G, [^C^c]  B,, [^D,^d] [^F,e] [B,b]
+[A,,^g] ^C, [E,^g] [z/^C,^f] ^g/ E, ^G, ^C ^G,
+B,, ^D, [^F,^f] [^D,^g] [^F,b] [B,^g] [^Db] [B,e']
+[^C,^d'] [z/E,] [z/^c'] ^G, [^C^g] e, ^d, B, [^G,^f]
+[^C,^g] E, [^G,b] ^C [B,,^c'] ^D, [^F,^d'] B,
+[A,,^g] ^C, [E,^g] [z/^C,^f] ^g/ E, ^G, ^C ^G,
+B,, ^D, [^F,^f] [^D,^g] [^F,b] [B,^f] [^Dd] [B,e]
+[^C,^d] E, [^G,^d] [^c/^C] [z/^G] E ^d, B, ^G,
+^C, E, ^G, [^C^c] B,, [^D,^d] [^F,e] [B,b]
+[A,,^g] ^C, [E,^g] [z/^C,^f] ^g/ E, ^G, ^C ^G,
+B,, ^D, [^F,^f] [^D,^g] [^F,b] [B,^g] [^Db] [B,e']
+[^C,^d'] E, ^G, E, ^C ^G, E, ^G,
+[^C,^c'] E, ^G, E, ^C ^G, [E,^c'] ^G,
+[^C,^d'] ^F, ^G, ^F, ^C ^G, ^F, ^G,
+[^C,^c'] ^F, ^G, B, ^F,/5 ^G,/4 B,/3 ^C4

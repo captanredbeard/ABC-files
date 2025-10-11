@@ -1,0 +1,101 @@
+X: 1
+T: 096_Peaks_of_Ash_and_Flame_Molten_Heights_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Phrygian mode tune
+K:Eb % 3 flats
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+[CG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]x [BF]x [FD]x| \
+[CG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]x [B,G,]x [DB,]x|
+[CG,]B [dGD]B [=AFC]x [BEB,]x| \
+[GCG,]x [BGD]c [dBF]x [eFD]x| \
+[cGCG,]x [GD]B [=AFC]x [BEB,]x| \
+[GCG,]B [GD]c [=AFC]x [FEB,]x|
+[GCG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]x [BF]x [FD]x| \
+[CG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]B [=AFC]x [FEB,]x|
+[GCG,]x [GD]E [FC]x [EB,]x| \
+[CG,]x [GD]c [BF]x [=AFD]x| \
+[GCG,]x [GD]E [FC]x [EB,]x| \
+[CG,]x [GD]F [EB,G,]x [FDB,]G|
+[_ACA,]x [BGE]c [dBG]x [cFD]x| \
+[ACA,]B [cGE][AE] [BFD]x [GEC]E| \
+[ACA,]x [BGE]c [dBG]x [eFD]x| \
+[cACA,]B [GE][AE] [GEB,G,]x [FD]E|
+[CA,]x [GE]x [BG]x [FD]x| \
+[CCA,]x [GE]x [FDB,]x [EC]G,| \
+[CA,A,]x [GEG,]x [BG]x [FD]x| \
+[CA,]x [GE]x [BG]x [dB]x|
+[CG,]B [dGD]B [=AFC]x [BEB,]x| \
+[GCG,]x [BGD]c [dBF]x [eFD]x| \
+[cGCG,]x [GD]B [=AFC]x [BEB,]x| \
+[GCG,]B [GD]c [=AFC]x [FEB,]x|
+[GCG,]B [dBGD]B [c=AFC]x [eBEB,]x| \
+[cGCG,]x [BGD]c [dBF]x [ecFD]x| \
+[cGCG,]x [GD]B [=AFC]x [BEB,]x| \
+[BGCG,][dB] [GD][ec] [c=AFC]x [BFEB,]x|
+[cGCG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]x [BF]x [FD]x| \
+[CG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]B [=AFC]x [FEB,]x|
+[GCG,]x [GD]E [FC]x [EB,]x| \
+[CG,]x [GD]c [BF]x [=AFD]x| \
+[GCG,]x [GD]E [FC]x [EB,]x| \
+[CG,]x [GD]F [EB,G,]x [DB,]x|
+[CG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]x [BF]x [FD]x| \
+[CG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]x [B,G,]x [DB,]x|
+[CG,]B [dGD]B [=AFC]x [BEB,]x| \
+[GCG,]x [BGD]c [dBF]x [eFD]x| \
+[cGCG,]x [GD]B [=AFC]x [BEB,]x| \
+[GCG,]B [GD]c [=AFC]x [FEB,]x|
+[GCG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]x [BF]x [FD]x| \
+[CG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]B [=AFC]x [FEB,]x|
+[GCG,]x [GD]E [FC]x [EB,]x| \
+[CG,]x [GD]c [BF]x [=AFD]x| \
+[GCG,]x [GD]E [FC]x [EB,]x| \
+[CG,]x [GD]F [EB,G,]x [FDB,]G|
+[_ACA,]x [BGE]c [dBG]x [cFD]x| \
+[ACA,]B [cGE][AE] [BFD]x [GEC]E| \
+[ACA,]x [BGE]c [dBG]x [eFD]x| \
+[cACA,]B [GE][AE] [GEB,G,]x [FD]E|
+[CA,]x [GE]x [BG]x [FD]x| \
+[CCA,]x [GE]x [FDB,]x [EC]G,| \
+[CA,A,]x [GEG,]x [BG]x [FD]x| \
+[CA,]x [GE]x [BG]x [dB]x|
+[CG,]B [dGD]B [=AFC]x [BEB,]x| \
+[GCG,]x [BGD]c [dBF]x [eFD]x| \
+[cGCG,]x [GD]B [=AFC]x [BEB,]x| \
+[GCG,]B [GD]c [=AFC]x [FEB,]x|
+[GCG,]B [dBGD]B [c=AFC]x [eBEB,]x| \
+[cGCG,]x [BGD]c [dBF]x [ecFD]x| \
+[cGCG,]x [GD]B [=AFC]x [BEB,]x| \
+[BGCG,][dB] [GD][ec] [c=AFC]x [BFEB,]x|
+[cGCG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]x [BF]x [FD]x| \
+[CG,]x [GD]x [FC]x [EB,]x| \
+[CG,]x [GD]B [=AFC]x [FEB,]x|
+[GCG,]x [GD]E [FC]x [EB,]x| \
+[CG,]x [GD]c [BF]x [=AFD]x| \
+[GCG,]x [GD]E [FC]x [EB,]x| \
+[CG,]x [GD]F [EB,G,]x [DB,]x|
+[CG,]

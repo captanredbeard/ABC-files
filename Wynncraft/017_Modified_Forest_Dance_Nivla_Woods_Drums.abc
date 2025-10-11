@@ -1,0 +1,67 @@
+X: 1
+T: 017_Modified_Forest_Dance_Nivla_Woods_Drums
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+K:D % 2 sharps
+V:1
+%%MIDI channel 10
+F,,x F,,x F,,x F,,x| \
+F,,x F,,x F,,x F,,x| \
+F,,x F,,x F,,x F,,x| \
+F,,x F,,x F,,x F,,x|
+F,,x F,,x F,,x F,,x| \
+F,,x F,,x F,,x F,,x| \
+F,,x F,,x F,,x F,,x| \
+F,,x [F,,B,,,]x [F,,B,,,][F,,B,,,] [F,,/2D,,/2-B,,,/2][F,,/2D,,/2B,,,/2][F,,/2D,,/2-B,,,/2][F,,/2-D,,/2B,,,/2]|
+[F,,/2B,,,/2-]B,,,/2D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,|
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,|
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,|
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,|
+B,,,x6x| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+[F,,B,,,]x [F,,B,,,]x [F,,B,,,]x [F,,D,,B,,,]D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,/2-[F,,/2B,,,/2][F,,/2D,,/2-][F,,/2-D,,/2]| \
+[F,,/2B,,,/2-]B,,,/2D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,|
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,|
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,|
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,| \
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,|
+B,,,D,, B,,,D,, B,,,D,, B,,,D,,|

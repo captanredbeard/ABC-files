@@ -1,0 +1,129 @@
+X: 1
+T: 097_Amongst_the_Clouds_Sky_Islands_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:F# % 6 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+D,,x A,,,x D,,x A,,,x| \
+D,,x A,,,x D,,x A,,,x| \
+B,,,x E,,,x B,,,x E,,,x| \
+C,,x G,,,x C,,x G,,,C,,|
+D,,x A,,,x D,,x A,,,x| \
+D,,x A,,,x D,,x A,,,x| \
+B,,,x E,,,x B,,,x E,,,x| \
+C,,x G,,,x C,,x G,,,C,,|
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,x/2G,,,x/2C,,|
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,A,,, C,,A,,,|
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,| \
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,|
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,| \
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,|
+D,,x6x| \
+x8| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,|
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,x/2G,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,|
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,A,,, C,,A,,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,|
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,x/2G,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,|
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,x A,,,x| \
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,|
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,| \
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,|
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,| \
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,|
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,| \
+D,,x A,,,x D,,x A,,,x| \
+D,,x A,,,x D,,x A,,,x|
+B,,,x E,,,x B,,,x E,,,x| \
+C,,x G,,,x C,,x G,,,C,,| \
+D,,x A,,,x D,,x A,,,x| \
+D,,x A,,,x D,,x A,,,x|
+B,,,x E,,,x B,,,x E,,,x| \
+C,,x G,,,x C,,x G,,,C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,|
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,x/2G,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,|
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,A,,, C,,A,,,| \
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,|
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,| \
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,|
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,| \
+D,,x6x| \
+x8|
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,x/2G,,,x/2C,,|
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,A,,, C,,A,,,|
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,x/2G,,,x/2C,,|
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+D,,x A,,,x D,,x/2A,,,x/2C,,| \
+B,,,x E,,,x B,,,x/2E,,,x/2B,,,| \
+C,,x G,,,x C,,x A,,,x|
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,| \
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,|
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,| \
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,|
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,| \
+D,,x/2A,,,x/2D,, C,,x G,,,x| \
+B,,,E,,,/2-[B,,,/2-E,,,/2] B,,,/2x/2C,, D,,x A,,,C,,|
+D,,

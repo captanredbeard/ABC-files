@@ -1,0 +1,131 @@
+X: 1
+T: 020_Treacherous_Walkways_Pigmans_Ravines_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Dorian mode tune
+K:E % 4 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+[A,F,]F, x4 xF,| \
+[A,F,]F, x6| \
+[A,F,]F, x4 xF,| \
+[A,F,]F, x4 xE|
+[EA,F,][FF,] x2 Ax2F,| \
+[A,F,]F, xF AB BA| \
+[EA,F,][FF,] x2 A/2-[B/2-A/2]B/2x3/2[BF,]| \
+[FA,F,]F, xF Ex Dx|
+[A,F,]F, x4 xF,| \
+[A,F,]F, x6| \
+[A,F,]F, x4 xF,| \
+[A,F,]F, x4 xE|
+[EA,F,][FF,] x2 Ax2F,| \
+[A,F,]F, xF AB BA| \
+[EA,F,][FF,] x2 A/2-[B/2-A/2]B/2x3/2[BF,]| \
+[FA,F,]F, xF Ex DF/2-[A/2-F/2]|
+[A/2A,/2-F,/2-][A,/2F,/2]F, x4 xF,| \
+[A,F,]F, x6| \
+[A,F,]F, x4 xF,| \
+[A,F,]F, x4 xF/2-[A/2-F/2]|
+[A/2G/2-=F/2-C/2-][G/2=F/2C/2]x [CG,]x [CG,]x [CG,]x| \
+[CG,]x [CG,]x [CG,]x [CG,]x| \
+x[^FC] x[FC] x[EB,] x[DB,]| \
+x[FC] x[FC] x[EC] x[DB,]|
+x[FC] x[FC] x[EB,] x[DB,]| \
+x[FC] x[FC] x[EC] x[E/2D/2-B,/2-][E/2D/2B,/2]| \
+E[FC] E[FC] A[EB,] x[D/2-B,/2-][F/2-D/2B,/2]| \
+[c/2-F/2]c/2[BFC] A[BFC] A[EC] x[DB,]|
+c/2-[c/2B/2-][B/2A/2-F/2-C/2-][A/2F/2C/2] c/2-[c/2B/2-][B/2A/2-F/2-C/2-][A/2F/2C/2] B[EB,] A[DB,]| \
+F[FC] F,[FCF,] A,[EC] B,[DCB,]| \
+x[FC] x[FC] x[EB,] x[DB,]| \
+x[FC] F/2F/2[F/2C/2-][F/2-C/2] [F/2E/2-]E/2[FEC] x[DB,]|
+x[FC] x[FC] x[EB,] x[DB,]| \
+x[FC] x[FC] x[EC] x[D/2-B,/2-][E/2D/2B,/2]| \
+E[FC] E[FC] A[EB,] B[ADB,]| \
+c[c/2-F/2-C/2-][c/2A/2-F/2C/2] [A/2F/2-]F/2[cFC] B[EC] x[DB,]|
+c/2-[c/2B/2-][B/2A/2-F/2-C/2-][A/2F/2C/2] A/2-[B/2-A/2][c/2-B/2F/2-C/2-][c/2F/2C/2] B[B/2-E/2-B,/2-][c/2-B/2E/2B,/2] [c/2B/2-]B/2[cDB,]| \
+F[FC] F,[FCF,] A,[EC] B,[DB,F,]| \
+x[FC] x[FC] x[EB,] x[DB,]| \
+x[FC] [f/2F/2][f/2F/2][f/2F/2C/2-][f/2-F/2-C/2] [f/2e/2-F/2E/2-][e/2E/2][fEC] x[DB,]|
+x[FC] x[FC] x[EB,] x[DB,]| \
+x[FC] x[FC] x[EC] x[DB,]| \
+[c=F]x Gx Cx3| \
+e/2-[e/2d/2-][d/2c/2-G/2-][d/2-c/2G/2] [e/2-d/2][e/2d/2-][d/2c/2-G/2-][d/2-c/2G/2] [d/2B/2-]B/2[B/2^A/2-^F/2-][B/2-^A/2F/2] [B/2^A/2-]^A/2[^AF]|
+x[cG] x[cG] x[BG] x[^AF]| \
+c[c/2-G/2-][d/2-c/2G/2] [e/2-d/2][e/2d/2-][d/2c/2-G/2-][c/2G/2] e[BF] f[^AF]| \
+x[cG] x[cG] x[BG] x[^AF]| \
+x[cG] x[cF] x[cG] x[cF]|
+x[cG] x[cF] x[cG] x[cF]| \
+x[cG] x[cF] x[cG] x[cF]| \
+x[cG] x[cF] x[cG] x[cF]| \
+[=A,F,]F, x4 xF,|
+[A,F,]F, x6| \
+[A,F,]F, x4 xF,| \
+[A,F,]F, x4 xF,| \
+[A,F,]F, x4 xF,|
+[A,F,]F, x6| \
+[A,F,]F, x4 xF,| \
+[A,F,]F, x4 xE| \
+[EA,F,][FF,] x2 Ax2F,|
+[A,F,]F, xF AB BA| \
+[EA,F,][FF,] x2 A/2-[B/2-A/2]B/2x3/2[BF,]| \
+[FA,F,]F, xF Ex Dx| \
+[A,F,]F, x4 xF,|
+[A,F,]F, x6| \
+[A,F,]F, x4 xF,| \
+[A,F,]F, x4 xE| \
+[EA,F,][FF,] x2 Ax2F,|
+[A,F,]F, xF AB BA| \
+[EA,F,][FF,] x2 A/2-[B/2-A/2]B/2x3/2[BF,]| \
+[FA,F,]F, xF Ex DF/2-[A/2-F/2]| \
+[A/2A,/2-F,/2-][A,/2F,/2]F, x4 xF,|
+[A,F,]F, x6| \
+[A,F,]F, x4 xF,| \
+[A,F,]F, x4 xF/2-[A/2-F/2]| \
+[A/2G/2-=F/2-C/2-][G/2=F/2C/2]x [CG,]x [CG,]x [CG,]x|
+[CG,]x [CG,]x [CG,]x [CG,]x| \
+x[^FC] x[FC] x[EB,] x[DB,]| \
+x[FC] x[FC] x[EC] x[DB,]| \
+x[FC] x[FC] x[EB,] x[DB,]|
+x[FC] x[FC] x[EC] x[E/2D/2-B,/2-][E/2D/2B,/2]| \
+E[FC] E[FC] A[EB,] x[D/2-B,/2-][F/2-D/2B,/2]| \
+[c/2-F/2]c/2[BFC] A[BFC] A[EC] x[DB,]| \
+c/2-[c/2B/2-][B/2A/2-F/2-C/2-][A/2F/2C/2] c/2-[c/2B/2-][B/2A/2-F/2-C/2-][A/2F/2C/2] B[EB,] A[DB,]|
+F[FC] F,[FCF,] A,[EC] B,[DCB,]| \
+x[FC] x[FC] x[EB,] x[DB,]| \
+x[FC] F/2F/2[F/2C/2-][F/2-C/2] [F/2E/2-]E/2[FEC] x[DB,]| \
+x[FC] x[FC] x[EB,] x[DB,]|
+x[FC] x[FC] x[EC] x[D/2-B,/2-][E/2D/2B,/2]| \
+E[FC] E[FC] A[EB,] B[ADB,]| \
+c[c/2-F/2-C/2-][c/2A/2-F/2C/2] [A/2F/2-]F/2[cFC] B[EC] x[DB,]| \
+c/2-[c/2B/2-][B/2A/2-F/2-C/2-][A/2F/2C/2] A/2-[B/2-A/2][c/2-B/2F/2-C/2-][c/2F/2C/2] B[B/2-E/2-B,/2-][c/2-B/2E/2B,/2] [c/2B/2-]B/2[cDB,]|
+F[FC] F,[FCF,] A,[EC] B,[DB,F,]| \
+x[FC] x[FC] x[EB,] x[DB,]| \
+x[FC] [f/2F/2][f/2F/2][f/2F/2C/2-][f/2-F/2-C/2] [f/2e/2-F/2E/2-][e/2E/2][fEC] x[DB,]| \
+x[FC] x[FC] x[EB,] x[DB,]|
+x[FC] x[FC] x[EC] x[DB,]| \
+[c=F]x Gx Cx3| \
+e/2-[e/2d/2-][d/2c/2-G/2-][d/2-c/2G/2] [e/2-d/2][e/2d/2-][d/2c/2-G/2-][d/2-c/2G/2] [d/2B/2-]B/2[B/2^A/2-^F/2-][B/2-^A/2F/2] [B/2^A/2-]^A/2[^AF]| \
+x[cG] x[cG] x[BG] x[^AF]|
+c[c/2-G/2-][d/2-c/2G/2] [e/2-d/2][e/2d/2-][d/2c/2-G/2-][c/2G/2] e[BF] f[^AF]| \
+x[cG] x[cG] x[BG] x[^AF]| \
+x[cG] x[cF] x[cG] x[cF]| \
+x[cG] x[cF] x[cG] x[cF]|
+x[cG] x[cF] x[cG] x[cF]| \
+x[cG] x[cF] x[cG] x[cF]| \
+[=A,F,]F, x4 xF,| \
+[A,F,]F, x6|
+[A,F,]F, x4 xF,| \
+[A,F,]F, x4 xF,| \
+[A,F,]F, 

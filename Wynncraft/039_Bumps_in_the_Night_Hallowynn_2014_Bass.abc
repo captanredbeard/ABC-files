@@ -1,0 +1,80 @@
+X: 1
+T: 039_Bumps_in_the_Night_Hallowynn_2014_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Phrygian mode tune
+K:F % 1 flats
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+A,,,x E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x| \
+=E,,x E,,x/2F,,/2- [F,,/2E,,/2-]E,,/2D,, C,,=B,,,|
+A,,,x E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x| \
+=E,,x E,,x/2F,,/2- [F,,/2E,,/2-]E,,/2D,, C,,=B,,,|
+D,,x A,,,x D,,x A,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+D,,x A,,,x D,,x A,,,x| \
+E,,x =B,,,x E,,x _A,,,x|
+=A,,,x E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x| \
+=E,,x E,,x/2F,,/2- [F,,/2E,,/2-]E,,/2D,, C,,=B,,,|
+_B,,,x F,,x B,,,x E,,x| \
+B,,,x F,,x B,,,x E,,x| \
+B,,,x F,,x B,,,x E,,x| \
+F,,x F,,x/2_G,,/2- [_G,,/2F,,/2-]F,,/2_E,, _D,,C,,|
+_E,,x B,,,x F,,x C,,x| \
+=E,,x E,,=B,,, E,,x _A,,,x| \
+=D,,x =A,,,x D,,x A,,,x| \
+A,,,x E,,x A,,,x E,,x|
+D,,x A,,,x D,,x A,,,x| \
+E,,x =B,,,x E,,x _A,,,x| \
+=A,,,x E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x|
+A,,,x =E,,x A,,,x _E,,x| \
+=E,,x E,,_G,,/2-[_A,,/2-_G,,/2] [=A,,/2-_A,,/2]=A,,/2E,, A,,,A,,,/2A,,,/2| \
+A,,,x E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x|
+A,,,x =E,,x A,,,x _E,,x| \
+=E,,x E,,x/2F,,/2- [F,,/2E,,/2-]E,,/2D,, C,,=B,,,| \
+A,,,x E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x|
+A,,,x =E,,x A,,,x _E,,x| \
+=E,,x E,,x/2F,,/2- [F,,/2E,,/2-]E,,/2D,, C,,=B,,,| \
+D,,x A,,,x D,,x A,,,x| \
+A,,,x E,,x A,,,x E,,x|
+D,,x A,,,x D,,x A,,,x| \
+E,,x =B,,,x E,,x _A,,,x| \
+=A,,,x E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x|
+A,,,x =E,,x A,,,x _E,,x| \
+=E,,x E,,x/2F,,/2- [F,,/2E,,/2-]E,,/2D,, C,,=B,,,| \
+_B,,,x F,,x B,,,x E,,x| \
+B,,,x F,,x B,,,x E,,x|
+B,,,x F,,x B,,,x E,,x| \
+F,,x F,,x/2_G,,/2- [_G,,/2F,,/2-]F,,/2_E,, _D,,C,,| \
+_E,,x B,,,x F,,x C,,x| \
+=E,,x E,,=B,,, E,,x _A,,,x|
+=D,,x =A,,,x D,,x A,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+D,,x A,,,x D,,x A,,,x| \
+E,,x =B,,,x E,,x _A,,,x|
+=A,,,x E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x| \
+A,,,x =E,,x A,,,x _E,,x| \
+=E,,x E,,_G,,/2-[_A,,/2-_G,,/2] [=A,,/2-_A,,/2]=A,,/2

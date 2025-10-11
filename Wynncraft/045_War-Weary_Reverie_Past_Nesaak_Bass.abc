@@ -1,0 +1,98 @@
+X: 1
+T: 045_War-Weary_Reverie_Past_Nesaak_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Dorian mode tune
+K:E % 4 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+[F,F,,F,,,]x6x| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+[F,,F,,,]x2[C,C,,] x[A,,A,,,] [B,,B,,,]x|
+x[F,,F,,,] x[B,,B,,,] [A,,A,,,]x [F,,F,,,]x| \
+x[C,C,,] x[A,,A,,,] [B,,B,,,]x2[D,D,,]| \
+x[B,,B,,,] [A,,A,,,]x [F,,F,,,]x2[C,C,,]| \
+x[A,,A,,,] [B,,B,,,]x2[F,,F,,,] x[B,,B,,,]|
+[A,,A,,,]x [F,,F,,,]x2[C,C,,] x[A,,A,,,]| \
+[B,,B,,,]x2[D,D,,] x[B,,B,,,] [A,,A,,,]x| \
+[F,,F,,,]x2[C,C,,] x[A,,A,,,] [B,,B,,,]x| \
+x[F,,F,,,] x[B,,B,,,] [A,,A,,,]x [F,,F,,,]x|
+x[C,C,,] x[A,,A,,,] [B,,B,,,]x2[D,D,,]| \
+x[B,,B,,,] [A,,A,,,]x [F,,F,,,]x2[C,C,,]| \
+x[A,,A,,,] [B,,B,,,]x2[F,,F,,,] x[B,,B,,,]| \
+[A,,A,,,]x [F,,F,,,]x2[C,C,,] x[A,,A,,,]|
+[B,,B,,,]x2[D,D,,] x[B,,B,,,] [A,,A,,,]x| \
+[C,F,,C,,F,,,]x [A,,C,,A,,,][C,F,,C,,F,,,] x[A,,C,,A,,,] [E,B,,E,,B,,,]x| \
+[E,B,,E,,B,,,][D,B,,D,,B,,,] x[B,,F,,B,,,F,,,] x[B,,F,,B,,,F,,,] [C,F,,C,,F,,,]x| \
+[A,,C,,A,,,][C,F,,C,,F,,,] x[A,,C,,A,,,] [E,B,,E,,B,,,]x [E,B,,E,,B,,,][D,B,,D,,B,,,]|
+x[B,,F,,B,,,F,,,] x[B,,F,,B,,,F,,,] [C,F,,C,,F,,,]F,,, [A,,C,,A,,,F,,,][C,F,,C,,A,,,F,,,]| \
+A,,,[A,,C,,A,,,] [E,B,,E,,B,,,B,,,]B,,, [E,B,,E,,B,,,B,,,][D,B,,D,,B,,,B,,,] B,,,[B,,F,,B,,,B,,,F,,,]| \
+A,,,[B,,F,,B,,,G,,,F,,,] [C,F,,C,,F,,,]F,,, [A,,C,,A,,,F,,,][C,F,,C,,A,,,F,,,] A,,,[A,,C,,A,,,]| \
+[E,B,,E,,B,,,B,,,]B,,, [E,B,,E,,B,,,B,,,][D,B,,D,,B,,,B,,,] B,,,[B,,F,,B,,,B,,,F,,,] A,,,[B,,F,,B,,,G,,,F,,,]|
+x8| \
+x8| \
+x8| \
+x2 [A,,A,,,]x [F,,F,,,]x2[C,C,C,,C,,]|
+x[A,,A,,A,,,A,,,] [B,,B,,B,,,B,,,]x2[F,,F,,F,,,F,,,] x[B,,B,,B,,,B,,,]| \
+[A,,A,,A,,,A,,,]x [F,,F,,F,,,F,,,]x2[C,C,C,,C,,] x[A,,A,,A,,,A,,,]| \
+[B,,B,,B,,,B,,,]x2[D,D,D,,D,,] x[B,,B,,B,,,B,,,] [A,,A,,A,,,A,,,]x| \
+[F,,F,,F,,,F,,,]x2[C,C,C,,C,,] x[A,,A,,A,,,A,,,] [B,,B,,B,,,B,,,]x|
+x[F,,F,,F,,,F,,,] x[B,,B,,B,,,B,,,] [A,,A,,A,,,A,,,]x [F,,F,,F,,,F,,,]x| \
+x[C,C,C,,C,,] x[A,,A,,A,,,A,,,] [B,,B,,B,,,B,,,]x2[D,D,D,,D,,]| \
+x[B,,B,,B,,,B,,,] [A,,A,,A,,,A,,,][G,,G,,G,,,G,,,] [F,F,,F,,,]x3| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x4 [F,,F,,,]x2[C,C,,]| \
+x[A,,A,,,] [B,,B,,,]x2[F,,F,,,] x[B,,B,,,]| \
+[A,,A,,,]x [F,,F,,,]x2[C,C,,] x[A,,A,,,]|
+[B,,B,,,]x2[D,D,,] x[B,,B,,,] [A,,A,,,]x| \
+[F,,F,,,]x2[C,C,,] x[A,,A,,,] [B,,B,,,]x| \
+x[F,,F,,,] x[B,,B,,,] [A,,A,,,]x [F,,F,,,]x| \
+x[C,C,,] x[A,,A,,,] [B,,B,,,]x2[D,D,,]|
+x[B,,B,,,] [A,,A,,,]x [F,,F,,,]x2[C,C,,]| \
+x[A,,A,,,] [B,,B,,,]x2[F,,F,,,] x[B,,B,,,]| \
+[A,,A,,,]x [F,,F,,,]x2[C,C,,] x[A,,A,,,]| \
+[B,,B,,,]x2[D,D,,] x[B,,B,,,] [A,,A,,,]x|
+[F,,F,,,]x2[C,C,,] x[A,,A,,,] [B,,B,,,]x| \
+x[F,,F,,,] x[B,,B,,,] [A,,A,,,]x [F,,F,,,]x| \
+x[C,C,,] x[A,,A,,,] [B,,B,,,]x2[D,D,,]| \
+x[B,,B,,,] [A,,A,,,]x [C,F,,C,,F,,,]x [A,,C,,A,,,][C,F,,C,,F,,,]|
+x[A,,C,,A,,,] [E,B,,E,,B,,,]x [E,B,,E,,B,,,][D,B,,D,,B,,,] x[B,,F,,B,,,F,,,]| \
+x[B,,F,,B,,,F,,,] [C,F,,C,,F,,,]x [A,,C,,A,,,][C,F,,C,,F,,,] x[A,,C,,A,,,]| \
+[E,B,,E,,B,,,]x [E,B,,E,,B,,,][D,B,,D,,B,,,] x[B,,F,,B,,,F,,,] x[B,,F,,B,,,F,,,]| \
+[C,F,,C,,F,,,]F,,, [A,,C,,A,,,F,,,][C,F,,C,,A,,,F,,,] A,,,[A,,C,,A,,,] [E,B,,E,,B,,,B,,,]B,,,|
+[E,B,,E,,B,,,B,,,][D,B,,D,,B,,,B,,,] B,,,[B,,F,,B,,,B,,,F,,,] A,,,[B,,F,,B,,,G,,,F,,,] [C,F,,C,,F,,,]F,,,| \
+[A,,C,,A,,,F,,,][C,F,,C,,A,,,F,,,] A,,,[A,,C,,A,,,] [E,B,,E,,B,,,B,,,]B,,, [E,B,,E,,B,,,B,,,][D,B,,D,,B,,,B,,,]| \
+B,,,[B,,F,,B,,,B,,,F,,,] A,,,[B,,F,,B,,,G,,,F,,,] x4| \
+x8|
+x8| \
+x6 [A,,A,,,]x| \
+[F,,F,,,]x2[C,C,C,,C,,] x[A,,A,,A,,,A,,,] [B,,B,,B,,,B,,,]x| \
+x[F,,F,,F,,,F,,,] x[B,,B,,B,,,B,,,] [A,,A,,A,,,A,,,]x [F,,F,,F,,,F,,,]x|
+x[C,C,C,,C,,] x[A,,A,,A,,,A,,,] [B,,B,,B,,,B,,,]x2[D,D,D,,D,,]| \
+x[B,,B,,B,,,B,,,] [A,,A,,A,,,A,,,]x [F,,F,,F,,,F,,,]x2[C,C,C,,C,,]| \
+x[A,,A,,A,,,A,,,] [B,,B,,B,,,B,,,]x2[F,,F,,F,,,F,,,] x[B,,B,,B,,,B,,,]| \
+[A,,A,,A,,,A,,,]x [F,,F,,F,,,F,,,]x2[C,C,C,,C,,] x[A,,A,,A,,,A,,,]|
+[B,,B,,B,,,B,,,]x2[D,D,D,,D,,] x[B,,B,,B,,,B,,,] [A,,A,,A,,,A,,,][G,,G,,G,,,G,,,]| \
+[F,F,,F,,,]

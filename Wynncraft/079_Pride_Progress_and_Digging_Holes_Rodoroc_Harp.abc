@@ -1,0 +1,86 @@
+X: 1
+T: 079_Pride_Progress_and_Digging_Holes_Rodoroc_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:F % 1 flats
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+[DA,]x2[DA,] x2 [DA,]x| \
+x[DA,] x2 [DA,]x [DA,]x| \
+[DA,]x2[DA,] x2 [DA,]x| \
+[DB,]x [EA,]x [CA,]E [DA,]x|
+[DA,]x2[DA,] x2 [DA,]x| \
+x[DA,] x2 [DA,]x [DA,]x| \
+[DA,]x2[DA,] x2 [DA,]x| \
+[DB,]x [EA,]x [CA,]E [DA,]x|
+[DA,]x D[EDA,] FG [AFDA,]x| \
+F[GDA,] AG [FDA,]E [DA,]x| \
+[DA,]x D[EDA,] FG [AFDA,]x| \
+[BDB,]x [AEA,]x [AECA,][GE] [FDA,]E|
+[DA,]x D[EDA,] FG [AFDA,]x| \
+F[GDA,] A[cG] [dFDA,][cE] [ADA,]x| \
+[FDA,]x [FD][GEDA,] [AF][cG] [dAFDA,]x| \
+[dBFDB,]x [eAEA,]x [cAECA,][eGEC] [dFDA,]x|
+[B,G,]D B[AB,G,] Gx [GDB,G,]F| \
+G[AB,G,] [BG][AF] [GDB,G,][FC] [DB,G,]x| \
+[B,G,]D [B,G,][CB,A,G,] [DB,]x [FB,G,][EA,]| \
+[DG,][B,G,] x2 [B,G,]x [GB,G,]F|
+[GB,G,]D B,[CB,G,] Dx [GDB,G,][FC]| \
+[GD][AFB,G,] [BG][cA] [dBB,G,][cA] [BGB,G,]x| \
+[B,G,]G, [B,G,][CB,A,G,] [DB,]x [FB,G,][DB,]| \
+[EA,]x2[EA,] x2 [EA,]x|
+x[EA,] x2 [EA,]x [EA,]x| \
+[DA,]x D[EDA,] FG [AFDA,]x| \
+F[GDA,] A[BG] [AFDA,][GE] [FDA,]E| \
+[DA,]x D[EDA,] FG [AFDA,]x|
+[BDB,]x [AEA,]x [AECA,][cGE] [dFDA,]E| \
+[dDA,]x D[EDA,] FG [AFDA,]x| \
+F[GDA,] A[cG] [dFDA,][ecE] [fADA,]e| \
+[dFDA,]x [FD][GEDA,] [AF][cG] [dAFDA,]x|
+[dBFDB,]x [eAEA,]x [cAECA,][eGEC] [dFDA,]x| \
+[DA,]x2[DA,] x2 [DA,]x| \
+x[DA,] x2 [DA,]x [DA,]x| \
+[DA,]x2[DA,] x2 [DA,]x|
+[DB,]x [EA,]x [CA,]E [DA,]x| \
+[DA,]x2[DA,] x2 [DA,]x| \
+x[DA,] x2 [DA,]x [DA,]x| \
+[DA,]x2[DA,] x2 [DA,]x|
+[DB,]x [EA,]x [CA,]E [DA,]x| \
+[DA,]x D[EDA,] FG [AFDA,]x| \
+F[GDA,] AG [FDA,]E [DA,]x| \
+[DA,]x D[EDA,] FG [AFDA,]x|
+[BDB,]x [AEA,]x [AECA,][GE] [FDA,]E| \
+[DA,]x D[EDA,] FG [AFDA,]x| \
+F[GDA,] A[cG] [dFDA,][cE] [ADA,]x| \
+[FDA,]x [FD][GEDA,] [AF][cG] [dAFDA,]x|
+[dBFDB,]x [eAEA,]x [cAECA,][eGEC] [dFDA,]x| \
+[B,G,]D B[AB,G,] Gx [GDB,G,]F| \
+G[AB,G,] [BG][AF] [GDB,G,][FC] [DB,G,]x| \
+[B,G,]D [B,G,][CB,A,G,] [DB,]x [FB,G,][EA,]|
+[DG,][B,G,] x2 [B,G,]x [GB,G,]F| \
+[GB,G,]D B,[CB,G,] Dx [GDB,G,][FC]| \
+[GD][AFB,G,] [BG][cA] [dBB,G,][cA] [BGB,G,]x| \
+[B,G,]G, [B,G,][CB,A,G,] [DB,]x [FB,G,][DB,]|
+[EA,]x2[EA,] x2 [EA,]x| \
+x[EA,] x2 [EA,]x [EA,]x| \
+[DA,]x D[EDA,] FG [AFDA,]x| \
+F[GDA,] A[BG] [AFDA,][GE] [FDA,]E|
+[DA,]x D[EDA,] FG [AFDA,]x| \
+[BDB,]x [AEA,]x [AECA,][cGE] [dFDA,]E| \
+[dDA,]x D[EDA,] FG [AFDA,]x| \
+F[GDA,] A[cG] [dFDA,][ecE] [fADA,]e|
+[dFDA,]x [FD][GEDA,] [AF][cG] [dAFDA,]x| \
+[dBFDB,]x [eAEA,]x [cAECA,][eGEC] [dFDA,]

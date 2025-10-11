@@ -1,0 +1,107 @@
+X: 1
+T: 084_Epic_Gavel_Gavel_Gate_Drums
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:D % 2 sharps
+V:1
+%%MIDI channel 10
+B,,,x6x| \
+B,,,x6x| \
+B,,,x6x| \
+B,,,x6x|
+B,,,x6x| \
+B,,,x6x| \
+B,,,x6x| \
+B,,,x B,,,x B,,,x B,,,B,,,/2B,,,/2|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+x3B,,,/2B,,,/2 B,,,B,,,/2B,,,/2 [D,,B,,,][F,,B,,,]| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x4x|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x B,,,x|
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2|
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2|
+B,,,x6x| \
+B,,,x6x| \
+B,,,x6x| \
+B,,,x6x|
+B,,,x6x| \
+B,,,x6x| \
+B,,,x6x| \
+B,,,x B,,,x B,,,x B,,,B,,,/2B,,,/2|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+x3B,,,/2B,,,/2 B,,,B,,,/2B,,,/2 [D,,B,,,][F,,B,,,]| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x4x|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,|
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x [D,,B,,,]F,,| \
+B,,,x [D,,B,,,]x B,,,x B,,,x|
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2|
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,x/2B,,,/2| \
+B,,,x B,,,x B,,,x B,,,

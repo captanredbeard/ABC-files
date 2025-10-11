@@ -1,0 +1,100 @@
+X: 1
+T: 089_The_Forest_Dies_Dark_Forest_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:C % 0 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x C,,B,,,| \
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x C,,B,,,|
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x| \
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x|
+A,,,x [E,A,,]A,,, E,,x [E,B,,]E,,| \
+F,,x [F,C,]E,, D,,x [F,D,C,,]B,,,| \
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x C,,B,,,|
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x| \
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x|
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x C,,B,,,| \
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x C,,B,,,|
+A,,,x3 E,,x3| \
+F,,x3 D,,x3| \
+A,,,x3 E,,x3| \
+F,,x3 D,,x3|
+A,,,x3 E,,x3| \
+F,,x3 D,,x3| \
+A,,,x3 E,,x3| \
+F,,x3 D,,x3|
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x| \
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x|
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x| \
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x|
+A,,,x [E,A,,]A,,, E,,x [E,B,,]E,,| \
+F,,x [F,C,]E,, D,,x [F,D,C,,]B,,,| \
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x A,,,x|
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x C,,B,,,| \
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x C,,B,,,|
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x| \
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x|
+A,,,x [E,A,,]A,,, E,,x [E,B,,]E,,| \
+F,,x [F,C,]E,, D,,x [F,D,C,,]B,,,| \
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x C,,B,,,|
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x| \
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x|
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x C,,B,,,| \
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x C,,B,,,|
+A,,,x3 E,,x3| \
+F,,x3 D,,x3| \
+A,,,x3 E,,x3| \
+F,,x3 D,,x3|
+A,,,x3 E,,x3| \
+F,,x3 D,,x3| \
+A,,,x3 E,,x3| \
+F,,x3 D,,x3|
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x| \
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x|
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x| \
+A,,,x E,,x E,,x B,,,x| \
+F,,x C,,x D,,x A,,,x|
+A,,,x [E,A,,]A,,, E,,x [E,B,,]E,,| \
+F,,x [F,C,]E,, D,,x [F,D,C,,]B,,,| \
+A,,,x2A,,, E,,x2E,,| \
+F,,x2E,, D,,x A,,,

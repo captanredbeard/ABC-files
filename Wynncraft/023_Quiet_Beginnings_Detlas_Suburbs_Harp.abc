@@ -1,0 +1,76 @@
+X: 1
+T: 023_Quiet_Beginnings_Detlas_Suburbs_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:A % 3 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+B,x [FD]x F,x [FD]x| \
+B,x [FD]x F,x [CA,]x| \
+Dx [FA,]^D Ex [BG]C| \
+B,x [F=D]x F,x [FD]A|
+[GB,]x [FD]x F,x [FD]A| \
+[GB,]x [FD]A [FF,]x [CA,]A| \
+[GD]A [GFA,][A^D] Ex [BG][AC]| \
+[GB,]x [F=D]x [FF,]x [FD]x|
+[GB,]A [AFD]A [GF,]x [FD]A| \
+[GB,]x [FD]A [FF,]x [CA,]A| \
+[GD]A [GFA,][A^D] Ex [BG][AC]| \
+[GB,]x [F=D]x [FF,]x [FD]x|
+[fB,]f [fFD]f [eF,]e [dFD]d| \
+[cB,]c [cFD]c [BF,]B [BCA,]B| \
+[AD]A [BFA,][B^D] [cE]c [=dBG][cC]| \
+[BGB,]B [BFD]B [BF,]B [BFD]B|
+[BB,]B [BFD]B [BF,]B [AFD]B| \
+[cB,]c [cFD]c [BF,]B [BCA,]B| \
+[dD]c [BFA,][B^D] [cE]B A[AC]| \
+[BB,]B [BF=D]B [BF,]B [BFD]B|
+[fB,]x [FD]x [eF,]x [dFD]x| \
+[cB,]x [FD]x [BF,]x [CA,]x| \
+[AD]x [BFA,]^D [cE]x =d[cC]| \
+[BB,]x [FD]x F,x [FD]x|
+B,x [FD]x F,x [AFD]B| \
+[cB,]x [FD]x [BF,]x [CA,]x| \
+[dD]c [BFA,]^D [cE]B AC| \
+[BB,]x [F=D]x F,x [FD]x|
+B,x [FD]x F,x [FD]x| \
+B,x [FD]x F,x [CA,]x| \
+Dx [FA,]^D Ex [BG]C| \
+B,x [F=D]x F,x [FD]A|
+[GB,]x [FD]x F,x [FD]A| \
+[GB,]x [FD]A [FF,]x [CA,]A| \
+[GD]A [GFA,][A^D] Ex [BG][AC]| \
+[GB,]x [F=D]x [FF,]x [FD]x|
+[GB,]A [AFD]A [GF,]x [FD]A| \
+[GB,]x [FD]A [FF,]x [CA,]A| \
+[GD]A [GFA,][A^D] Ex [BG][AC]| \
+[GB,]x [F=D]x [FF,]x [FD]x|
+[fB,]f [fFD]f [eF,]e [dFD]d| \
+[cB,]c [cFD]c [BF,]B [BCA,]B| \
+[AD]A [BFA,][B^D] [cE]c [=dBG][cC]| \
+[BGB,]B [BFD]B [BF,]B [BFD]B|
+[BB,]B [BFD]B [BF,]B [AFD]B| \
+[cB,]c [cFD]c [BF,]B [BCA,]B| \
+[dD]c [BFA,][B^D] [cE]B A[AC]| \
+[BB,]B [BF=D]B [BF,]B [BFD]B|
+[fB,]x [FD]x [eF,]x [dFD]x| \
+[cB,]x [FD]x [BF,]x [CA,]x| \
+[AD]x [BFA,]^D [cE]x =d[cC]| \
+[BB,]x [FD]x F,x [FD]x|
+B,x [FD]x F,x [AFD]B| \
+[cB,]x [FD]x [BF,]x [CA,]x| \
+[dD]c [BFA,]^D [cE]B AC| \
+[BB,]x [F=D]x F,x [FD]

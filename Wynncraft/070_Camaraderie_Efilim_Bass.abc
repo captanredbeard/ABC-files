@@ -1,0 +1,83 @@
+X: 1
+T: 070_Camaraderie_Efilim_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Phrygian mode tune
+K:Ab % 4 flats
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+F,,x4x F,,x| \
+x4 F,,x3| \
+x2 F,,x4x| \
+F,,x4x F,,x|
+x4 D,,x2E,,| \
+x2 F,,x2C,, x2| \
+F,,x2E,, x2 F,,x| \
+xC,, x2 F,,x2A,,|
+x2 F,,x2E,, D,,E,,| \
+F,,x2E,, x2 F,,x| \
+xC,, x2 E,,x2F,,| \
+G,,A,, F,,x2C,, x2|
+F,,x C,,E,, D,,E,, F,,x| \
+xC,, x2 F,,x E,,A,,| \
+xG,, F,,x2[E,,C,,] [D,,/2-B,,,/2][D,,/2B,,,/2-][E,,/2-C,,/2-B,,,/2][E,,/2C,,/2]| \
+F,,x C,,E,, x2 F,,E,,|
+F,,C,, x2 [E,,B,,,]x C,,[F,,E,,]| \
+[G,,C,,][A,,B,,,] [F,,C,,]x2[F,,C,,] x2| \
+C,,C,, C,,F,, x2 F,,C,,| \
+C,,E,, x2 E,,A,, G,,F,,|
+x2 F,,E,, C,,C,, x2| \
+C,,E,, C,,B,,, x2 C,,C,,| \
+B,,,C,, x2 D,,x2E,,| \
+x2 F,,[F,/2C,/2][F,/2C,/2] [F,C,][F,C,] x2|
+F,,x C,,E,, D,,E,, F,,x| \
+xC,, x2 F,,x E,,A,,| \
+xG,, F,,x2[E,,C,,] [D,,/2-B,,,/2][D,,/2B,,,/2-][E,,/2-C,,/2-B,,,/2][E,,/2C,,/2]| \
+F,,x C,,E,, x2 F,,E,,|
+F,,C,, x2 [E,,B,,,]x C,,[F,,E,,]| \
+[G,,C,,][A,,B,,,] [F,,C,,]x2[C,C,,] x2| \
+[E,E,,B,,,]x C,,[D,F,,E,,] [G,,C,,][E,A,,B,,,] [F,F,,C,,]x| \
+x[F,F,,C,,] x2 F,,x3|
+x2 F,,x4x| \
+F,,x4x F,,x| \
+x4 F,,x3| \
+x2 F,,x4x|
+D,,x2E,, x2 F,,x| \
+xC,, x2 F,,x2E,,| \
+x2 F,,x2C,, x2| \
+F,,x2A,, x2 F,,x|
+xE,, D,,E,, F,,x2E,,| \
+x2 F,,x2C,, x2| \
+E,,x2F,, G,,A,, F,,x| \
+xC,, x2 F,,x C,,E,,|
+D,,E,, F,,x2C,, x2| \
+F,,x E,,A,, xG,, F,,x| \
+x[E,,C,,] [D,,/2-B,,,/2][D,,/2B,,,/2-][E,,/2-C,,/2-B,,,/2][E,,/2C,,/2] F,,x C,,E,,| \
+x2 F,,E,, F,,C,, x2|
+[E,,B,,,]x C,,[F,,E,,] [G,,C,,][A,,B,,,] [F,,C,,]x| \
+x[F,,C,,] x2 C,,C,, C,,F,,| \
+x2 F,,C,, C,,E,, x2| \
+E,,A,, G,,F,, x2 F,,E,,|
+C,,C,, x2 C,,E,, C,,B,,,| \
+x2 C,,C,, B,,,C,, x2| \
+D,,x2E,, x2 F,,[F,/2C,/2][F,/2C,/2]| \
+[F,C,][F,C,] x2 F,,x C,,E,,|
+D,,E,, F,,x2C,, x2| \
+F,,x E,,A,, xG,, F,,x| \
+x[E,,C,,] [D,,/2-B,,,/2][D,,/2B,,,/2-][E,,/2-C,,/2-B,,,/2][E,,/2C,,/2] F,,x C,,E,,| \
+x2 F,,E,, F,,C,, x2|
+[E,,B,,,]x C,,[F,,E,,] [G,,C,,][A,,B,,,] [F,,C,,]x| \
+x[C,C,,] x2 [E,E,,B,,,]x C,,[D,F,,E,,]| \
+[G,,C,,][E,A,,B,,,] [F,F,,C,,]x2[F,F,,C,,] 

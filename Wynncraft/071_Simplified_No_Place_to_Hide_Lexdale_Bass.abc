@@ -1,0 +1,118 @@
+X: 1
+T: 071_Simplified_No_Place_to_Hide_Lexdale_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Phrygian mode tune
+K:F % 1 flats
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+x8| \
+x8| \
+x8| \
+G,,,x2G,,, x2 C,,x|
+xC,, x2 B,,,x2B,,,| \
+x2 A,,,x2A,,, x2| \
+G,,,x2G,,, x2 C,,x| \
+xC,, x2 B,,,x2B,,,|
+x2 A,,,x2A,,, x2| \
+G,,,x2G,,, x2 C,,x| \
+xC,, x2 B,,,x2B,,,| \
+x2 A,,,x2A,,, x2|
+G,,,x2G,,, x2 C,,x| \
+xC,, x2 B,,,x2B,,,| \
+x2 A,,,x2A,,, x2| \
+G,,,x2G,,, x2 C,,x|
+xC,, x2 B,,,x2B,,,| \
+x2 A,,,x2A,,, x2| \
+G,,,x2G,,, x2 C,,x| \
+xC,, x2 B,,,x2B,,,|
+x2 A,,,x2A,,, x2| \
+G,,,x2G,,, x2 C,,x| \
+xC,, x2 B,,,x2B,,,| \
+x2 A,,,x2A,,, x2|
+G,,,x2G,,, x2 C,,x| \
+xC,, x2 B,,,x2B,,,| \
+x2 A,,,x2A,,, x2| \
+G,,,x2G,,, x2 C,,x|
+xC,, x2 B,,,x2B,,,| \
+x2 A,,,x/2A,,,x/2A,,, x2| \
+x8| \
+x8|
+x8| \
+x6 G,,,x/2G,,,/2-| \
+G,,,/2x/2C,, x/2C,,x/2 B,,,x/2B,,,x/2A,,,| \
+x/2A,,,x/2 G,,,x/2G,,,x/2C,, x/2C,,x/2|
+B,,,x/2B,,,x/2A,,, x/2A,,,x/2 [G,,G,,,]x/2[G,,/2-G,,,/2-]| \
+[G,,/2G,,,/2]x/2[C,C,,] x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,]| \
+x/2[A,,A,,,]x/2 [G,,G,,,]x/2[G,,G,,,]x/2[C,C,,] x/2[C,C,,]x/2| \
+[B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,] x/2[A,,A,,,]x/2 [G,,G,,,]x/2[G,,/2-G,,,/2-]|
+[G,,/2G,,,/2]x/2[C,C,,] x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,]| \
+x/2[A,,A,,,]x/2 [G,,G,,,]x/2[G,,G,,,]x/2[C,C,,] x/2[C,C,,]x/2| \
+[B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,] x/2[A,,A,,,]x/2 [G,,G,,,]x/2[G,,/2-G,,,/2-]| \
+[G,,/2G,,,/2]x/2[C,C,,] x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,]|
+x/2[A,,A,,,]x/2 [G,,G,,,]x/2[G,,G,,,]x/2[C,C,,] x/2[C,C,,]x/2| \
+[B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,] x/2[A,,A,,,]x/2 [G,,G,,,]x/2[G,,/2-G,,,/2-]| \
+[G,,/2G,,,/2]x/2[C,C,,] x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,]| \
+x/2[A,,A,,,]x/2 [G,,G,,,]x/2[G,,G,,,]x/2[C,C,,] x/2[C,C,,]x/2|
+[B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,] x/2[A,,A,,,]x2x/2| \
+x8| \
+x8| \
+x6 G,,,x|
+xG,,, x2 C,,x2C,,| \
+x2 B,,,x2B,,, x2| \
+A,,,x2A,,, x2 G,,,x| \
+xG,,, x2 C,,x2C,,|
+x2 B,,,x2B,,, x2| \
+A,,,x2A,,, x2 G,,,x| \
+xG,,, x2 C,,x2C,,| \
+x2 B,,,x2B,,, x2|
+A,,,x2A,,, x2 G,,,x| \
+xG,,, x2 C,,x2C,,| \
+x2 B,,,x2B,,, x2| \
+A,,,x2A,,, x2 G,,,x|
+xG,,, x2 C,,x2C,,| \
+x2 B,,,x2B,,, x2| \
+A,,,x2A,,, x2 G,,,x| \
+xG,,, x2 C,,x2C,,|
+x2 B,,,x2B,,, x2| \
+A,,,x2A,,, x2 G,,,x| \
+xG,,, x2 C,,x2C,,| \
+x2 B,,,x2B,,, x2|
+A,,,x2A,,, x2 G,,,x| \
+xG,,, x2 C,,x2C,,| \
+x2 B,,,x2B,,, x2| \
+A,,,x2A,,, x2 G,,,x|
+xG,,, x2 C,,x2C,,| \
+x2 B,,,x2B,,, x2| \
+A,,,x/2A,,,x/2A,,, x4| \
+x8|
+x8| \
+x8| \
+x4 G,,,x/2G,,,x/2C,,| \
+x/2C,,x/2 B,,,x/2B,,,x/2A,,, x/2A,,,x/2|
+G,,,x/2G,,,x/2C,, x/2C,,x/2 B,,,x/2B,,,/2-| \
+B,,,/2x/2A,,, x/2A,,,x/2 [G,,G,,,]x/2[G,,G,,,]x/2[C,C,,]| \
+x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,] x/2[A,,A,,,]x/2| \
+[G,,G,,,]x/2[G,,G,,,]x/2[C,C,,] x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,/2-B,,,/2-]|
+[B,,/2B,,,/2]x/2[A,,A,,,] x/2[A,,A,,,]x/2 [G,,G,,,]x/2[G,,G,,,]x/2[C,C,,]| \
+x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,] x/2[A,,A,,,]x/2| \
+[G,,G,,,]x/2[G,,G,,,]x/2[C,C,,] x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,/2-B,,,/2-]| \
+[B,,/2B,,,/2]x/2[A,,A,,,] x/2[A,,A,,,]x/2 [G,,G,,,]x/2[G,,G,,,]x/2[C,C,,]|
+x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,] x/2[A,,A,,,]x/2| \
+[G,,G,,,]x/2[G,,G,,,]x/2[C,C,,] x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,/2-B,,,/2-]| \
+[B,,/2B,,,/2]x/2[A,,A,,,] x/2[A,,A,,,]x/2 [G,,G,,,]x/2[G,,G,,,]x/2[C,C,,]| \
+x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,B,,,]x/2[A,,A,,,] x/2[A,,A,,,]x/2|
+[G,,G,,,]x/2[G,,G,,,]x/2[C,C,,] x/2[C,C,,]x/2 [B,,B,,,]x/2[B,,/2-B,,,/2-]| \
+[B,,/2B,,,/2]x/2[A,,A,,,] x/2[A,,A,,,]

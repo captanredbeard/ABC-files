@@ -1,0 +1,76 @@
+X: 1
+T: 104_Stumbling_to_the_Brink_of_Despair_The_Void_Drums
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:D % 2 sharps
+V:1
+%%MIDI channel 10
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,x| \
+B,,,B,,, x2 D,,x F,,F,,|
+B,,,

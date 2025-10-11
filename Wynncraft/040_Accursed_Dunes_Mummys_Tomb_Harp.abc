@@ -1,0 +1,69 @@
+X: 1
+T: 040_Accursed_Dunes_Mummys_Tomb_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:D % 2 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+B,x Dx Fx Gx| \
+Fx Dx B,x Dx| \
+B,x Dx Fx Gx| \
+Fx Dx B,x Dx|
+F,x ^A,x Cx Dx| \
+Cx ^A,x F,x Cx| \
+[BB,]x Dx Fx [BG]c| \
+[dF]x Dx B,x [eD]d|
+[cB,]x Dx Fx [eG]d| \
+[cF]x Dx B,x Dd| \
+[cF,]x ^A,x Cx DB| \
+[^AC]x ^A,G [FF,]E [EC]F|
+[BB,]x Dx [^AF]x Gx| \
+[BF]x Dx [cB,]x Dx| \
+[BB,]x Dx [^AF]x Gx| \
+[BF]x Dx [dB,]x Dx|
+[cF,]x ^A,x Cx DB| \
+[^AC]x ^A,B [cF,]B [^AC]c| \
+[fBB,]f [fD]f [fF]f [fBG][fc]| \
+[fdF]f [fD]f [fB,]f [feD][fd]|
+[fcB,]f [fD]f [fF]f [feG][fd]| \
+[fcF]f [fD]f [fB,]f [fD][fd]| \
+[fcF,]f [f^A,]f [fC]f [fD][fB]| \
+[f^AC]f [f^A,][fG] [fFF,][eE] [dD][cC]|
+B,x Dx Fx Gx| \
+Fx Dx B,x Dx| \
+B,x Dx Fx Gx| \
+Fx Dx B,x Dx|
+F,x ^A,x Cx Dx| \
+Cx ^A,x F,x Cx| \
+[BB,]x Dx Fx [BG]c| \
+[dF]x Dx B,x [eD]d|
+[cB,]x Dx Fx [eG]d| \
+[cF]x Dx B,x Dd| \
+[cF,]x ^A,x Cx DB| \
+[^AC]x ^A,G [FF,]E [EC]F|
+[BB,]x Dx [^AF]x Gx| \
+[BF]x Dx [cB,]x Dx| \
+[BB,]x Dx [^AF]x Gx| \
+[BF]x Dx [dB,]x Dx|
+[cF,]x ^A,x Cx DB| \
+[^AC]x ^A,B [cF,]B [^AC]c| \
+[fBB,]f [fD]f [fF]f [fBG][fc]| \
+[fdF]f [fD]f [fB,]f [feD][fd]|
+[fcB,]f [fD]f [fF]f [feG][fd]| \
+[fcF]f [fD]f [fB,]f [fD][fd]| \
+[fcF,]f [f^A,]f [fC]f [fD][fB]| \
+[f^AC]f [f^A,][fG] [fFF,][eE] [dD][cC]|
+B,

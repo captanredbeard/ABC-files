@@ -1,0 +1,179 @@
+X: 1
+T: 068_Gray_Skies_Dark_Days_Olux_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+K:E % 4 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+F,,x C,,x F,,x C,,x| \
+C,,x G,,,x C,,x G,,,x| \
+F,,x C,,x F,,x C,,x| \
+G,,,x D,,x G,,,x D,,x|
+F,,x C,,x F,,x C,,x| \
+C,,x G,,,x C,,x G,,,x| \
+F,,x C,,x F,,x C,,x| \
+G,,,x D,,x G,,,x D,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+F,,x C,,x F,,x C,,x| \
+C,,x G,,,x C,,x G,,,x| \
+F,,x C,,x F,,x C,,x| \
+G,,,x D,,x G,,,x D,,x|
+F,,x C,,x F,,x C,,x| \
+C,,x G,,,x C,,x G,,,x| \
+F,,x C,,x F,,x C,,x| \
+G,,,x D,,x G,,,x D,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+F,,x C,,x F,,x C,,x| \
+C,,x G,,,x C,,x G,,,x| \
+F,,x C,,x F,,x C,,x| \
+G,,,x D,,x G,,,x D,,x|
+F,,x C,,x F,,x C,,x| \
+C,,x G,,,x C,,x G,,,x| \
+F,,x C,,x F,,x C,,x| \
+G,,,x D,,x G,,,x D,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+F,,x C,,x F,,x C,,x| \
+C,,x G,,,x C,,x G,,,x| \
+F,,x C,,x F,,x C,,x| \
+G,,,x D,,x G,,,x D,,x|
+F,,x C,,x F,,x C,,x| \
+C,,x G,,,x C,,x G,,,x| \
+F,,x C,,x F,,x C,,x| \
+G,,,x D,,x G,,,x D,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x|
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,x| \
+C,,x G,,,x C,,x G,,,x| \
+A,,,x E,,x A,,,x E,,

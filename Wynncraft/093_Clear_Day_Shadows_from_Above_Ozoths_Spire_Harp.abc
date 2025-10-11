@@ -1,0 +1,92 @@
+X: 1
+T: 093_Clear_Day_Shadows_from_Above_Ozoths_Spire_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests unknown mode tune
+K:C % 0 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+[AEA,A,][EC] x[cA] [GDG,G,]x [BG][^G^D^G,^G,]| \
+x[^G^D] [^dB][cACC] [AE]x [B=GB,B,][G=D]| \
+[AEA,A,]x [cA][GDG,G,] x[BG] x[^G^D^G,^G,]| \
+x[^dB] [B^G][cACC] x[=dB] [B=GB,B,][cA]|
+[AEA,A,]x [CC]x [G,G,]x [B,B,][^G,^G,]| \
+x[B^G] [^dB][cACC] x[AE] [B=GB,B,]x| \
+[AEA,A,][cA] x[G=DG,G,] x[BG] x[^G^D^G,^G,]| \
+x[B,^G,] x[^DB,] x[B^G] [^G^DB,^G,]x|
+[AEA,A,]C E[ECC] =G,[=DB,G,] [GDD][^G^DB,^G,]| \
+^G,B, [^G^D^D][cACC] A,C [B=G=DB,]B,| \
+[AEA,A,][ECC] EB, [GDG,]B, D[^G^DB,^G,]| \
+^G,[^DB,B,] ^D[cACC] A,[AEC] [B=G=DB,][GDB,]|
+[AECA,A,]C [cE][ECC] [GG,][DB,G,] [GDD][^G^DB,B,^G,]| \
+^G,[^dB,] [^G^D^D][cAECC] [eA,][cC] [B=G=DDB,][cB,]| \
+[AECA,A,][ECC] [cE][dB,] [BGDG,]B, D[^G^DB,B,^G,]| \
+[B^G,][^DB,B,] [^d^D][cAECC] [=dA,][cAEC] [B=GDDB,]B,|
+[AEA,A,A,][ECC] [EE][cACC] [GDG,G,G,][B,B,] [BGDD][^G^DB,B,^G,^G,]| \
+[^G,^G,][^G^DB,B,] [^dB^D^D][cACCC] [AEA,A,][CC] [B=G=DDB,B,][GDB,B,]| \
+[AEA,A,A,][CC] [cAEE][GDB,B,G,G,] [G,G,][BGB,B,] [DD][^G^DB,B,^G,^G,]| \
+[^G,^G,][^dBB,B,] [B^G^D^D][cACCC] [A,A,][=dBCC] [B=GDDB,B,][cAB,B,]|
+[AEA,A,A,][CC] [EECC][CC] [G,G,G,][B,B,] [DDB,B,][B,B,^G,^G,]| \
+[^G,^G,][B^GB,B,] [^dB^D^D][cACCC] [A,A,][AECC] [B=G=DDB,B,][B,B,]| \
+[AEA,A,A,][cACC] [EE][GDB,B,G,G,] [G,G,][BGB,B,] [DD][^G^DB,B,^G,^G,]| \
+x[B,^G,] x[^DB,] x[B^G] [^G^DB,^G,]x|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+[AEA,A,][EC] x[cA] [=G=DG,G,]x [BG][^G^D^G,^G,]| \
+x[^G^D] [^dB][cACC] [AE]x [B=GB,B,][G=D]| \
+[AEA,A,]x [cA][GDG,G,] x[BG] x[^G^D^G,^G,]| \
+x[^dB] [B^G][cACC] x[=dB] [B=GB,B,][cA]|
+[AEA,A,]x [CC]x [G,G,]x [B,B,][^G,^G,]| \
+x[B^G] [^dB][cACC] x[AE] [B=GB,B,]x| \
+[AEA,A,][cA] x[G=DG,G,] x[BG] x[^G^D^G,^G,]| \
+x[B,^G,] x[^DB,] x[B^G] [^G^DB,^G,]x|
+[AEA,A,]C E[ECC] =G,[=DB,G,] [GDD][^G^DB,^G,]| \
+^G,B, [^G^D^D][cACC] A,C [B=G=DB,]B,| \
+[AEA,A,][ECC] EB, [GDG,]B, D[^G^DB,^G,]| \
+^G,[^DB,B,] ^D[cACC] A,[AEC] [B=G=DB,][GDB,]|
+[AECA,A,]C [cE][ECC] [GG,][DB,G,] [GDD][^G^DB,B,^G,]| \
+^G,[^dB,] [^G^D^D][cAECC] [eA,][cC] [B=G=DDB,][cB,]| \
+[AECA,A,][ECC] [cE][dB,] [BGDG,]B, D[^G^DB,B,^G,]| \
+[B^G,][^DB,B,] [^d^D][cAECC] [=dA,][cAEC] [B=GDDB,]B,|
+[AEA,A,A,][ECC] [EE][cACC] [GDG,G,G,][B,B,] [BGDD][^G^DB,B,^G,^G,]| \
+[^G,^G,][^G^DB,B,] [^dB^D^D][cACCC] [AEA,A,][CC] [B=G=DDB,B,][GDB,B,]| \
+[AEA,A,A,][CC] [cAEE][GDB,B,G,G,] [G,G,][BGB,B,] [DD][^G^DB,B,^G,^G,]| \
+[^G,^G,][^dBB,B,] [B^G^D^D][cACCC] [A,A,][=dBCC] [B=GDDB,B,][cAB,B,]|
+[AEA,A,A,][CC] [EECC][CC] [G,G,G,][B,B,] [DDB,B,][B,B,^G,^G,]| \
+[^G,^G,][B^GB,B,] [^dB^D^D][cACCC] [A,A,][AECC] [B=G=DDB,B,][B,B,]| \
+[AEA,A,A,][cACC] [EE][GDB,B,G,G,] [G,G,][BGB,B,] [DD][^G^DB,B,^G,^G,]| \
+x[B,^G,] x[^DB,] x[B^G] [^G^DB,^G,]

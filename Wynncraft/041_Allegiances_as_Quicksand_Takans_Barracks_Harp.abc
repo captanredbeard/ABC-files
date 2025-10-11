@@ -1,0 +1,69 @@
+X: 1
+T: 041_Allegiances_as_Quicksand_Takans_Barracks_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Mixolydian mode tune
+K:F % 1 flats
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+Cx C_D Ex Fx| \
+EF Ex _Dx CB,| \
+Cx3 B,x A,_G,| \
+A,x6x|
+CC/2-[_D/2-C/2] [E/2-_D/2]E/2F E/2-[F/2-E/2][F/2E/2-]E/2 _DC/2-[C/2B,/2-]| \
+[C/2-B,/2]C/2C/2-[_D/2-C/2] [E/2-_D/2]E/2F E/2-[F/2-E/2][=G/2-F/2]G/2 [FB,][E/2-C/2-][F/2-E/2C/2B,/2-]| \
+[F/2E/2-C/2-B,/2][E/2C/2]E F_G A_G F_E/2-[_G/2-_E/2]| \
+[A/2-_G/2F/2-C/2-][B/2-A/2F/2C/2][c/2-B/2][_d/2-c/2] [_d/2c/2-]c/2[BA,] A_G F_E|
+[FCC]C/2-[_D/2-C/2] [=E/2-_D/2]E/2[FA,] E/2-[F/2-E/2][F/2E/2-]E/2 _DC/2-[C/2B,/2-]| \
+[C/2-C/2-B,/2][C/2C/2]C/2-[_D/2-C/2] [E/2-_D/2]E/2[FA,] E/2-[F/2-E/2][=G/2-F/2]G/2 [FB,][E/2-C/2-][F/2-E/2C/2B,/2-]| \
+[F/2E/2-C/2-C/2-B,/2][E/2C/2C/2]E F[_GA,] [A_G]_G F_E/2-[_G/2-_E/2]| \
+[A/2-_G/2F/2-C/2-][B/2-A/2F/2C/2][c/2-B/2][_d/2-c/2] [_d/2c/2-]c/2[BA,] A_G F_E|
+[FC]A/2-[B/2-A/2] [c/2-B/2]c/2[_dBA,] [cA][B/2-_G/2-][B/2A/2-_G/2] [A/2-A/2_G/2-][A/2_G/2]F/2-[F/2_E/2-]| \
+[F/2-_E/2C/2-][F/2C/2]x2A, x_E/2-[F/2-_E/2] [_G/2-F/2B,/2-][_G/2B,/2][F/2-A,/2-][F/2A,/2_G,/2-]| \
+[F/2-C/2-A,/2-_G,/2][F/2C/2A,/2]x2A, x2 B,A,/2-[A,/2_G,/2-]| \
+[C/2-A,/2-_G,/2][C/2A,/2]x2A, x2 A,A,/2-[B,/2-A,/2]|
+[c/2-C/2-C/2-B,/2][c/2C/2C/2][c/2-C/2-][_d/2-c/2_D/2-C/2] [=e/2-_d/2E/2-_D/2][e/2E/2][fFA,] [e/2-E/2-][f/2-e/2F/2-E/2][f/2e/2-F/2E/2-][e/2E/2] [_d_D][c/2-C/2-][c/2B/2-C/2B,/2-]| \
+[c/2-B/2C/2-C/2-B,/2][c/2C/2C/2]x2A, x4| \
+[CC]C/2-[_D/2-C/2] [E/2-_D/2]E/2[FA,] E/2-[F/2-E/2][=G/2-F/2]G/2 [FB,][E/2-C/2-][F/2-E/2C/2B,/2-]| \
+[F/2E/2-C/2-C/2-B,/2][E/2C/2C/2]x2A, x4|
+[CA,]C/2-[_D/2-C/2] [E/2-_D/2]E/2[E/2-A,/2-][F/2-E/2A,/2] [G/2-F/2]G/2G/2-[A/2-G/2] [B/2-A/2]B/2A/2-[A/2_G/2-]| \
+[A/2-_G/2C/2-][A/2C/2]A/2-[A/2_G/2-] [_G/2F/2-]F/2[_EA,] F_E [cC][BB,]| \
+[cCC]x2A, x2 B,A,/2-[A,/2_G,/2-]| \
+[C/2-A,/2-_G,/2][C/2A,/2]x2A, x2 _DC/2-[C/2B,/2-]|
+[C/2-B,/2]C/2x C_D =Ex Fx| \
+EF Ex _Dx CB,| \
+Cx3 B,x A,_G,| \
+A,x6x|
+CC/2-[_D/2-C/2] [E/2-_D/2]E/2F E/2-[F/2-E/2][F/2E/2-]E/2 _DC/2-[C/2B,/2-]| \
+[C/2-B,/2]C/2C/2-[_D/2-C/2] [E/2-_D/2]E/2F E/2-[F/2-E/2][=G/2-F/2]G/2 [FB,][E/2-C/2-][F/2-E/2C/2B,/2-]| \
+[F/2E/2-C/2-B,/2][E/2C/2]E F_G A_G F_E/2-[_G/2-_E/2]| \
+[A/2-_G/2F/2-C/2-][B/2-A/2F/2C/2][c/2-B/2][_d/2-c/2] [_d/2c/2-]c/2[BA,] A_G F_E|
+[FCC]C/2-[_D/2-C/2] [=E/2-_D/2]E/2[FA,] E/2-[F/2-E/2][F/2E/2-]E/2 _DC/2-[C/2B,/2-]| \
+[C/2-C/2-B,/2][C/2C/2]C/2-[_D/2-C/2] [E/2-_D/2]E/2[FA,] E/2-[F/2-E/2][=G/2-F/2]G/2 [FB,][E/2-C/2-][F/2-E/2C/2B,/2-]| \
+[F/2E/2-C/2-C/2-B,/2][E/2C/2C/2]E F[_GA,] [A_G]_G F_E/2-[_G/2-_E/2]| \
+[A/2-_G/2F/2-C/2-][B/2-A/2F/2C/2][c/2-B/2][_d/2-c/2] [_d/2c/2-]c/2[BA,] A_G F_E|
+[FC]A/2-[B/2-A/2] [c/2-B/2]c/2[_dBA,] [cA][B/2-_G/2-][B/2A/2-_G/2] [A/2-A/2_G/2-][A/2_G/2]F/2-[F/2_E/2-]| \
+[F/2-_E/2C/2-][F/2C/2]x2A, x_E/2-[F/2-_E/2] [_G/2-F/2B,/2-][_G/2B,/2][F/2-A,/2-][F/2A,/2_G,/2-]| \
+[F/2-C/2-A,/2-_G,/2][F/2C/2A,/2]x2A, x2 B,A,/2-[A,/2_G,/2-]| \
+[C/2-A,/2-_G,/2][C/2A,/2]x2A, x2 A,A,/2-[B,/2-A,/2]|
+[c/2-C/2-C/2-B,/2][c/2C/2C/2][c/2-C/2-][_d/2-c/2_D/2-C/2] [=e/2-_d/2E/2-_D/2][e/2E/2][fFA,] [e/2-E/2-][f/2-e/2F/2-E/2][f/2e/2-F/2E/2-][e/2E/2] [_d_D][c/2-C/2-][c/2B/2-C/2B,/2-]| \
+[c/2-B/2C/2-C/2-B,/2][c/2C/2C/2]x2A, x4| \
+[CC]C/2-[_D/2-C/2] [E/2-_D/2]E/2[FA,] E/2-[F/2-E/2][=G/2-F/2]G/2 [FB,][E/2-C/2-][F/2-E/2C/2B,/2-]| \
+[F/2E/2-C/2-C/2-B,/2][E/2C/2C/2]x2A, x4|
+[CA,]C/2-[_D/2-C/2] [E/2-_D/2]E/2[E/2-A,/2-][F/2-E/2A,/2] [G/2-F/2]G/2G/2-[A/2-G/2] [B/2-A/2]B/2A/2-[A/2_G/2-]| \
+[A/2-_G/2C/2-][A/2C/2]A/2-[A/2_G/2-] [_G/2F/2-]F/2[_EA,] F_E [cC][BB,]| \
+[cCC]x2A, x2 B,A,/2-[A,/2_G,/2-]| \
+[C/2-A,/2-_G,/2][C/2A,/2]x2A, x2 _DC/2-[C/2B,/2-]|
+[C/2-B,/2]C/2

@@ -1,0 +1,113 @@
+X: 1
+T: 072_Shining_Citadel_of_the_Allies_Cinfras_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:E % 4 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+x8| \
+x8| \
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,|
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,| \
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,|
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,| \
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,|
+A,,,x2A,,, B,,,x2B,,,| \
+C,,x2C,, C,,x C,,x| \
+A,,,x2A,,, B,,,x2B,,,| \
+F,,,x2F,,, F,,,x F,,,x|
+A,,,x2A,,, B,,,x2B,,,| \
+C,,x B,,,x A,,,x C,,x| \
+A,,,x2A,,, B,,,x2B,,,| \
+C,,x2C,, G,,,x G,,,[B,,B,,,]|
+[C,C,,]x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,| \
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,|
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,| \
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,F,,, F,,,B,,,|
+C,,x3 A,,,x B,,,x| \
+C,,x3 C,,x3| \
+C,,x3 A,,,x B,,,x| \
+F,,,x2F,,, G,,,x G,,,B,,,|
+C,,C,, xC,, A,,,A,,, B,,,B,,,| \
+C,,C,, xC,, C,,C,, xC,,| \
+C,,C,, xC,, A,,,A,,, B,,,B,,,| \
+F,,,F,,, xF,,, G,,,G,,, G,,,B,,,|
+A,,,A,,, xA,,, B,,,B,,, xB,,,| \
+C,,C,, xC,, C,,C,, xC,,| \
+A,,,A,,, xA,,, B,,,B,,, xB,,,| \
+F,,,F,,, xF,,, F,,,F,,, xF,,,|
+A,,,A,,, xA,,, B,,,B,,, xB,,,| \
+C,,C,, B,,,B,,, A,,,A,,, xA,,,| \
+A,,,A,,, xA,,, B,,,B,,, xB,,,| \
+C,,C,, xC,, G,,,G,,, G,,,G,,,/2G,,,/2-|
+[C,,/2-G,,,/2]C,,/2x6x| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,|
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,| \
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,|
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,| \
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,|
+A,,,x2A,,, B,,,x2B,,,| \
+C,,x2C,, C,,x C,,x| \
+A,,,x2A,,, B,,,x2B,,,| \
+F,,,x2F,,, F,,,x F,,,x|
+A,,,x2A,,, B,,,x2B,,,| \
+C,,x B,,,x A,,,x C,,x| \
+A,,,x2A,,, B,,,x2B,,,| \
+C,,x2C,, G,,,x G,,,[B,,B,,,]|
+[C,C,,]x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,| \
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,|
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,x F,,,F,,,| \
+C,,x3 C,,x2C,,| \
+F,,,x2F,,, F,,,F,,, F,,,B,,,|
+C,,x3 A,,,x B,,,x| \
+C,,x3 C,,x3| \
+C,,x3 A,,,x B,,,x| \
+F,,,x2F,,, G,,,x G,,,B,,,|
+C,,C,, xC,, A,,,A,,, B,,,B,,,| \
+C,,C,, xC,, C,,C,, xC,,| \
+C,,C,, xC,, A,,,A,,, B,,,B,,,| \
+F,,,F,,, xF,,, G,,,G,,, G,,,B,,,|
+A,,,A,,, xA,,, B,,,B,,, xB,,,| \
+C,,C,, xC,, C,,C,, xC,,| \
+A,,,A,,, xA,,, B,,,B,,, xB,,,| \
+F,,,F,,, xF,,, F,,,F,,, xF,,,|
+A,,,A,,, xA,,, B,,,B,,, xB,,,| \
+C,,C,, B,,,B,,, A,,,A,,, xA,,,| \
+A,,,A,,, xA,,, B,,,B,,, xB,,,| \
+C,,C,, xC,, G,,,G,,, G,,,G,,,/2G,,,/2-|
+[C,,/2-G,,,/2]C,,/2

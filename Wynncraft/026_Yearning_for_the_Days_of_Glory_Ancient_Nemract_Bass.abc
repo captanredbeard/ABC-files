@@ -1,0 +1,89 @@
+X: 1
+T: 026_Yearning_for_the_Days_of_Glory_Ancient_Nemract_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:Db % 5 flats
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+B,,,x2A,,, x4| \
+B,,,x2E,, x4| \
+B,,,x2A,,, x4| \
+E,,x2F,, x4|
+B,,,x2A,,, x4| \
+B,,,x2E,, x4| \
+B,,,x2A,,, x4| \
+E,,x2F,, x4|
+B,,,x2A,,, x2 B,,,x| \
+xE,, x2 B,,,x2A,,,| \
+x2 E,,x2F,, x2| \
+B,,,x2A,,, x2 B,,,x|
+xE,, x2 B,,,x2A,,,| \
+x2 E,,x2F,, x=A,,| \
+[B,,F,,B,,,]x F,[E,_A,,A,,,] xA,, [B,,F,,B,,,]x| \
+F,,[E,A,,E,,] D,C, [B,,F,,B,,,]x F,[E,A,,A,,,]|
+xD, [E,B,,E,,]x E,[F,C,F,,] F,,A,,| \
+[B,,F,,B,,,]x F,[E,A,,A,,,] xA,, [B,,F,,B,,,]x| \
+F,,[E,A,,E,,] D,C, [B,,F,,B,,,]x F,[E,A,,A,,,]| \
+xD, [E,B,,E,,]x E,[F,C,F,,] F,,A,,|
+[B,,B,,,]x2A,,, x4| \
+B,,,x2E,, x4| \
+B,,,x2A,,, x4| \
+E,,x2F,, x4|
+B,,,x2A,,, x3A,,,| \
+B,,,x2E,, x4| \
+B,,,x2A,,, x4| \
+E,,x2F,, x4|
+[B,,F,,B,,,]x F,[E,A,,A,,,] xA,, [B,,F,,B,,,]x| \
+F,,[E,A,,E,,] D,C, [B,,F,,B,,,]x F,[E,A,,A,,,]| \
+xD, [E,B,,E,,]x E,[F,C,F,,] F,,A,,| \
+[B,,F,,B,,,]x F,[E,A,,A,,,] xA,, [B,,F,,B,,,]x|
+F,,[E,A,,E,,] D,C, [B,,F,,B,,,]x F,[E,A,,A,,,]| \
+xD, [E,B,,E,,]x E,[F,C,F,,] F,,A,,| \
+B,,,x2A,,, x4| \
+B,,,x2E,, x4|
+B,,,x2A,,, x4| \
+E,,x2F,, x4| \
+B,,,x2A,,, x4| \
+B,,,x2E,, x4|
+B,,,x2A,,, x4| \
+E,,x2F,, x4| \
+B,,,x2A,,, x2 B,,,x| \
+xE,, x2 B,,,x2A,,,|
+x2 E,,x2F,, x2| \
+B,,,x2A,,, x2 B,,,x| \
+xE,, x2 B,,,x2A,,,| \
+x2 E,,x2F,, x=A,,|
+[B,,F,,B,,,]x F,[E,_A,,A,,,] xA,, [B,,F,,B,,,]x| \
+F,,[E,A,,E,,] D,C, [B,,F,,B,,,]x F,[E,A,,A,,,]| \
+xD, [E,B,,E,,]x E,[F,C,F,,] F,,A,,| \
+[B,,F,,B,,,]x F,[E,A,,A,,,] xA,, [B,,F,,B,,,]x|
+F,,[E,A,,E,,] D,C, [B,,F,,B,,,]x F,[E,A,,A,,,]| \
+xD, [E,B,,E,,]x E,[F,C,F,,] F,,A,,| \
+[B,,B,,,]x2A,,, x4| \
+B,,,x2E,, x4|
+B,,,x2A,,, x4| \
+E,,x2F,, x4| \
+B,,,x2A,,, x3A,,,| \
+B,,,x2E,, x4|
+B,,,x2A,,, x4| \
+E,,x2F,, x4| \
+[B,,F,,B,,,]x F,[E,A,,A,,,] xA,, [B,,F,,B,,,]x| \
+F,,[E,A,,E,,] D,C, [B,,F,,B,,,]x F,[E,A,,A,,,]|
+xD, [E,B,,E,,]x E,[F,C,F,,] F,,A,,| \
+[B,,F,,B,,,]x F,[E,A,,A,,,] xA,, [B,,F,,B,,,]x| \
+F,,[E,A,,E,,] D,C, [B,,F,,B,,,]x F,[E,A,,A,,,]| \
+xD, [E,B,,E,,]x E,[F,C,F,,] F,,A,,|
+B,,,

@@ -1,0 +1,129 @@
+X: 1
+T: 097_Amongst_the_Clouds_Sky_Islands_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Phrygian mode tune
+K:F# % 6 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+E[DA,] x[DA,] F[DA,] x[DCA,]| \
+D[DA,] x[DA,] D[DA,] F[DA,]| \
+E[B,E,] x[B,E,] F[B,E,] E[B,E,]| \
+F[CG,] x[CG,] C[CG,] x[CG,]|
+E[DA,] x[DA,] F[DA,] x[DCA,]| \
+D[DA,] x[DA,] D[DA,] F[DA,]| \
+E[B,E,] x[B,E,] F[B,E,] E[B,E,]| \
+G[CG,] E[CG,] F[CG,] [EC][GCG,]|
+[AE][DA,] x[DA,] [GF][DA,] x[FDCA,]| \
+[ED][DA,] x[DA,] [ED][DA,] [GF][DA,]| \
+[AE][B,E,] x[B,E,] [GF][B,E,] [AE][B,E,]| \
+[GF][CG,] E[CG,] [FC][CG,] E[GCG,]|
+[AE][DA,] x[DA,] [GF][DA,] x[AEDA,]| \
+[ED][DA,] x[DA,] [ED][DA,] [GF][DA,]| \
+[AE][B,E,] x[B,E,] [GF][B,E,] [AE][B,E,]| \
+[cF][CG,] x[CG,] [cFCG,]x2[cCG,]|
+d[E/2-D/2-][A/2-E/2D/2] A/2x/2[dED] c[FC] x[FC]| \
+B[E/2-D/2-B,/2-][B/2-E/2D/2B,/2] B/2x/2[cDB,] A[DA,] x[DA,]| \
+[dA][A/2-E/2-D/2-][d/2-A/2E/2D/2] d/2x/2[AED] [cG][FC] x[FC]| \
+[BE][E/2-D/2-B,/2-][B/2-E/2D/2B,/2] B/2x/2[cDB,] [dAD][DA,] x[GDA,]|
+[AD][E/2D/2-][E/2-D/2A,/2-] [E/2A,/2]x/2[AED] [GC][FC] x[FC]| \
+[EB,][D/2-B,/2E,/2-][E/2-D/2B,/2-E,/2] [E/2B,/2]x/2[DB,] [DA,][DA,] x[DA,]| \
+x[E/2-D/2-][E/2F/2-D/2] [E/2-F/2][E/2F/2-][E/2-F/2D/2-][E/2D/2] F[FC] x[FC]| \
+E[D/2-B,/2-][E/2-D/2B,/2] E/2x/2[ADB,] [dD][DA,] [AE][cGDA,]|
+[dADA,]x6x| \
+x8| \
+E[DA,] x[DA,] F[DA,] x[DCA,]| \
+D[DA,] x[DA,] D[DA,] F[DA,]|
+E[B,E,] x[B,E,] F[B,E,] E[B,E,]| \
+F[CG,] x[CG,] C[CG,] x[CG,]| \
+E[DA,] x[DA,] F[DA,] x[EDA,]| \
+D[DA,] x[DA,] D[DA,] F[DA,]|
+E[B,E,] x[B,E,] F[B,E,] E[B,E,]| \
+G[CG,] E[CG,] [FCG,]x [EC][GCG,]| \
+[AE][DA,] x[DA,] [GF][DA,] x[FDCA,]| \
+[ED][DA,] x[DA,] [ED][DA,] [GF][DA,]|
+[AE][B,E,] x[B,E,] [GF][B,E,] [AE][B,E,]| \
+[GF][CG,] E[CG,] [FC][CG,] E[GCG,]| \
+[AE][DA,] x[DA,] [GF][DA,] x[AEDA,]| \
+[ED][DA,] x[DA,] [ED][DA,] [GF][DA,]|
+[AE][B,E,] x[B,E,] [GF][B,E,] [AE][B,E,]| \
+[GF][CG,] [ED][CG,] [FCG,]x3| \
+x[ED] x[ED] x[FC] x[FC]| \
+x[DB,] x[DB,] x[DA,] x[DA,]|
+x[ED] x[ED] x[FC] x[FC]| \
+x[DB,] x[DB,] x[DA,] x[cDA,]| \
+d[E/2-D/2-][A/2-E/2D/2] A/2x/2[dED] c[FC] x[FC]| \
+B[E/2-D/2-B,/2-][B/2-E/2D/2B,/2] B/2x/2[cDB,] A[DA,] x[DA,]|
+[dA][A/2-E/2-D/2-][d/2-A/2E/2D/2] d/2x/2[AED] [cG][FC] x[FC]| \
+[BE][E/2-D/2-B,/2-][B/2-E/2D/2B,/2] B/2x/2[cDB,] [dAD][DA,] x[GDA,]| \
+[AD][E/2D/2-][E/2-D/2A,/2-] [E/2A,/2]x/2[AED] [GC][FC] x[FC]| \
+[EB,][D/2-B,/2E,/2-][E/2-D/2B,/2-E,/2] [E/2B,/2]x/2[DB,] [DA,][DA,] x[DA,]|
+x[E/2-D/2-][E/2F/2-D/2] [E/2-F/2][E/2F/2-][E/2-F/2D/2-][E/2D/2] F[FC] x[FC]| \
+E[D/2-B,/2-][E/2-D/2B,/2] E/2x/2[ADB,] [dD][DA,] [AE][cGDA,]| \
+[dAEDA,][DA,] x[DA,] F[DA,] x[DCA,]| \
+D[DA,] x[DA,] D[DA,] F[DA,]|
+E[B,E,] x[B,E,] F[B,E,] E[B,E,]| \
+F[CG,] x[CG,] C[CG,] x[CG,]| \
+E[DA,] x[DA,] F[DA,] x[DCA,]| \
+D[DA,] x[DA,] D[DA,] F[DA,]|
+E[B,E,] x[B,E,] F[B,E,] E[B,E,]| \
+G[CG,] E[CG,] F[CG,] [EC][GCG,]| \
+[AE][DA,] x[DA,] [GF][DA,] x[FDCA,]| \
+[ED][DA,] x[DA,] [ED][DA,] [GF][DA,]|
+[AE][B,E,] x[B,E,] [GF][B,E,] [AE][B,E,]| \
+[GF][CG,] E[CG,] [FC][CG,] E[GCG,]| \
+[AE][DA,] x[DA,] [GF][DA,] x[AEDA,]| \
+[ED][DA,] x[DA,] [ED][DA,] [GF][DA,]|
+[AE][B,E,] x[B,E,] [GF][B,E,] [AE][B,E,]| \
+[cF][CG,] x[CG,] [cFCG,]x2[cCG,]| \
+d[E/2-D/2-][A/2-E/2D/2] A/2x/2[dED] c[FC] x[FC]| \
+B[E/2-D/2-B,/2-][B/2-E/2D/2B,/2] B/2x/2[cDB,] A[DA,] x[DA,]|
+[dA][A/2-E/2-D/2-][d/2-A/2E/2D/2] d/2x/2[AED] [cG][FC] x[FC]| \
+[BE][E/2-D/2-B,/2-][B/2-E/2D/2B,/2] B/2x/2[cDB,] [dAD][DA,] x[GDA,]| \
+[AD][E/2D/2-][E/2-D/2A,/2-] [E/2A,/2]x/2[AED] [GC][FC] x[FC]| \
+[EB,][D/2-B,/2E,/2-][E/2-D/2B,/2-E,/2] [E/2B,/2]x/2[DB,] [DA,][DA,] x[DA,]|
+x[E/2-D/2-][E/2F/2-D/2] [E/2-F/2][E/2F/2-][E/2-F/2D/2-][E/2D/2] F[FC] x[FC]| \
+E[D/2-B,/2-][E/2-D/2B,/2] E/2x/2[ADB,] [dD][DA,] [AE][cGDA,]| \
+[dADA,]x6x| \
+x8|
+E[DA,] x[DA,] F[DA,] x[DCA,]| \
+D[DA,] x[DA,] D[DA,] F[DA,]| \
+E[B,E,] x[B,E,] F[B,E,] E[B,E,]| \
+F[CG,] x[CG,] C[CG,] x[CG,]|
+E[DA,] x[DA,] F[DA,] x[EDA,]| \
+D[DA,] x[DA,] D[DA,] F[DA,]| \
+E[B,E,] x[B,E,] F[B,E,] E[B,E,]| \
+G[CG,] E[CG,] [FCG,]x [EC][GCG,]|
+[AE][DA,] x[DA,] [GF][DA,] x[FDCA,]| \
+[ED][DA,] x[DA,] [ED][DA,] [GF][DA,]| \
+[AE][B,E,] x[B,E,] [GF][B,E,] [AE][B,E,]| \
+[GF][CG,] E[CG,] [FC][CG,] E[GCG,]|
+[AE][DA,] x[DA,] [GF][DA,] x[AEDA,]| \
+[ED][DA,] x[DA,] [ED][DA,] [GF][DA,]| \
+[AE][B,E,] x[B,E,] [GF][B,E,] [AE][B,E,]| \
+[GF][CG,] [ED][CG,] [FCG,]x3|
+x[ED] x[ED] x[FC] x[FC]| \
+x[DB,] x[DB,] x[DA,] x[DA,]| \
+x[ED] x[ED] x[FC] x[FC]| \
+x[DB,] x[DB,] x[DA,] x[cDA,]|
+d[E/2-D/2-][A/2-E/2D/2] A/2x/2[dED] c[FC] x[FC]| \
+B[E/2-D/2-B,/2-][B/2-E/2D/2B,/2] B/2x/2[cDB,] A[DA,] x[DA,]| \
+[dA][A/2-E/2-D/2-][d/2-A/2E/2D/2] d/2x/2[AED] [cG][FC] x[FC]| \
+[BE][E/2-D/2-B,/2-][B/2-E/2D/2B,/2] B/2x/2[cDB,] [dAD][DA,] x[GDA,]|
+[AD][E/2D/2-][E/2-D/2A,/2-] [E/2A,/2]x/2[AED] [GC][FC] x[FC]| \
+[EB,][D/2-B,/2E,/2-][E/2-D/2B,/2-E,/2] [E/2B,/2]x/2[DB,] [DA,][DA,] x[DA,]| \
+x[E/2-D/2-][E/2F/2-D/2] [E/2-F/2][E/2F/2-][E/2-F/2D/2-][E/2D/2] F[FC] x[FC]| \
+E[D/2-B,/2-][E/2-D/2B,/2] E/2x/2[ADB,] [dD][DA,] [AE][cGDA,]|
+[dADA,]

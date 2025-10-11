@@ -1,0 +1,69 @@
+X: 1
+T: 023_Quiet_Beginnings_Detlas_Suburbs_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:D % 2 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+B,,,B,,, x2 F,,,F,,, x2| \
+B,,,B,,, x2 F,,,F,,, x2| \
+D,,D,, x2 E,,E,, x2| \
+B,,,B,,, x2 F,,,F,,, x2|
+B,,,B,,, x2 F,,,F,,, x2| \
+B,,,B,,, x2 F,,,F,,, x2| \
+D,,D,, x2 E,,E,, x2| \
+B,,,B,,, x2 F,,,F,,, x2|
+B,,,x6x| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+B,,,B,,, x2 F,,,F,,, x2| \
+B,,,B,,, x2 F,,,F,,, x2| \
+D,,D,, x2 E,,E,, x2| \
+B,,,B,,, x2 F,,,F,,, x2|
+B,,,B,,, x2 F,,,F,,, x2| \
+B,,,B,,, x2 F,,,F,,, x2| \
+D,,D,, x2 E,,E,, x2| \
+B,,,B,,, x2 F,,,F,,, x2|
+B,,,

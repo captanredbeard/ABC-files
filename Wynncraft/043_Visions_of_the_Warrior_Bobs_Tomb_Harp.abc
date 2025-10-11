@@ -1,0 +1,80 @@
+X: 1
+T: 043_Visions_of_the_Warrior_Bobs_Tomb_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Dorian mode tune
+K:F# % 6 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+[DA,]x3 [CG,]x3| \
+[DA,]x3 [EC]x3| \
+[DA,]x3 [CG,]x3| \
+[DA,]x6x|
+[DA,]x3 [CG,]x3| \
+[DA,]x3 [EC]x3| \
+[DA,]x3 [CG,]x3| \
+[DA,]x6x|
+[DA,]x df [eCG,]x fx| \
+[eDA,]f dx [AEC]x2G| \
+[EDA,]A GE [CG,]x2G| \
+[ADA,]x6x|
+[DA,]x df [dCG,]x cx| \
+[ADA,]G Ac [AEC]x2G| \
+[EDA,]c AG [ACG,]x2G| \
+[EDA,]x3 [FC]x3|
+[DA,]A, DE [GCG,]x3| \
+[GDA,]E Gc [AEC]x2G| \
+[ADA,]c Ax [GCG,]x ED| \
+[EDA,]x3 [FC]x3|
+[DA,]A, DE [GCG,]x3| \
+[GDA,]E Gx [AEC]x2G| \
+[ADA,]G Ex [GCG,]E Fx| \
+[DA,]x3 A,x [DA,][DA,]|
+[dAD]x3 [cAC]x3| \
+[dAD]x3 [cAC]x3| \
+[edEA,]x3 [fcFC]x3| \
+[dAD]x6x|
+[edAED]G Ex [fcGFC]E Fx/2A,/2| \
+[dADA,]x6x| \
+[DA,]x3 [CG,]x3| \
+[DA,]x3 [EC]x3|
+[DA,]x3 [CG,]x3| \
+[DA,]x6x| \
+[DA,]x3 [CG,]x3| \
+[DA,]x3 [EC]x3|
+[DA,]x3 [CG,]x3| \
+[DA,]x6x| \
+[DA,]x df [eCG,]x fx| \
+[eDA,]f dx [AEC]x2G|
+[EDA,]A GE [CG,]x2G| \
+[ADA,]x6x| \
+[DA,]x df [dCG,]x cx| \
+[ADA,]G Ac [AEC]x2G|
+[EDA,]c AG [ACG,]x2G| \
+[EDA,]x3 [FC]x3| \
+[DA,]A, DE [GCG,]x3| \
+[GDA,]E Gc [AEC]x2G|
+[ADA,]c Ax [GCG,]x ED| \
+[EDA,]x3 [FC]x3| \
+[DA,]A, DE [GCG,]x3| \
+[GDA,]E Gx [AEC]x2G|
+[ADA,]G Ex [GCG,]E Fx| \
+[DA,]x3 A,x [DA,][DA,]| \
+[dAD]x3 [cAC]x3| \
+[dAD]x3 [cAC]x3|
+[edEA,]x3 [fcFC]x3| \
+[dAD]x6x| \
+[edAED]G Ex [fcGFC]E Fx/2A,/2| \
+[dADA,]

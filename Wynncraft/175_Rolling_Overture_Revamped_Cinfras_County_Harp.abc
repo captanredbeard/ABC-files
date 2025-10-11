@@ -1,0 +1,128 @@
+X: 1
+T: 175_Rolling_Overture_Revamped_Cinfras_County_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:E % 4 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+x[EC] [EC]x [EC][EC] x[EC]| \
+[EC]x [EC][EC] x[^AF] [^AF]x| \
+[^AF][^AF] x[^AF] [^AF]x [^AF][^AF]| \
+x[EC] [EC]x [EC][EC] x[EC]|
+[EC]x [EC][EC] x[C=A,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]| \
+x[EC] [c/2-c/2-E/2-C/2-][d/2-d/2-c/2c/2E/2C/2][e/2-e/2-d/2d/2][e/2e/2] [ddEC][ccEC] x[EC]| \
+[EC][ee] [ddEC][eeEC] [ff][^AF] [^AF][cc]|
+[^AF][^AF] [ff][^AF] [^AF][ff] [ee^AF][dd^AF]| \
+[cc][EC] [EC][ee] [EC][ddEC] [ee][ddEC]| \
+[ccEC]x [EC][ddEC] [e/2-e/2-][e/2e/2d/2-d/2-][d/2d/2c/2-c/2-C/2-=A,/2-][d/2-d/2-c/2c/2C/2A,/2] [d/2d/2c/2-c/2-C/2-A,/2-][c/2c/2C/2A,/2]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]|
+[ee][ddEC] [ccEC]x [EC][EC] x[EC]| \
+[EC][cc] [EC][EC] [ff][^AF] [^AF]x| \
+[^AF][^AF] x[^AF] [^AF][ff] [ee^AF][dd^AF]| \
+[cc][EC] [EC]x [EC][EC] x[EC]|
+[c/2-c/2-E/2-C/2-][d/2-d/2-c/2c/2E/2C/2][e/2-e/2-d/2d/2][e/2e/2] [ddEC][ccEC] x[C=A,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]| \
+x[GE] [GE]x [GE][GE] x[GE]| \
+[GE]x [GE][GE] x[CA,] [CA,]x|
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]| \
+x[GE] [GE]x [BBGFE][ccGE] [eec][GE]| \
+[GE][ddB] [GE][G/2-E/2-][e/2-e/2-c/2-G/2E/2] [e/2e/2d/2-d/2-c/2B/2-][d/2d/2B/2][ccACA,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]|
+x[GE] [GE]x [GE][GE] x[GE]| \
+[GE]x [GE][GE] x[CA,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]| \
+x[GE] [GE]x [BBGE][BBGE] [BBG][GE]|
+[GE][GGE] [GE][GE] [F/2-F/2-D/2-][G/2-G/2-F/2F/2E/2-D/2][G/2G/2F/2-F/2-E/2D/2-C/2-A,/2-][F/2F/2E/2-E/2-D/2C/2C/2A,/2] [E/2E/2C/2-C/2-A,/2-][C/2C/2A,/2]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][C/2-A,/2-][B/2-B/2-C/2A,/2]| \
+[c/2-c/2-B/2B/2][c/2c/2][ECG,] [ECG,]x [ECG,][ECG,] [ee][ddECG,]| \
+[ccECG,][ee] [ddECG,][ccECG,] [B/2-B/2-][c/2c/2B/2B/2][ccC^A,F,] [ddC^A,F,][BB]|
+[C^A,F,][^A/2-^A/2-C/2-^A,/2-F,/2-][B/2-B/2-^A/2^A/2C/2^A,/2F,/2] [c/2-c/2-B/2B/2][c/2c/2][C^A,F,] [C^A,F,]x [C^A,F,][C/2-^A,/2-F,/2-][f/2-f/2-C/2^A,/2F,/2]| \
+[f/2f/2e/2-e/2-][e/2e/2][ccGECG,] [ECG,]x [ECG,][E/2-C/2-G,/2-][f/2-f/2-E/2C/2G,/2] [f/2f/2e/2-e/2-][e/2e/2][ccGECG,]| \
+[E/2-C/2-G,/2-][f/2-f/2-E/2C/2G,/2][f/2f/2e/2-e/2-][e/2e/2] [ccGECG,][E/2-C/2-G,/2-][f/2-f/2-E/2C/2G,/2] [f/2f/2e/2-e/2-][e/2e/2][cc=AECA,] [ECA,]x| \
+[ECA,][ECA,] x[ECA,] [ECA,]x [ECA,][ECA,]|
+[C/2-C/2-G,/2-][G/2-G/2-C/2C/2G,/2][c/2-c/2-G/2G/2E/2-C/2-][c/2c/2E/2C/2-C/2-C/2] [G/2-G/2-E/2-C/2-C/2C/2][c/2-c/2-G/2G/2E/2C/2][c/2c/2C/2-C/2-G,/2-][G/2-G/2-C/2C/2G,/2] [c/2-c/2-G/2G/2E/2-C/2-][c/2c/2E/2C/2-C/2-C/2][G/2-G/2-E/2-C/2-C/2C/2][c/2-c/2-G/2G/2E/2C/2] [c/2c/2C/2-C/2-G,/2-][G/2-G/2-C/2C/2G,/2][c/2-c/2-G/2G/2E/2-C/2-][c/2c/2E/2C/2-C/2-C/2]| \
+[G/2-G/2-E/2-C/2-C/2C/2][c/2-c/2-G/2G/2E/2C/2][c/2c/2C/2-C/2-G,/2-][G/2-G/2-C/2C/2G,/2] [c/2-c/2-G/2G/2E/2-C/2-][c/2c/2E/2C/2-C/2-C/2][G/2-G/2-E/2-C/2-C/2C/2][c/2-c/2-G/2G/2E/2C/2] [c/2c/2F/2-F/2-F,/2-][c/2-c/2-F/2F/2F,/2][f/2-f/2-c/2c/2C/2-^A,/2-][f/2f/2F/2-F/2-C/2^A,/2] [c/2-c/2-F/2F/2C/2-^A,/2-][f/2-f/2-c/2c/2C/2^A,/2][f/2f/2F/2-F/2-F,/2-][c/2-c/2-F/2F/2F,/2]| \
+[f/2-f/2-c/2c/2C/2-^A,/2-][f/2f/2F/2-F/2-C/2^A,/2][c/2-c/2-F/2F/2C/2-^A,/2-][f/2-f/2-c/2c/2C/2^A,/2] [f/2f/2F/2-F/2-F,/2-][c/2-c/2-F/2F/2F,/2][f/2-f/2-c/2c/2C/2-^A,/2-][f/2f/2F/2-F/2-C/2^A,/2] [c/2-c/2-F/2F/2C/2-^A,/2-][f/2-f/2-c/2c/2C/2^A,/2][f/2f/2F/2-F/2-F,/2-][c/2-c/2-F/2F/2F,/2] [f/2-f/2-c/2c/2C/2-^A,/2-][f/2f/2F/2-F/2-C/2^A,/2][c/2-c/2-F/2F/2C/2-^A,/2-][f/2-f/2-c/2c/2C/2^A,/2]| \
+[f/2f/2G,/2-G,/2-][C/2-C/2-G,/2G,/2][G/2-G/2-E/2-C/2-C/2C/2][G/2G/2E/2C/2G,/2-G,/2-] [E/2-C/2-C/2-G,/2G,/2][G/2-G/2-E/2C/2C/2][G/2G/2G,/2-G,/2-][C/2-C/2-G,/2G,/2] [G/2-G/2-E/2-C/2-C/2C/2][G/2G/2E/2C/2G,/2-G,/2-][E/2-C/2-C/2-G,/2G,/2][G/2-G/2-E/2C/2C/2] [G/2G/2G,/2-G,/2-][C/2-C/2-G,/2G,/2][G/2-G/2-E/2-C/2-C/2C/2][G/2G/2E/2C/2G,/2-G,/2-]|
+[E/2-C/2-C/2-G,/2G,/2][G/2-G/2-E/2C/2C/2][G/2G/2G,/2-G,/2-][C/2-C/2-G,/2G,/2] [G/2-G/2-E/2-C/2-C/2C/2][G/2G/2E/2C/2G,/2-G,/2-][E/2-C/2-C/2-G,/2G,/2][G/2-G/2-E/2C/2C/2] [G/2G/2=A,/2-A,/2-][E/2-E/2-A,/2A,/2][A/2-A/2-E/2-E/2E/2C/2-][A/2A/2E/2C/2A,/2-A,/2-] [E/2-E/2-C/2-A,/2A,/2][A/2-A/2-E/2E/2C/2][A/2A/2A,/2-A,/2-][E/2-E/2-A,/2A,/2]| \
+[A/2-A/2-E/2-E/2E/2C/2-][A/2A/2E/2C/2A,/2-A,/2-][E/2-E/2-C/2-A,/2A,/2][A/2-A/2-E/2E/2C/2] [A/2A/2A,/2-A,/2-][E/2-E/2-A,/2A,/2][A/2-A/2-E/2-E/2E/2C/2-][A/2A/2E/2C/2A,/2-A,/2-] [E/2-E/2-C/2-A,/2A,/2][A/2-A/2-E/2E/2C/2][A/2A/2A,/2-A,/2-][E/2-E/2-A,/2A,/2] [A/2-A/2-E/2-E/2E/2C/2-][A/2A/2E/2C/2A,/2-A,/2-][E/2-E/2-C/2-A,/2A,/2][A/2-A/2-E/2E/2C/2]| \
+[A/2A/2C/2-C/2-][G/2-G/2-C/2C/2][c/2-c/2-G/2G/2E/2-C/2-][c/2c/2E/2C/2] [c/2-c/2-E/2-C/2-][d/2-d/2-c/2c/2E/2C/2][e/2-e/2-d/2d/2][e/2e/2] [EC][ffEC] [ee][ddEC]| \
+[ccEC][GG] [BBEC][ddEC] [c/2-c/2-][d/2-d/2-c/2c/2][d/2d/2c/2-c/2-^A/2-F/2-][c/2c/2B/2-B/2-^A/2F/2] [c/2-c/2-B/2B/2^A/2-F/2-][c/2c/2^A/2F/2]x|
+[^AF][^AF] x[cc^AF] [c/2-c/2-^A/2-F/2-][c/2c/2B/2-B/2-^A/2F/2][c/2-c/2-B/2B/2][c/2c/2] [^AF][^AF]| \
+[cc][EC] [EC][GG] [EC][eeEC] [cc][EC]| \
+[EC][GG] [EC][ccEC] [=AA][CA,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,][BB] [AACA,][GGCA,]|
+[cc][EC] [EC]x [EC][EC] x[EC]| \
+[EC][cc] [B/2-B/2-E/2-C/2-][B/2B/2A/2-A/2-E/2C/2][A/2A/2G/2-G/2-E/2-C/2-][G/2G/2E/2C/2] [^A^A][^AF] [^AF]x| \
+[^AF][^AF] x[^AF] [^AF][BB] [c/2-c/2-^A/2-F/2-][e/2-e/2-c/2c/2^A/2F/2][f/2-f/2-e/2e/2^A/2-F/2-][f/2f/2e/2-e/2-^A/2F/2]| \
+[e/2e/2c/2-c/2-][c/2c/2][EC] [EC]x [EC][EC] x[EC]|
+[EC]x [EC][EC] x[C=A,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]| \
+x[EC] [EC]x [EC][EC] x[EC]| \
+[EC]x [EC][EC] x[^AF] [^AF]x|
+[^AF][^AF] x[^AF] [^AF]x [^AF][^AF]| \
+x[EC] [EC]x [EC][EC] x[EC]| \
+[EC]x [EC][EC] x[C=A,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]|
+x[EC] [c/2-c/2-E/2-C/2-][d/2-d/2-c/2c/2E/2C/2][e/2-e/2-d/2d/2][e/2e/2] [ddEC][ccEC] x[EC]| \
+[EC][ee] [ddEC][eeEC] [ff][^AF] [^AF][cc]| \
+[^AF][^AF] [ff][^AF] [^AF][ff] [ee^AF][dd^AF]| \
+[cc][EC] [EC][ee] [EC][ddEC] [ee][ddEC]|
+[ccEC]x [EC][ddEC] [e/2-e/2-][e/2e/2d/2-d/2-][d/2d/2c/2-c/2-C/2-=A,/2-][d/2-d/2-c/2c/2C/2A,/2] [d/2d/2c/2-c/2-C/2-A,/2-][c/2c/2C/2A,/2]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]| \
+[ee][ddEC] [ccEC]x [EC][EC] x[EC]| \
+[EC][cc] [EC][EC] [ff][^AF] [^AF]x|
+[^AF][^AF] x[^AF] [^AF][ff] [ee^AF][dd^AF]| \
+[cc][EC] [EC]x [EC][EC] x[EC]| \
+[c/2-c/2-E/2-C/2-][d/2-d/2-c/2c/2E/2C/2][e/2-e/2-d/2d/2][e/2e/2] [ddEC][ccEC] x[C=A,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]|
+x[GE] [GE]x [GE][GE] x[GE]| \
+[GE]x [GE][GE] x[CA,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]| \
+x[GE] [GE]x [BBGFE][ccGE] [eec][GE]|
+[GE][ddB] [GE][G/2-E/2-][e/2-e/2-c/2-G/2E/2] [e/2e/2d/2-d/2-c/2B/2-][d/2d/2B/2][ccACA,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]| \
+x[GE] [GE]x [GE][GE] x[GE]| \
+[GE]x [GE][GE] x[CA,] [CA,]x|
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]| \
+x[GE] [GE]x [BBGE][BBGE] [BBG][GE]| \
+[GE][GGE] [GE][GE] [F/2-F/2-D/2-][G/2-G/2-F/2F/2E/2-D/2][G/2G/2F/2-F/2-E/2D/2-C/2-A,/2-][F/2F/2E/2-E/2-D/2C/2C/2A,/2] [E/2E/2C/2-C/2-A,/2-][C/2C/2A,/2]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][C/2-A,/2-][B/2-B/2-C/2A,/2]|
+[c/2-c/2-B/2B/2][c/2c/2][ECG,] [ECG,]x [ECG,][ECG,] [ee][ddECG,]| \
+[ccECG,][ee] [ddECG,][ccECG,] [B/2-B/2-][c/2c/2B/2B/2][ccC^A,F,] [ddC^A,F,][BB]| \
+[C^A,F,][^A/2-^A/2-C/2-^A,/2-F,/2-][B/2-B/2-^A/2^A/2C/2^A,/2F,/2] [c/2-c/2-B/2B/2][c/2c/2][C^A,F,] [C^A,F,]x [C^A,F,][C/2-^A,/2-F,/2-][f/2-f/2-C/2^A,/2F,/2]| \
+[f/2f/2e/2-e/2-][e/2e/2][ccGECG,] [ECG,]x [ECG,][E/2-C/2-G,/2-][f/2-f/2-E/2C/2G,/2] [f/2f/2e/2-e/2-][e/2e/2][ccGECG,]|
+[E/2-C/2-G,/2-][f/2-f/2-E/2C/2G,/2][f/2f/2e/2-e/2-][e/2e/2] [ccGECG,][E/2-C/2-G,/2-][f/2-f/2-E/2C/2G,/2] [f/2f/2e/2-e/2-][e/2e/2][cc=AECA,] [ECA,]x| \
+[ECA,][ECA,] x[ECA,] [ECA,]x [ECA,][ECA,]| \
+[C/2-C/2-G,/2-][G/2-G/2-C/2C/2G,/2][c/2-c/2-G/2G/2E/2-C/2-][c/2c/2E/2C/2-C/2-C/2] [G/2-G/2-E/2-C/2-C/2C/2][c/2-c/2-G/2G/2E/2C/2][c/2c/2C/2-C/2-G,/2-][G/2-G/2-C/2C/2G,/2] [c/2-c/2-G/2G/2E/2-C/2-][c/2c/2E/2C/2-C/2-C/2][G/2-G/2-E/2-C/2-C/2C/2][c/2-c/2-G/2G/2E/2C/2] [c/2c/2C/2-C/2-G,/2-][G/2-G/2-C/2C/2G,/2][c/2-c/2-G/2G/2E/2-C/2-][c/2c/2E/2C/2-C/2-C/2]| \
+[G/2-G/2-E/2-C/2-C/2C/2][c/2-c/2-G/2G/2E/2C/2][c/2c/2C/2-C/2-G,/2-][G/2-G/2-C/2C/2G,/2] [c/2-c/2-G/2G/2E/2-C/2-][c/2c/2E/2C/2-C/2-C/2][G/2-G/2-E/2-C/2-C/2C/2][c/2-c/2-G/2G/2E/2C/2] [c/2c/2F/2-F/2-F,/2-][c/2-c/2-F/2F/2F,/2][f/2-f/2-c/2c/2C/2-^A,/2-][f/2f/2F/2-F/2-C/2^A,/2] [c/2-c/2-F/2F/2C/2-^A,/2-][f/2-f/2-c/2c/2C/2^A,/2][f/2f/2F/2-F/2-F,/2-][c/2-c/2-F/2F/2F,/2]|
+[f/2-f/2-c/2c/2C/2-^A,/2-][f/2f/2F/2-F/2-C/2^A,/2][c/2-c/2-F/2F/2C/2-^A,/2-][f/2-f/2-c/2c/2C/2^A,/2] [f/2f/2F/2-F/2-F,/2-][c/2-c/2-F/2F/2F,/2][f/2-f/2-c/2c/2C/2-^A,/2-][f/2f/2F/2-F/2-C/2^A,/2] [c/2-c/2-F/2F/2C/2-^A,/2-][f/2-f/2-c/2c/2C/2^A,/2][f/2f/2F/2-F/2-F,/2-][c/2-c/2-F/2F/2F,/2] [f/2-f/2-c/2c/2C/2-^A,/2-][f/2f/2F/2-F/2-C/2^A,/2][c/2-c/2-F/2F/2C/2-^A,/2-][f/2-f/2-c/2c/2C/2^A,/2]| \
+[f/2f/2G,/2-G,/2-][C/2-C/2-G,/2G,/2][G/2-G/2-E/2-C/2-C/2C/2][G/2G/2E/2C/2G,/2-G,/2-] [E/2-C/2-C/2-G,/2G,/2][G/2-G/2-E/2C/2C/2][G/2G/2G,/2-G,/2-][C/2-C/2-G,/2G,/2] [G/2-G/2-E/2-C/2-C/2C/2][G/2G/2E/2C/2G,/2-G,/2-][E/2-C/2-C/2-G,/2G,/2][G/2-G/2-E/2C/2C/2] [G/2G/2G,/2-G,/2-][C/2-C/2-G,/2G,/2][G/2-G/2-E/2-C/2-C/2C/2][G/2G/2E/2C/2G,/2-G,/2-]| \
+[E/2-C/2-C/2-G,/2G,/2][G/2-G/2-E/2C/2C/2][G/2G/2G,/2-G,/2-][C/2-C/2-G,/2G,/2] [G/2-G/2-E/2-C/2-C/2C/2][G/2G/2E/2C/2G,/2-G,/2-][E/2-C/2-C/2-G,/2G,/2][G/2-G/2-E/2C/2C/2] [G/2G/2=A,/2-A,/2-][E/2-E/2-A,/2A,/2][A/2-A/2-E/2-E/2E/2C/2-][A/2A/2E/2C/2A,/2-A,/2-] [E/2-E/2-C/2-A,/2A,/2][A/2-A/2-E/2E/2C/2][A/2A/2A,/2-A,/2-][E/2-E/2-A,/2A,/2]| \
+[A/2-A/2-E/2-E/2E/2C/2-][A/2A/2E/2C/2A,/2-A,/2-][E/2-E/2-C/2-A,/2A,/2][A/2-A/2-E/2E/2C/2] [A/2A/2A,/2-A,/2-][E/2-E/2-A,/2A,/2][A/2-A/2-E/2-E/2E/2C/2-][A/2A/2E/2C/2A,/2-A,/2-] [E/2-E/2-C/2-A,/2A,/2][A/2-A/2-E/2E/2C/2][A/2A/2A,/2-A,/2-][E/2-E/2-A,/2A,/2] [A/2-A/2-E/2-E/2E/2C/2-][A/2A/2E/2C/2A,/2-A,/2-][E/2-E/2-C/2-A,/2A,/2][A/2-A/2-E/2E/2C/2]|
+[A/2A/2C/2-C/2-][G/2-G/2-C/2C/2][c/2-c/2-G/2G/2E/2-C/2-][c/2c/2E/2C/2] [c/2-c/2-E/2-C/2-][d/2-d/2-c/2c/2E/2C/2][e/2-e/2-d/2d/2][e/2e/2] [EC][ffEC] [ee][ddEC]| \
+[ccEC][GG] [BBEC][ddEC] [c/2-c/2-][d/2-d/2-c/2c/2][d/2d/2c/2-c/2-^A/2-F/2-][c/2c/2B/2-B/2-^A/2F/2] [c/2-c/2-B/2B/2^A/2-F/2-][c/2c/2^A/2F/2]x| \
+[^AF][^AF] x[cc^AF] [c/2-c/2-^A/2-F/2-][c/2c/2B/2-B/2-^A/2F/2][c/2-c/2-B/2B/2][c/2c/2] [^AF][^AF]| \
+[cc][EC] [EC][GG] [EC][eeEC] [cc][EC]|
+[EC][GG] [EC][ccEC] [=AA][CA,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,][BB] [AACA,][GGCA,]| \
+[cc][EC] [EC]x [EC][EC] x[EC]| \
+[EC][cc] [B/2-B/2-E/2-C/2-][B/2B/2A/2-A/2-E/2C/2][A/2A/2G/2-G/2-E/2-C/2-][G/2G/2E/2C/2] [^A^A][^AF] [^AF]x|
+[^AF][^AF] x[^AF] [^AF][BB] [c/2-c/2-^A/2-F/2-][e/2-e/2-c/2c/2^A/2F/2][f/2-f/2-e/2e/2^A/2-F/2-][f/2f/2e/2-e/2-^A/2F/2]| \
+[e/2e/2c/2-c/2-][c/2c/2][EC] [EC]x [EC][EC] x[EC]| \
+[EC]x [EC][EC] x[C=A,] [CA,]x| \
+[CA,][CA,] x[CA,] [CA,]x [CA,][CA,]|

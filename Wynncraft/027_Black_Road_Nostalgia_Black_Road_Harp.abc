@@ -1,0 +1,69 @@
+X: 1
+T: 027_Black_Road_Nostalgia_Black_Road_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Dorian mode tune
+K:Ab % 4 flats
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+B,B, [FD]B, B,B, [FD]B,| \
+=A,=A, [FC]=A, =A,=A, [FC]=A,| \
+_A,A, [EC]A, A,A, [EC]A,| \
+G,G, [EB,]G, =A,=A, [FC]=A,|
+[BB,]B, [dFD][BB,] [d/2-B,/2-][d/2c/2-B,/2][c/2B/2-B,/2-][B/2B,/2] [c/2-F/2-D/2-][d/2-c/2F/2D/2][e/2-d/2B,/2-][e/2B,/2]| \
+[f=A,]=A, [_gFC][f=A,] [e=A,][d=A,] [eFC][f=A,]| \
+[e_A,]A, [EC]A, A,A, [_g/2-E/2-C/2-][_g/2f/2-E/2C/2][f/2e/2-A,/2-][e/2A,/2]| \
+[d=G,]G, [e/2-E/2-B,/2-][e/2d/2-E/2B,/2][d/2c/2-G,/2-][c/2G,/2] [B=A,]=A, [cFC][d=A,]|
+[BB,]B, [FD]B, B,[BB,] [dFD][cB,]| \
+[B=A,]=A, [cFC][d=A,] [e=A,]=A, [FC][_g=A,]| \
+[f_A,]A, [eEC][fA,] [eA,]A, [dEC][eA,]| \
+[f/2-=G,/2-][f/2B/2-G,/2][e/2-B/2G,/2-][e/2G,/2] [d/2-E/2-B,/2-][d/2c/2-E/2B,/2][e/2-c/2G,/2-][e/2G,/2] [d/2-=A,/2-][d/2B/2-=A,/2][d/2-B/2=A,/2-][d/2=A,/2] [cFC]=A,|
+[BB,]B, [FD]B, [dB,]B, [FD]B,| \
+[f=A,]=A, [FC]=A, =A,=A, [FC]=A,| \
+[_g_A,]A, [EC]A, [fA,]A, [EC]A,| \
+[f=G,]G, [EB,]G, [d=A,]=A, [FC]=A,|
+[dBB,]B, [FD]B, [dB,]B, [BFD][dB,]| \
+[e=A=A,]=A, [dFC][c=A,] [B=A,]=A, [cFC][d=A,]| \
+[f_AA,]A, [EC][_gA,] [fA,]A, [eEC][fA,]| \
+[_g/2-B/2-][_g/2f/2-B/2][f/2e/2-B,/2-][e/2B,/2] [dEB,][eB,] [f/2-c/2-=A,/2-][f/2e/2-c/2=A,/2][e/2d/2-=A,/2-][d/2=A,/2] [cFC]=A,|
+B,B, [FD]B, B,B, [FD]B,| \
+=A,=A, [FC]=A, =A,=A, [FC]=A,| \
+_A,A, [EC]A, A,A, [EC]A,| \
+B,B, [EB,]B, =A,=A, [FC]=A,|
+B,B, [FD]B, B,B, [FD]B,| \
+=A,=A, [FC]=A, =A,=A, [FC]=A,| \
+_A,A, [EC]A, A,A, [EC]A,| \
+=G,G, [EB,]G, =A,=A, [FC]=A,|
+[BB,]B, [dFD][BB,] [d/2-B,/2-][d/2c/2-B,/2][c/2B/2-B,/2-][B/2B,/2] [c/2-F/2-D/2-][d/2-c/2F/2D/2][e/2-d/2B,/2-][e/2B,/2]| \
+[f=A,]=A, [_gFC][f=A,] [e=A,][d=A,] [eFC][f=A,]| \
+[e_A,]A, [EC]A, A,A, [_g/2-E/2-C/2-][_g/2f/2-E/2C/2][f/2e/2-A,/2-][e/2A,/2]| \
+[d=G,]G, [e/2-E/2-B,/2-][e/2d/2-E/2B,/2][d/2c/2-G,/2-][c/2G,/2] [B=A,]=A, [cFC][d=A,]|
+[BB,]B, [FD]B, B,[BB,] [dFD][cB,]| \
+[B=A,]=A, [cFC][d=A,] [e=A,]=A, [FC][_g=A,]| \
+[f_A,]A, [eEC][fA,] [eA,]A, [dEC][eA,]| \
+[f/2-=G,/2-][f/2B/2-G,/2][e/2-B/2G,/2-][e/2G,/2] [d/2-E/2-B,/2-][d/2c/2-E/2B,/2][e/2-c/2G,/2-][e/2G,/2] [d/2-=A,/2-][d/2B/2-=A,/2][d/2-B/2=A,/2-][d/2=A,/2] [cFC]=A,|
+[BB,]B, [FD]B, [dB,]B, [FD]B,| \
+[f=A,]=A, [FC]=A, =A,=A, [FC]=A,| \
+[_g_A,]A, [EC]A, [fA,]A, [EC]A,| \
+[f=G,]G, [EB,]G, [d=A,]=A, [FC]=A,|
+[dBB,]B, [FD]B, [dB,]B, [BFD][dB,]| \
+[e=A=A,]=A, [dFC][c=A,] [B=A,]=A, [cFC][d=A,]| \
+[f_AA,]A, [EC][_gA,] [fA,]A, [eEC][fA,]| \
+[_g/2-B/2-][_g/2f/2-B/2][f/2e/2-B,/2-][e/2B,/2] [dEB,][eB,] [f/2-c/2-=A,/2-][f/2e/2-c/2=A,/2][e/2d/2-=A,/2-][d/2=A,/2] [cFC]=A,|
+B,B, [FD]B, B,B, [FD]B,| \
+=A,=A, [FC]=A, =A,=A, [FC]=A,| \
+_A,A, [EC]A, A,A, [EC]A,| \
+B,B, [EB,]B, =A,=A, [FC]=A,|
+B,

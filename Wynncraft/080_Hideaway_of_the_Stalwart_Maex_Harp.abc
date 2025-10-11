@@ -1,0 +1,70 @@
+X: 1
+T: 080_Hideaway_of_the_Stalwart_Maex_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Phrygian mode tune
+K:B % 5 sharps
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+[GD]x6x| \
+x8| \
+x8| \
+x4 [B,G,]D B,G,|
+[CA,]x A,C [B,G,]G, B,C| \
+[A,F,]x [DB,G,][GD] [DB,][B,G,] [FCA,]x| \
+A,C [EB,G,][B,G,] [EB,][GC] [FA,F,]B| \
+[GDB,]x DG [FCA,]x CF|
+[GEB,]x EG [AFC]x [BGDB,G,]x| \
+GB [AFCA,F,]x FA [GEB,G,]x| \
+EG [FCA,F,][AF] [GD][B,G,] D/2-[F/2-D/2][G/2-F/2]G/2| \
+[FC][A,F,] C/2-[E/2-C/2][F/2-E/2]F/2 [GE][B,G,] E/2-[F/2-E/2][G/2-F/2]G/2|
+[AF][G/2-C/2-A,/2-][A/2-G/2C/2A,/2] [B/2-A/2G/2-D/2-][B/2G/2D/2][D/2-B,/2-G,/2-][F/2-D/2C/2-B,/2G,/2] [G/2-F/2D/2-C/2][A/2-G/2F/2-D/2][B/2-A/2G/2-F/2][B/2G/2] [AFC][C/2-A,/2-F,/2-][D/2-C/2B,/2-A,/2F,/2]| \
+[F/2-D/2C/2-B,/2][G/2-F/2E/2-C/2][A/2-G/2F/2-E/2][A/2F/2] [BGE][E/2-B,/2-G,/2-][F/2-E/2C/2-B,/2G,/2] [G/2-F/2E/2-C/2][A/2-G/2F/2-E/2][B/2-A/2G/2-F/2][B/2G/2] [cAF][CA,]| \
+[dBB,G,]D B,G, [cACA,]x A,C| \
+[BGB,G,]G, B,C [AFA,F,]x [BDB,G,][GD]|
+[DB,][B,G,] [AFCA,]x A,C [GEB,G,][B,G,]| \
+[EB,][GC] [FCA,F,][AF] [BGDB,G,][D/2-B,/2-G,/2-][F/2-D/2C/2-B,/2G,/2] [G/2-F/2D/2-C/2][A/2-G/2F/2-D/2][B/2-A/2G/2-F/2][B/2G/2]| \
+[AFCA,F,][C/2-A,/2-F,/2-][D/2-C/2B,/2-A,/2F,/2] [F/2-D/2C/2-B,/2][G/2-F/2E/2-C/2][A/2-G/2F/2-E/2][A/2F/2] [GEB,G,][E/2-B,/2-G,/2-][F/2-E/2C/2-B,/2G,/2] [G/2-F/2E/2-C/2][A/2-G/2F/2-E/2][B/2-A/2G/2-F/2][B/2G/2]| \
+[AFCA,F,][G/2-C/2-A,/2-][A/2-G/2F/2-C/2A,/2] [B/2-A/2G/2-F/2D/2-B,/2-G,/2-][B/2G/2D/2B,/2G,/2][G/2-D/2-B,/2-G,/2-][A/2-G/2F/2-D/2C/2-B,/2G,/2] [B/2-A/2G/2-F/2D/2-C/2][c/2-B/2A/2-G/2F/2-D/2][d/2-c/2B/2-A/2G/2-F/2][d/2B/2G/2] [cAFCA,F,][F/2-C/2-A,/2-F,/2-][G/2-F/2D/2-C/2B,/2-A,/2F,/2]|
+[A/2-G/2F/2-D/2C/2-B,/2][B/2-A/2G/2-F/2E/2-C/2][c/2-B/2A/2-G/2F/2-E/2][c/2A/2F/2] [BGEB,G,][G/2-E/2-B,/2-G,/2-][A/2-G/2F/2-E/2C/2-B,/2G,/2] [B/2-A/2G/2-F/2E/2-C/2][c/2-B/2A/2-G/2F/2-E/2][d/2-c/2B/2-A/2G/2-F/2][d/2B/2G/2] [cAFCA,F,][B/2-C/2-A,/2-][c/2-B/2C/2A,/2]| \
+[d/2-c/2B/2-G/2-D/2-B,/2-][d/2B/2G/2D/2B,/2]x [GDB,][BGD] [cAFCA,]x [FCA,][AFC]| \
+[BGEB,]x [GEB,][BGE] [cAFCA,]x [dBGDB,G,]x| \
+[BGDB,][dBGD] [cAFCA,F,]x [AFCA,][cAFC] [eBGEB,G,]x|
+[BGEB,][eBGE] [fAFCA,F,][AF] [GD]x3| \
+x8| \
+x8| \
+x8|
+[B,G,]D B,G, [CA,]x A,C| \
+[B,G,]G, B,C [A,F,]x [DB,G,][GD]| \
+[DB,][B,G,] [FCA,]x A,C [EB,G,][B,G,]| \
+[EB,][GC] [FA,F,]B [GDB,]x DG|
+[FCA,]x CF [GEB,]x EG| \
+[AFC]x [BGDB,G,]x GB [AFCA,F,]x| \
+FA [GEB,G,]x EG [FCA,F,][AF]| \
+[GD][B,G,] D/2-[F/2-D/2][G/2-F/2]G/2 [FC][A,F,] C/2-[E/2-C/2][F/2-E/2]F/2|
+[GE][B,G,] E/2-[F/2-E/2][G/2-F/2]G/2 [AF][G/2-C/2-A,/2-][A/2-G/2C/2A,/2] [B/2-A/2G/2-D/2-][B/2G/2D/2][D/2-B,/2-G,/2-][F/2-D/2C/2-B,/2G,/2]| \
+[G/2-F/2D/2-C/2][A/2-G/2F/2-D/2][B/2-A/2G/2-F/2][B/2G/2] [AFC][C/2-A,/2-F,/2-][D/2-C/2B,/2-A,/2F,/2] [F/2-D/2C/2-B,/2][G/2-F/2E/2-C/2][A/2-G/2F/2-E/2][A/2F/2] [BGE][E/2-B,/2-G,/2-][F/2-E/2C/2-B,/2G,/2]| \
+[G/2-F/2E/2-C/2][A/2-G/2F/2-E/2][B/2-A/2G/2-F/2][B/2G/2] [cAF][CA,] [dBB,G,]D B,G,| \
+[cACA,]x A,C [BGB,G,]G, B,C|
+[AFA,F,]x [BDB,G,][GD] [DB,][B,G,] [AFCA,]x| \
+A,C [GEB,G,][B,G,] [EB,][GC] [FCA,F,][AF]| \
+[BGDB,G,][D/2-B,/2-G,/2-][F/2-D/2C/2-B,/2G,/2] [G/2-F/2D/2-C/2][A/2-G/2F/2-D/2][B/2-A/2G/2-F/2][B/2G/2] [AFCA,F,][C/2-A,/2-F,/2-][D/2-C/2B,/2-A,/2F,/2] [F/2-D/2C/2-B,/2][G/2-F/2E/2-C/2][A/2-G/2F/2-E/2][A/2F/2]| \
+[GEB,G,][E/2-B,/2-G,/2-][F/2-E/2C/2-B,/2G,/2] [G/2-F/2E/2-C/2][A/2-G/2F/2-E/2][B/2-A/2G/2-F/2][B/2G/2] [AFCA,F,][G/2-C/2-A,/2-][A/2-G/2F/2-C/2A,/2] [B/2-A/2G/2-F/2D/2-B,/2-G,/2-][B/2G/2D/2B,/2G,/2][G/2-D/2-B,/2-G,/2-][A/2-G/2F/2-D/2C/2-B,/2G,/2]|
+[B/2-A/2G/2-F/2D/2-C/2][c/2-B/2A/2-G/2F/2-D/2][d/2-c/2B/2-A/2G/2-F/2][d/2B/2G/2] [cAFCA,F,][F/2-C/2-A,/2-F,/2-][G/2-F/2D/2-C/2B,/2-A,/2F,/2] [A/2-G/2F/2-D/2C/2-B,/2][B/2-A/2G/2-F/2E/2-C/2][c/2-B/2A/2-G/2F/2-E/2][c/2A/2F/2] [BGEB,G,][G/2-E/2-B,/2-G,/2-][A/2-G/2F/2-E/2C/2-B,/2G,/2]| \
+[B/2-A/2G/2-F/2E/2-C/2][c/2-B/2A/2-G/2F/2-E/2][d/2-c/2B/2-A/2G/2-F/2][d/2B/2G/2] [cAFCA,F,][B/2-C/2-A,/2-][c/2-B/2C/2A,/2] [d/2-c/2B/2-G/2-D/2-B,/2-][d/2B/2G/2D/2B,/2]x [GDB,][BGD]| \
+[cAFCA,]x [FCA,][AFC] [BGEB,]x [GEB,][BGE]| \
+[cAFCA,]x [dBGDB,G,]x [BGDB,][dBGD] [cAFCA,F,]x|
+[AFCA,][cAFC] [eBGEB,G,]x [BGEB,][eBGE] [fAFCA,F,][AF]| \
+[GD]

@@ -1,0 +1,93 @@
+X: 1
+T: 047_Trespassers_will_be_Excised_Emerald_Labyrinth_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Phrygian mode tune
+K:A % 3 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+C,,x [G,,C,,]E,, D,,x [A,,D,,]x| \
+C,,G,, [G,,C,,]E,, D,,x [F,,B,,,]x| \
+[G,,C,,]x [E,,C,,]G,, [A,,D,,]x [B,,D,,]x| \
+[G,,C,,]x C,,E,, [A,,D,,]x [F,,B,,,]D,,|
+[C,C,,]x [C,G,,C,,]E,, [D,D,,]x [D,A,,D,,]x| \
+[C,C,,]G,, [C,G,,C,,]E,, [D,D,,]x [B,,F,,B,,,]x| \
+[C,G,,C,,]x [C,E,,C,,]G,, [D,A,,D,,]x [D,B,,D,,]x| \
+[C,G,,C,,]x [C,C,,]E,, [D,A,,D,,]x [B,,F,,B,,,]D,,|
+[C,C,,]x [C,G,,C,,]E,, [D,D,,]x [D,A,,D,,]x| \
+[C,C,,]G,, [C,G,,C,,]E,, [D,D,,]x [B,,F,,B,,,]x| \
+[C,G,,C,,]x [C,E,,C,,]G,, [D,A,,D,,]x [D,B,,D,,]x| \
+[C,G,,C,,]x [C,C,,]E,, [D,A,,D,,]x [B,,F,,B,,,]D,,|
+[C,C,,]x [C,G,,C,,]E,, [D,D,,]x [D,A,,D,,]x| \
+[C,C,,]G,, [C,G,,C,,]E,, [D,D,,]x [B,,F,,B,,,]x| \
+[C,G,,C,,]x [C,E,,C,,]G,, [D,A,,D,,]x [D,B,,D,,]x| \
+[C,G,,C,,]x [C,C,,]E,, [D,A,,D,,]x [B,,F,,B,,,]D,,|
+[C,C,,G,,,G,,,]x [C,G,,G,,C,,G,,,G,,,][E,,E,,] [D,D,,A,,,A,,,]x [D,A,,A,,D,,A,,,A,,,]x| \
+[C,C,,G,,,G,,,][G,,G,,] [C,G,,G,,C,,G,,,G,,,][E,,E,,] [D,D,,A,,,A,,,]x [B,,F,,F,,B,,,F,,,F,,,]x| \
+[C,G,,G,,C,,G,,,G,,,]x [C,E,,E,,C,,G,,,G,,,][G,,G,,] [D,A,,A,,D,,A,,,A,,,]x [D,B,,B,,D,,A,,,A,,,]x| \
+[C,G,,G,,C,,G,,,G,,,]x [C,C,,G,,,G,,,][E,,E,,] [D,A,,A,,D,,A,,,A,,,]x [B,,F,,F,,B,,,F,,,F,,,][D,,D,,]|
+[C,C,,G,,,G,,,]x [C,G,,G,,C,,G,,,G,,,][E,,E,,] [D,D,,A,,,A,,,]x [D,A,,A,,D,,A,,,A,,,]x| \
+[C,C,,G,,,G,,,][G,,G,,] [C,G,,G,,C,,G,,,G,,,][E,,E,,] [D,D,,A,,,A,,,]x [B,,F,,F,,B,,,F,,,F,,,]x| \
+[C,G,,G,,C,,G,,,G,,,]x [C,E,,E,,C,,G,,,G,,,][G,,G,,] [D,A,,A,,D,,A,,,A,,,]x [D,B,,B,,D,,A,,,A,,,]x| \
+[C,G,,G,,C,,G,,,G,,,]x [C,C,,G,,,G,,,][E,,E,,] [D,A,,A,,D,,A,,,A,,,]x [B,,F,,F,,B,,,F,,,F,,,][D,,D,,]|
+[C,C,,G,,,G,,,]x [C,G,,C,,G,,,G,,,]E,, [D,D,,A,,,A,,,]x [D,A,,D,,A,,,A,,,]x| \
+[C,C,,G,,,G,,,]G,, [C,G,,C,,G,,,G,,,]E,, [D,D,,A,,,A,,,]x [B,,F,,B,,,F,,,F,,,]x| \
+[C,G,,C,,G,,,G,,,]x [C,E,,C,,G,,,G,,,]G,, [D,A,,D,,A,,,A,,,]x [D,B,,D,,A,,,A,,,]x| \
+[C,G,,C,,G,,,G,,,]x [C,C,,G,,,G,,,]E,, [D,A,,D,,A,,,A,,,]x [B,,F,,B,,,F,,,F,,,]D,,|
+[C,C,,G,,,G,,,]x [C,G,,C,,G,,,G,,,]E,, [D,D,,A,,,A,,,]x [D,A,,D,,A,,,A,,,]x| \
+[C,C,,G,,,G,,,]G,, [C,G,,C,,G,,,G,,,]E,, [D,D,,A,,,A,,,]x [B,,F,,B,,,F,,,F,,,]x| \
+[C,G,,C,,G,,,G,,,]x [C,E,,C,,G,,,G,,,]G,, [D,A,,D,,A,,,A,,,]x [D,B,,D,,A,,,A,,,]x| \
+[C,G,,C,,G,,,G,,,]x [C,C,,G,,,G,,,]E,, [D,A,,D,,A,,,A,,,]x [B,,F,,B,,,F,,,F,,,]D,,|
+[C,G,,G,,C,,C,,G,,,]x [G,,G,,C,,C,,]x [A,,A,,D,,D,,]x [A,,A,,D,,D,,]x| \
+[G,,G,,C,,C,,]x [G,,G,,C,,C,,]x [A,,A,,D,,D,,]x [F,,F,,B,,,B,,,]x| \
+[G,,C,,]x [G,,C,,]x [A,,D,,]x [A,,D,,]x| \
+[G,,C,,]x [G,,C,,]x [A,,D,,]x [F,,B,,,]x|
+C,,x [G,,C,,]E,, D,,x [A,,D,,]x| \
+C,,G,, [G,,C,,]E,, D,,x [F,,B,,,]x| \
+[G,,C,,]x [E,,C,,]G,, [A,,D,,]x [B,,D,,]x| \
+[G,,C,,]x C,,E,, [A,,D,,]x [F,,B,,,]D,,|
+[C,C,,]x [C,G,,C,,]E,, [D,D,,]x [D,A,,D,,]x| \
+[C,C,,]G,, [C,G,,C,,]E,, [D,D,,]x [B,,F,,B,,,]x| \
+[C,G,,C,,]x [C,E,,C,,]G,, [D,A,,D,,]x [D,B,,D,,]x| \
+[C,G,,C,,]x [C,C,,]E,, [D,A,,D,,]x [B,,F,,B,,,]D,,|
+[C,C,,]x [C,G,,C,,]E,, [D,D,,]x [D,A,,D,,]x| \
+[C,C,,]G,, [C,G,,C,,]E,, [D,D,,]x [B,,F,,B,,,]x| \
+[C,G,,C,,]x [C,E,,C,,]G,, [D,A,,D,,]x [D,B,,D,,]x| \
+[C,G,,C,,]x [C,C,,]E,, [D,A,,D,,]x [B,,F,,B,,,]D,,|
+[C,C,,]x [C,G,,C,,]E,, [D,D,,]x [D,A,,D,,]x| \
+[C,C,,]G,, [C,G,,C,,]E,, [D,D,,]x [B,,F,,B,,,]x| \
+[C,G,,C,,]x [C,E,,C,,]G,, [D,A,,D,,]x [D,B,,D,,]x| \
+[C,G,,C,,]x [C,C,,]E,, [D,A,,D,,]x [B,,F,,B,,,]D,,|
+[C,C,,G,,,G,,,]x [C,G,,G,,C,,G,,,G,,,][E,,E,,] [D,D,,A,,,A,,,]x [D,A,,A,,D,,A,,,A,,,]x| \
+[C,C,,G,,,G,,,][G,,G,,] [C,G,,G,,C,,G,,,G,,,][E,,E,,] [D,D,,A,,,A,,,]x [B,,F,,F,,B,,,F,,,F,,,]x| \
+[C,G,,G,,C,,G,,,G,,,]x [C,E,,E,,C,,G,,,G,,,][G,,G,,] [D,A,,A,,D,,A,,,A,,,]x [D,B,,B,,D,,A,,,A,,,]x| \
+[C,G,,G,,C,,G,,,G,,,]x [C,C,,G,,,G,,,][E,,E,,] [D,A,,A,,D,,A,,,A,,,]x [B,,F,,F,,B,,,F,,,F,,,][D,,D,,]|
+[C,C,,G,,,G,,,]x [C,G,,G,,C,,G,,,G,,,][E,,E,,] [D,D,,A,,,A,,,]x [D,A,,A,,D,,A,,,A,,,]x| \
+[C,C,,G,,,G,,,][G,,G,,] [C,G,,G,,C,,G,,,G,,,][E,,E,,] [D,D,,A,,,A,,,]x [B,,F,,F,,B,,,F,,,F,,,]x| \
+[C,G,,G,,C,,G,,,G,,,]x [C,E,,E,,C,,G,,,G,,,][G,,G,,] [D,A,,A,,D,,A,,,A,,,]x [D,B,,B,,D,,A,,,A,,,]x| \
+[C,G,,G,,C,,G,,,G,,,]x [C,C,,G,,,G,,,][E,,E,,] [D,A,,A,,D,,A,,,A,,,]x [B,,F,,F,,B,,,F,,,F,,,][D,,D,,]|
+[C,C,,G,,,G,,,]x [C,G,,C,,G,,,G,,,]E,, [D,D,,A,,,A,,,]x [D,A,,D,,A,,,A,,,]x| \
+[C,C,,G,,,G,,,]G,, [C,G,,C,,G,,,G,,,]E,, [D,D,,A,,,A,,,]x [B,,F,,B,,,F,,,F,,,]x| \
+[C,G,,C,,G,,,G,,,]x [C,E,,C,,G,,,G,,,]G,, [D,A,,D,,A,,,A,,,]x [D,B,,D,,A,,,A,,,]x| \
+[C,G,,C,,G,,,G,,,]x [C,C,,G,,,G,,,]E,, [D,A,,D,,A,,,A,,,]x [B,,F,,B,,,F,,,F,,,]D,,|
+[C,C,,G,,,G,,,]x [C,G,,C,,G,,,G,,,]E,, [D,D,,A,,,A,,,]x [D,A,,D,,A,,,A,,,]x| \
+[C,C,,G,,,G,,,]G,, [C,G,,C,,G,,,G,,,]E,, [D,D,,A,,,A,,,]x [B,,F,,B,,,F,,,F,,,]x| \
+[C,G,,C,,G,,,G,,,]x [C,E,,C,,G,,,G,,,]G,, [D,A,,D,,A,,,A,,,]x [D,B,,D,,A,,,A,,,]x| \
+[C,G,,C,,G,,,G,,,]x [C,C,,G,,,G,,,]E,, [D,A,,D,,A,,,A,,,]x [B,,F,,B,,,F,,,F,,,]D,,|
+[C,G,,G,,C,,C,,G,,,]x [G,,G,,C,,C,,]x [A,,A,,D,,D,,]x [A,,A,,D,,D,,]x| \
+[G,,G,,C,,C,,]x [G,,G,,C,,C,,]x [A,,A,,D,,D,,]x [F,,F,,B,,,B,,,]x| \
+[G,,C,,]x [G,,C,,]x [A,,D,,]x [A,,D,,]x| \
+[G,,C,,]x [G,,C,,]x [A,,D,,]x [F,,B,,,]x|
+C,,

@@ -1,0 +1,19 @@
+X: 1
+T: 15A_Heartbeat_Garaheth_Sacrifice_Area_EO_Roof_Drums
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=150
+% Last note suggests Locrian mode tune
+K:B % 5 sharps
+V:1
+%%MIDI channel 10
+B,,,3/2x/2 B,,,3/2x4x/2| \
+B,,,3/2x/2 B,,,3/2x4x/2| \
+B,,,3/2x/2 B,,,3/2x4x/2| \
+B,,,3/2x/2 B,,,3/2x3B,,,3/2|
+x/2B,,,3/2 x4 x/2B,,,3/2| \
+x/2B,,,3/2 x4 x/2B,,,3/2| \
+x/2B,,,3/2 x4 x/2B,,,3/2| \
+x/2B,,,3/2 

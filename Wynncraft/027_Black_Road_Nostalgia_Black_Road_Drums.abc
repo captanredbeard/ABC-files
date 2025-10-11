@@ -1,0 +1,59 @@
+X: 1
+T: 027_Black_Road_Nostalgia_Black_Road_Drums
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Lydian mode tune
+K:F# % 6 sharps
+V:1
+%%MIDI channel 10
+x8| \
+x8| \
+x8| \
+x8|
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x|
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x|
+x8| \
+x8| \
+x8| \
+x8|
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x|
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x|
+x8| \
+x8| \
+x8| \
+x8|
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x|
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x|
+x8| \
+x8| \
+x8| \
+x8|
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x|
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,x| \
+x2 E,,x3 E,,

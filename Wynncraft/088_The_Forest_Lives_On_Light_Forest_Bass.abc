@@ -1,0 +1,119 @@
+X: 1
+T: 088_The_Forest_Lives_On_Light_Forest_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:D % 2 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+B,,,x6x| \
+A,,,x6x| \
+B,,,x6x| \
+D,,x3 E,,x3|
+B,,,x6x| \
+A,,,x6x| \
+B,,,x6x| \
+D,,x3 E,,x3|
+B,,,x F,,,x B,,,B,,, B,,,B,,,/2B,,,/2| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,| \
+F,,,x C,,x F,,,x C,,x|
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,| \
+F,,,x C,,x F,,,x C,,x|
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,| \
+B,,,x F,,,x B,,,x F,,,B,,,|
+D,,x A,,,x E,,x B,,,x| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,| \
+B,,,x F,,,x B,,,x F,,,B,,,|
+D,,x A,,,x E,,x B,,,x| \
+B,,,x F,,,x B,,,x F,,,x| \
+B,,,x F,,,x B,,,x F,,,x| \
+A,,,x E,,x A,,,x E,,x|
+A,,,x E,,x A,,,x E,,x| \
+B,,,x F,,,x B,,,x F,,,x| \
+B,,,x F,,,x B,,,x F,,,x| \
+A,,,x E,,x A,,,x E,,x|
+A,,,x E,,x A,,,x E,,x| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,| \
+F,,,x C,,x F,,,x C,,x|
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,| \
+F,,,x C,,x F,,,x C,,x|
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,| \
+F,,,x C,,x F,,,x C,,x|
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,| \
+F,,,x C,,x F,,,x C,,x|
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x6x| \
+A,,,x6x| \
+B,,,x6x|
+D,,x3 E,,x3| \
+B,,,x6x| \
+A,,,x6x| \
+B,,,x6x|
+D,,x3 E,,x3| \
+B,,,x F,,,x B,,,B,,, B,,,B,,,/2B,,,/2| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,|
+F,,,x C,,x F,,,x C,,x| \
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,|
+F,,,x C,,x F,,,x C,,x| \
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,|
+B,,,x F,,,x B,,,x F,,,B,,,| \
+D,,x A,,,x E,,x B,,,x| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,|
+B,,,x F,,,x B,,,x F,,,B,,,| \
+D,,x A,,,x E,,x B,,,x| \
+B,,,x F,,,x B,,,x F,,,x| \
+B,,,x F,,,x B,,,x F,,,x|
+A,,,x E,,x A,,,x E,,x| \
+A,,,x E,,x A,,,x E,,x| \
+B,,,x F,,,x B,,,x F,,,x| \
+B,,,x F,,,x B,,,x F,,,x|
+A,,,x E,,x A,,,x E,,x| \
+A,,,x E,,x A,,,x E,,x| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,|
+F,,,x C,,x F,,,x C,,x| \
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,|
+F,,,x C,,x F,,,x C,,x| \
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,|
+F,,,x C,,x F,,,x C,,x| \
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,x F,,,x B,,,x/2F,,,x/2B,,,| \
+A,,,x E,,x A,,,x/2E,,x/2A,,,|
+F,,,x C,,x F,,,x C,,x| \
+G,,,x D,,x G,,,x D,,B,,,| \
+B,,,

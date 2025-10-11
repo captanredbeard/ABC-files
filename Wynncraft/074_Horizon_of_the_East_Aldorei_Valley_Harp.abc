@@ -1,0 +1,117 @@
+X: 1
+T: 074_Horizon_of_the_East_Aldorei_Valley_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests minor mode tune
+K:Eb % 3 flats
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+Cx [GE]x A,x [EC]x| \
+Cx [GE]x Fx [C=A,]x| \
+Cx [GE]x _A,x [EC]x| \
+Cx [GE]x Fx [C=A,]x|
+[EC]x [GE]x [_AA,]x [EC]x| \
+[GC]F [GE]G, Fx [C=A,]x| \
+[GC]F [GE]G, Fx [GC=A,]x| \
+Cx [GE]x G,x [GE]x|
+[EC]x [GE]x [c_AA,]x [EC]x| \
+[GC]F [GE]G, [cF]x [C=A,]x| \
+[GC]F [GE]G, [cF]x [BGC=A,]x| \
+[cC]x [GE]x G,x [GE]x|
+Ex [GB,G,]x [_AB,]x [B,G,]x| \
+Fx [EC=A,]x [FC]x [GC=A,]x| \
+[GEC]x [GE]x G,x [GE]x| \
+Cx [GE]x G,x [GE]x|
+Ex [GB,G,]x [_AB,]x [BB,G,]x| \
+[cF]x [EC=A,]x [cFC]x [BGC=A,]x| \
+[cGC]x [GE]x [GG,]x [GE]x| \
+[EC]x [GE]x G,x [GE]D|
+[EC]x [GE]x [c_AA,]x [EC]x| \
+[GC]F [GE]G, [cF]x [C=A,]x| \
+[GC]F [GE]G, [cF]x [BGC=A,]x| \
+[cC]x [GE]x G,x [GE]x|
+[EC]x [GE]x [c_AA,]x [EC]x| \
+[GC]F [GE]G, [cF]x [C=A,]x| \
+[GC]F [GE]G, [cF]x [BGC=A,]x| \
+[cC]x [GE]x G,x [GE]x|
+Ex [GB,G,]x [_AEB,]x [GB,G,]x| \
+[=AF]x [EC=A,]x [FC]x [BGC=A,]x| \
+[GEC]x [GE]x G,x [GE]x| \
+Cx [GE]x G,x [GE]x|
+[EB,]x [GEB,G,]x [_AFB,]x [BEB,G,]x| \
+[cF]x [EC=A,]x [cFC]x [BGC=A,]x| \
+[cGC]x [GE]x G,x [GE]x| \
+[CG,]x [GE]x G,x [GE]x|
+Ex [GB,G,]x [_AB,]x [BEB,G,]x| \
+[cF]x [EC=A,]x [cFC]x [BGC=A,]x| \
+[cGC]x [GE]x G,x [GE]x| \
+[CG,]x [GE]x G,x [GE]x|
+[EC]x [GE]x [_AA,]x [EC]x| \
+[GC]F [GE]G, Fx [C=A,]x| \
+[GC]F [GE]G, Fx [GC=A,]x| \
+Cx [GE]x G,x [GE]x|
+[EC]x [GE]x [c_AA,]x [EC]x| \
+[GC]F [GE]G, [cF]x [C=A,]x| \
+[GC]F [GE]G, [cF]x [BGC=A,]x| \
+[cC]x [GE]x G,x [GE]x|
+Cx [GE]x _A,x [EC]x| \
+Cx [GE]x Fx [C=A,]x| \
+Cx [GE]x _A,x [EC]x| \
+Cx [GE]x Fx [C=A,]x|
+[EC]x [GE]x [_AA,]x [EC]x| \
+[GC]F [GE]G, Fx [C=A,]x| \
+[GC]F [GE]G, Fx [GC=A,]x| \
+Cx [GE]x G,x [GE]x|
+[EC]x [GE]x [c_AA,]x [EC]x| \
+[GC]F [GE]G, [cF]x [C=A,]x| \
+[GC]F [GE]G, [cF]x [BGC=A,]x| \
+[cC]x [GE]x G,x [GE]x|
+Ex [GB,G,]x [_AB,]x [B,G,]x| \
+Fx [EC=A,]x [FC]x [GC=A,]x| \
+[GEC]x [GE]x G,x [GE]x| \
+Cx [GE]x G,x [GE]x|
+Ex [GB,G,]x [_AB,]x [BB,G,]x| \
+[cF]x [EC=A,]x [cFC]x [BGC=A,]x| \
+[cGC]x [GE]x [GG,]x [GE]x| \
+[EC]x [GE]x G,x [GE]D|
+[EC]x [GE]x [c_AA,]x [EC]x| \
+[GC]F [GE]G, [cF]x [C=A,]x| \
+[GC]F [GE]G, [cF]x [BGC=A,]x| \
+[cC]x [GE]x G,x [GE]x|
+[EC]x [GE]x [c_AA,]x [EC]x| \
+[GC]F [GE]G, [cF]x [C=A,]x| \
+[GC]F [GE]G, [cF]x [BGC=A,]x| \
+[cC]x [GE]x G,x [GE]x|
+Ex [GB,G,]x [_AEB,]x [GB,G,]x| \
+[=AF]x [EC=A,]x [FC]x [BGC=A,]x| \
+[GEC]x [GE]x G,x [GE]x| \
+Cx [GE]x G,x [GE]x|
+[EB,]x [GEB,G,]x [_AFB,]x [BEB,G,]x| \
+[cF]x [EC=A,]x [cFC]x [BGC=A,]x| \
+[cGC]x [GE]x G,x [GE]x| \
+[CG,]x [GE]x G,x [GE]x|
+Ex [GB,G,]x [_AB,]x [BEB,G,]x| \
+[cF]x [EC=A,]x [cFC]x [BGC=A,]x| \
+[cGC]x [GE]x G,x [GE]x| \
+[CG,]x [GE]x G,x [GE]x|
+[EC]x [GE]x [_AA,]x [EC]x| \
+[GC]F [GE]G, Fx [C=A,]x| \
+[GC]F [GE]G, Fx [GC=A,]x| \
+Cx [GE]x G,x [GE]x|
+[EC]x [GE]x [c_AA,]x [EC]x| \
+[GC]F [GE]G, [cF]x [C=A,]x| \
+[GC]F [GE]G, [cF]x [BGC=A,]x| \
+[cC]x [GE]x G,x [GE]x|
+C

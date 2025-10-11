@@ -1,0 +1,112 @@
+X: 1
+T: 004_Triumphant_Citadel_Detlas_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Lydian mode tune
+K:E % 4 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+F,,,x C,,x F,,,x C,,A,,,| \
+B,,,x F,,,x B,,,x F,,,B,,,| \
+A,,,x C,,x A,,,x C,,x| \
+B,,,x D,,x B,,,x D,,x|
+C,,x =F,,x C,,x =F,,x| \
+C,x G,,x C,,x G,,,x| \
+^F,,,x C,,x F,,,x C,,A,,,| \
+F,,,x C,,x F,,,x C,,A,,,|
+E,,x A,,,x D,,x B,,,x| \
+F,,,x C,,x F,,,x C,,x| \
+A,,,x E,,x B,,,x F,,B,,,| \
+F,,,x C,,x F,,,x C,,A,,,|
+F,,,x3 F,,,x3| \
+F,,,x3 F,,,x3| \
+A,,,x3 B,,,x3| \
+F,,,x3 F,,,x3|
+A,,,x A,,x B,,,x B,,x| \
+[F,,F,,,]x6x| \
+[F,,F,,,]x3 [F,,F,,,]x3| \
+[F,,F,,,]x3 [F,,F,,,]x3|
+[A,,A,,,]x3 [B,,B,,,]x3| \
+[F,,F,,,]x3 [F,,F,,,]x3| \
+[A,,A,,,]x3 [B,,B,,,]x3| \
+[F,,F,,,]x3 [F,,F,,,]x3|
+[F,,F,,,]F,,, C,x [F,,F,,,]F,,, C,A,,| \
+[F,,F,,,]F,,, C,x [F,,F,,,]F,,, C,A,,| \
+[A,,A,,,]A,,, C,x [B,,B,,,]B,,, D,x| \
+[F,,F,,,]F,,, C,x [F,,F,,,]F,,, C,A,,|
+[A,,A,,,]A,,, C,x [B,,B,,,]B,,, D,x| \
+[F,,F,,,]F,,, C,x [F,,F,,,]F,,, C,A,,| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+x8| \
+x8|
+x8| \
+x8| \
+F,,,x C,,x F,,,x C,,A,,,| \
+B,,,x F,,,x B,,,x F,,,B,,,|
+A,,,x C,,x A,,,x C,,x| \
+B,,,x D,,x B,,,x D,,x| \
+C,,x =F,,x C,,x =F,,x| \
+C,x G,,x C,,x G,,,x|
+^F,,,x C,,x F,,,x C,,A,,,| \
+F,,,x C,,x F,,,x C,,A,,,| \
+E,,x A,,,x D,,x B,,,x| \
+F,,,x C,,x F,,,x C,,x|
+A,,,x E,,x B,,,x F,,B,,,| \
+F,,,x C,,x F,,,x C,,A,,,| \
+F,,,x3 F,,,x3| \
+F,,,x3 F,,,x3|
+A,,,x3 B,,,x3| \
+F,,,x3 F,,,x3| \
+A,,,x A,,x B,,,x B,,x| \
+[F,,F,,,]x6x|
+[F,,F,,,]x3 [F,,F,,,]x3| \
+[F,,F,,,]x3 [F,,F,,,]x3| \
+[A,,A,,,]x3 [B,,B,,,]x3| \
+[F,,F,,,]x3 [F,,F,,,]x3|
+[A,,A,,,]x3 [B,,B,,,]x3| \
+[F,,F,,,]x3 [F,,F,,,]x3| \
+[F,,F,,,]F,,, C,x [F,,F,,,]F,,, C,A,,| \
+[F,,F,,,]F,,, C,x [F,,F,,,]F,,, C,A,,|
+[A,,A,,,]A,,, C,x [B,,B,,,]B,,, D,x| \
+[F,,F,,,]F,,, C,x [F,,F,,,]F,,, C,A,,| \
+[A,,A,,,]A,,, C,x [B,,B,,,]B,,, D,x| \
+[F,,F,,,]F,,, C,x [F,,F,,,]F,,, C,A,,|

@@ -1,0 +1,94 @@
+X: 1
+T: 082_City_in_the_Sky_Ahmsord_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Phrygian mode tune
+K:E % 4 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+x8| \
+x8| \
+x8| \
+x8|
+C,,x2C,, A,,,x2A,,,| \
+C,,x2C,, F,,,x2F,,,| \
+C,,x2C,, A,,,x2A,,,| \
+F,,,x2F,,, G,,,x G,,G,,,|
+[C,C,,]x2C,, A,,,x2A,,,| \
+C,,x2C,, F,,,x2F,,,| \
+C,,x2C,, A,,,x2A,,,| \
+F,,,x2F,,, G,,,x G,,x|
+[C,G,,C,,]x [G,,E,,]C,,/2-[G,,/2-E,,/2-C,,/2] [A,,/2-G,,/2F,,/2-E,,/2A,,,/2-][A,,/2F,,/2A,,,/2]B,, A,,[F,,A,,,]| \
+[G,,E,,C,,]x C,[C,/2-C,,/2-][C,/2G,,/2-C,,/2] [G,,/2F,,/2-F,,,/2-][F,,/2F,,,/2]x2[F,,F,,,]| \
+[C,C,,]x2[C,C,,] [A,,A,,,]x2[A,,A,,,]| \
+[F,,F,,,]x A,,F,,, [G,,G,,,]x G,,,x|
+C,,C, G,,E,, xB,, F,,D,,| \
+xA,, E,,C,, xG,, D,,[=C,,G,,,]| \
+^C,,C, [G,,C,,]E,, B,,,B,, [F,,B,,,]D,,| \
+A,,,A,, [E,,A,,,]C,, G,,,G,, [D,,G,,,]x|
+x8| \
+[C,C,,]x C,C,, [A,,A,,,]x A,,A,,,| \
+[C,C,,]x C,C,, [F,,F,,,]x F,,F,,,| \
+[C,C,,]x C,C,, [A,,A,,,]x A,,A,,,|
+[F,,F,,,]x F,,F,,, [G,,G,,,]x G,,G,,,| \
+[C,C,,]x C,C,, [A,,A,,,]x A,,A,,,| \
+[C,C,,]x C,C,, [F,,F,,,]x F,,F,,,| \
+[C,C,,]x C,C,, [A,,A,,,]x A,,A,,,|
+[F,,F,,,]x F,,F,,, [G,,G,,,]x G,,G,,,| \
+[C,G,,C,,]x [C,G,,E,,]C,,/2-[G,,/2-E,,/2-C,,/2] [A,,/2-G,,/2F,,/2-E,,/2A,,,/2-][A,,/2F,,/2A,,,/2]B,, A,,[F,,A,,,]| \
+[C,G,,E,,C,,]x C,[C,/2-G,,/2C,,/2-][C,/2G,,/2-C,,/2] [G,,/2F,,/2-F,,,/2-][F,,/2F,,,/2]x F,,F,,,| \
+[C,C,,]x C,C,, [A,,A,,,]x A,,A,,,|
+[F,,F,,,]x F,,F,,, [G,,G,,,]x G,,G,,,| \
+C,,C, [G,,C,,]E,, B,,,B,, [F,,B,,,]D,,| \
+A,,,A,, [E,,A,,,]C,, G,,,G,, [D,,G,,,]=C,,| \
+^C,,C, [G,,C,,]E,, B,,,B,, [F,,B,,,]D,,|
+A,,,A,, [E,,A,,,]C,, G,,,G,, [D,,G,,,]x| \
+x8| \
+x8| \
+x8|
+x8| \
+C,,x2C,, A,,,x2A,,,| \
+C,,x2C,, F,,,x2F,,,| \
+C,,x2C,, A,,,x2A,,,|
+F,,,x2F,,, G,,,x G,,G,,,| \
+[C,C,,]x2C,, A,,,x2A,,,| \
+C,,x2C,, F,,,x2F,,,| \
+C,,x2C,, A,,,x2A,,,|
+F,,,x2F,,, G,,,x G,,x| \
+[C,G,,C,,]x [G,,E,,]C,,/2-[G,,/2-E,,/2-C,,/2] [A,,/2-G,,/2F,,/2-E,,/2A,,,/2-][A,,/2F,,/2A,,,/2]B,, A,,[F,,A,,,]| \
+[G,,E,,C,,]x C,[C,/2-C,,/2-][C,/2G,,/2-C,,/2] [G,,/2F,,/2-F,,,/2-][F,,/2F,,,/2]x2[F,,F,,,]| \
+[C,C,,]x2[C,C,,] [A,,A,,,]x2[A,,A,,,]|
+[F,,F,,,]x A,,F,,, [G,,G,,,]x G,,,x| \
+C,,C, G,,E,, xB,, F,,D,,| \
+xA,, E,,C,, xG,, D,,[=C,,G,,,]| \
+^C,,C, [G,,C,,]E,, B,,,B,, [F,,B,,,]D,,|
+A,,,A,, [E,,A,,,]C,, G,,,G,, [D,,G,,,]x| \
+x8| \
+[C,C,,]x C,C,, [A,,A,,,]x A,,A,,,| \
+[C,C,,]x C,C,, [F,,F,,,]x F,,F,,,|
+[C,C,,]x C,C,, [A,,A,,,]x A,,A,,,| \
+[F,,F,,,]x F,,F,,, [G,,G,,,]x G,,G,,,| \
+[C,C,,]x C,C,, [A,,A,,,]x A,,A,,,| \
+[C,C,,]x C,C,, [F,,F,,,]x F,,F,,,|
+[C,C,,]x C,C,, [A,,A,,,]x A,,A,,,| \
+[F,,F,,,]x F,,F,,, [G,,G,,,]x G,,G,,,| \
+[C,G,,C,,]x [C,G,,E,,]C,,/2-[G,,/2-E,,/2-C,,/2] [A,,/2-G,,/2F,,/2-E,,/2A,,,/2-][A,,/2F,,/2A,,,/2]B,, A,,[F,,A,,,]| \
+[C,G,,E,,C,,]x C,[C,/2-G,,/2C,,/2-][C,/2G,,/2-C,,/2] [G,,/2F,,/2-F,,,/2-][F,,/2F,,,/2]x F,,F,,,|
+[C,C,,]x C,C,, [A,,A,,,]x A,,A,,,| \
+[F,,F,,,]x F,,F,,, [G,,G,,,]x G,,G,,,| \
+C,,C, [G,,C,,]E,, B,,,B,, [F,,B,,,]D,,| \
+A,,,A,, [E,,A,,,]C,, G,,,G,, [D,,G,,,]=C,,|
+^C,,C, [G,,C,,]E,, B,,,B,, [F,,B,,,]D,,| \
+A,,,A,, [E,,A,,,]C,, G,,,G,, [D,,G,,,]

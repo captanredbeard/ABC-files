@@ -1,0 +1,57 @@
+X: 1
+T: 152_Part_1_A_Family_Fractured_570_AP_Harp
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=116
+% Last note suggests unknown mode tune
+K:F % 1 flats
+V:1
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+%%MIDI program 6
+A,x Cx Ex Gx| \
+=Bx cx =Bx Gx| \
+A,x Cx Ex Fx| \
+Ax cx =Bx Gx|
+A,x Cx Ex Gx| \
+=Bx fx ex fx| \
+[e=B]x3 [cA]x3| \
+[dA]x6x|
+[DA,]x [_BF]x [AF]x [FD]x| \
+[DB,]x [BF]x [AF]x [FD]x| \
+[CG,]x [GD]x [FD]x [EC]x| \
+[CA,]x [GC]x [FC]x [CA,]x|
+[DB,]x4x [CA,][B,G,]| \
+[CA,]x3 [B,G,]x [A,G,]x| \
+[dDA,]x [BF]x [AF]x [dFD]e| \
+[fDB,]x [BF]x [AF]x [fFD]f|
+[eCG,]x [GD]x [FD]x [cEC]x| \
+[ACA,]x [GC]x [FC]x [AE]x| \
+[BDA,]x [AF]x [GE]x [fFD]x| \
+[eDB,]x [BF]x [cGE]x [AEC]x|
+[dAFD]A, EA, AA, EA,| \
+DA, EA, FA, _GA,| \
+[_DA,]x6x| \
+x8|
+x8| \
+x8| \
+x8| \
+x6 [BB,][_A_A,]|
+[=AEA,]x [AEA,]x [A=DA,]x [AEA,]x| \
+[AEA,]x [AFA,]x [A=GA,]x [AFA,]x| \
+[AEA,]x [AEA,]x [ADA,]x [AEA,]x| \
+[AEA,]x [AFA,]x [AGA,]x [AFA,]x|
+[AEA,]x [AEA,]x [ADA,]x [AEA,]x| \
+[AEA,]x [AFA,]x [AGA,]x [AFA,]x| \
+[AEA,]x [AFA,]x [AGA,]x [=BAE=B,]x| \
+[cAEA,][AEA,] d[A_EA,] [_eA=EA,]x [eAFA,][AEA,]|
+[f=BE=B,]

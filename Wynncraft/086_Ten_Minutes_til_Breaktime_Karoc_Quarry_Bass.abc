@@ -1,0 +1,81 @@
+X: 1
+T: 086_Ten_Minutes_til_Breaktime_Karoc_Quarry_Bass
+O: Converted by midi2abc via Captanredbeard's Script
+%***Missing time signature meta command in MIDI file
+M: 4/4
+L: 1/8
+Q:1/4=100
+% Last note suggests Dorian mode tune
+K:C % 0 sharps
+V:1
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+%%MIDI program 32
+D,,x D,,G,, xG,, D,,x| \
+D,,G,, xG,, D,,x D,,G,,| \
+xG,, F,,x F,,E,, xE,,| \
+D,,x D,,G,, xG,, D,,x|
+D,,G,, xG,, D,,x D,,G,,| \
+xG,, F,,x F,,A,, xA,,| \
+D,,x D,,G,, xG,, D,,x| \
+D,,G,, xG,, D,,x D,,G,,|
+xG,, F,,x F,,E,, xE,,| \
+D,,x D,,G,, xG,, D,,x| \
+D,,G,, xG,, D,,x D,,G,,| \
+xG,, F,,x F,,A,, xA,,|
+D,,x D,,G,, xG,, D,,x| \
+D,,G,, xG,, D,,x D,,G,,| \
+xG,, F,,x F,,E,, xE,,| \
+D,,x D,,G,, xG,, D,,x|
+D,,G,, xG,, D,,x D,,G,,| \
+xG,, F,,x F,,A,, xA,,| \
+[F,,D,,]x [F,,D,,][B,,G,,] x[B,,G,,] [A,,D,,]x| \
+[A,,D,,][B,,G,,] x[B,,G,,] [A,,D,,]x [A,,D,,][D,G,,]|
+x[D,G,,] [^A,,F,,]x [^A,,F,,][=A,,E,,] x[A,,E,,]| \
+[F,,D,,]x [F,,D,,][B,,G,,] x[B,,G,,] [A,,D,,]x| \
+[A,,D,,][B,,G,,] x[B,,G,,] [A,,D,,]x [A,,D,,][D,G,,]| \
+x[D,G,,] [^A,,F,,]x [^A,,F,,][^C,=A,,] x[^C,A,,]|
+[D,F,,D,,A,,,]x [F,,D,,A,,,][B,,G,,G,,,] x[B,,G,,G,,,] [A,,D,,A,,,]x| \
+[A,,D,,A,,,][B,,G,,G,,,] x[B,,G,,G,,,] [A,,D,,A,,,]x [A,,D,,A,,,][D,G,,G,,,]| \
+x[D,G,,G,,,] [^A,,F,,^A,,,]x [^A,,F,,^A,,,][=A,,E,,A,,,] x[A,,E,,A,,,]| \
+[F,,D,,A,,,]x [F,,D,,A,,,][B,,G,,G,,,] x[B,,G,,G,,,] [A,,D,,A,,,]x|
+[A,,D,,A,,,][B,,G,,G,,,] x[B,,G,,G,,,] [A,,D,,A,,,]x [A,,D,,A,,,][D,G,,G,,,]| \
+x[D,G,,G,,,] [^A,,F,,^A,,,]x [^A,,F,,^A,,,][^C,=A,,^C,,] x[^C,A,,^C,,]| \
+D,,x D,,G,, xG,, D,,x| \
+D,,G,, xG,, D,,x D,,G,,|
+xG,, F,,x F,,E,, xE,,| \
+D,,x D,,G,, xG,, D,,x| \
+D,,G,, xG,, D,,x D,,G,,| \
+xG,, F,,x F,,A,, xA,,|
+D,,x D,,G,, xG,, D,,x| \
+D,,G,, xG,, D,,x D,,G,,| \
+xG,, F,,x F,,E,, xE,,| \
+D,,x D,,G,, xG,, D,,x|
+D,,G,, xG,, D,,x D,,G,,| \
+xG,, F,,x F,,A,, xA,,| \
+D,,x D,,G,, xG,, D,,x| \
+D,,G,, xG,, D,,x D,,G,,|
+xG,, F,,x F,,E,, xE,,| \
+D,,x D,,G,, xG,, D,,x| \
+D,,G,, xG,, D,,x D,,G,,| \
+xG,, F,,x F,,A,, xA,,|
+[F,,D,,]x [F,,D,,][B,,G,,] x[B,,G,,] [A,,D,,]x| \
+[A,,D,,][B,,G,,] x[B,,G,,] [A,,D,,]x [A,,D,,][D,G,,]| \
+x[D,G,,] [^A,,F,,]x [^A,,F,,][=A,,E,,] x[A,,E,,]| \
+[F,,D,,]x [F,,D,,][B,,G,,] x[B,,G,,] [A,,D,,]x|
+[A,,D,,][B,,G,,] x[B,,G,,] [A,,D,,]x [A,,D,,][D,G,,]| \
+x[D,G,,] [^A,,F,,]x [^A,,F,,][^C,=A,,] x[^C,A,,]| \
+[D,F,,D,,A,,,]x [F,,D,,A,,,][B,,G,,G,,,] x[B,,G,,G,,,] [A,,D,,A,,,]x| \
+[A,,D,,A,,,][B,,G,,G,,,] x[B,,G,,G,,,] [A,,D,,A,,,]x [A,,D,,A,,,][D,G,,G,,,]|
+x[D,G,,G,,,] [^A,,F,,^A,,,]x [^A,,F,,^A,,,][=A,,E,,A,,,] x[A,,E,,A,,,]| \
+[F,,D,,A,,,]x [F,,D,,A,,,][B,,G,,G,,,] x[B,,G,,G,,,] [A,,D,,A,,,]x| \
+[A,,D,,A,,,][B,,G,,G,,,] x[B,,G,,G,,,] [A,,D,,A,,,]x [A,,D,,A,,,][D,G,,G,,,]| \
+x[D,G,,G,,,] [^A,,F,,^A,,,]x [^A,,F,,^A,,,][^C,=A,,^C,,] x[^C,A,,^C,,]|
+D,,
